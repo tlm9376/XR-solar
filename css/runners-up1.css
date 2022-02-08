@@ -1,0 +1,942 @@
+/* screen - runners-up-2 */
+
+.runners-up-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 800px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.runners-up-2 .overlap-group2 {
+  height: 1444px;
+  margin-left: -720px;
+  margin-top: -456.24px;
+  position: relative;
+  width: 2055px;
+}
+
+.runners-up-2 .rectangle-41 {
+  background-color: var(--mandy);
+  height: 801px;
+  left: 704px;
+  position: absolute;
+  top: 455px;
+  width: 1304px;
+}
+
+.runners-up-2 .ellipse-20 {
+  background-color: var(--goldenrod);
+  border-radius: 710.76px/643.06px;
+  height: 1286px;
+  left: -55px;
+  opacity: 1.0;
+  position: absolute;
+  top: 79px;
+  transform: rotate(269.00deg);
+  width: 1422px;
+}
+
+.runners-up-2 .group-100 {
+  background-image: url(../img/group-99-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 365px;
+  left: 1532px;
+  position: absolute;
+  top: 804px;
+  width: 269px;
+}
+
+.runners-up-2 .hospitalized-in-utop {
+  cursor: pointer;
+  left: 819px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 543px;
+  width: 543px;
+}
+
+.runners-up-2 .surname {
+  cursor: pointer;
+  left: 819px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 677px;
+  width: 452px;
+}
+
+.runners-up-2 .automata-albatross-by-robin-happel {
+  cursor: pointer;
+  left: 819px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 791px;
+  width: 452px;
+}
+
+.runners-up-2 .return-to-kiribati-by-alexandra-porter {
+  cursor: pointer;
+  left: 819px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 917px;
+  width: 452px;
+}
+
+.runners-up-2 .surname-1 {
+  cursor: pointer;
+  left: 819px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 1044px;
+  width: 452px;
+}
+
+.runners-up-2 .runners-up {
+  color: var(--goldenrod);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 119px;
+  font-weight: 400;
+  height: 84px;
+  left: 1239px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 592px;
+  white-space: nowrap;
+  width: 816px;
+}
+
+.runners-up-2 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-53@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 186px;
+  justify-content: flex-end;
+  left: 1782px;
+  min-width: 247px;
+  padding: 22.6px 64.5px;
+  position: absolute;
+  top: 416px;
+}
+
+.runners-up-2 .group-42 {
+  display: flex;
+  height: 102px;
+  width: 101px;
+}
+
+.runners-up-2 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 101.23px;
+}
+
+.runners-up-2 .overlap-group {
+  height: 102px;
+  position: relative;
+  width: 101px;
+}
+
+.runners-up-2 .path-4 {
+  height: 26px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 94px;
+}
+
+.runners-up-2 .group-38 {
+  display: flex;
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.runners-up-2 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 101.23px;
+}
+
+.runners-up-2 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 17.2px 0;
+  width: 101.23px;
+}
+
+.runners-up-2 .group-2-2 {
+  background-image: url(../img/path-5-2-53@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 26px;
+  width: 94px;
+}
+
+.runners-up-2 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 887px;
+  min-width: 132px;
+  position: absolute;
+  top: 482px;
+}
+
+.runners-up-2 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.runners-up-2 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.runners-up-2 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.runners-up-2 .component-7-213 {
+  display: flex;
+  height: 45px;
+  left: 765px;
+  position: absolute;
+  top: 486px;
+  width: 86px;
+}
+
+.runners-up-2 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.runners-up-2 .component-9-212 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1153px;
+  position: absolute;
+  top: 487px;
+  width: 110px;
+}
+
+.runners-up-2 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.runners-up-2 .component-3-211 {
+  display: flex;
+  height: 46px;
+  left: 1013px;
+  position: absolute;
+  top: 486px;
+  width: 172px;
+}
+
+.runners-up-2 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.runners-up-2 .component-8-247 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1303px;
+  position: absolute;
+  top: 487px;
+  width: 103px;
+}
+
+.runners-up-2 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - runners-up-3 */
+
+.runners-up-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1194px;
+  overflow: hidden;
+  width: 834px;
+}
+
+.runners-up-3 .overlap-group2-1 {
+  height: 1650px;
+  margin-left: -671px;
+  margin-top: -455.75px;
+  position: relative;
+  width: 1623px;
+}
+
+.runners-up-3 .rectangle-41-1 {
+  background-color: var(--mandy);
+  height: 1195px;
+  left: 671px;
+  position: absolute;
+  top: 455px;
+  width: 834px;
+}
+
+.runners-up-3 .ellipse-20-1 {
+  background-color: var(--goldenrod);
+  border-radius: 710.76px/643.06px;
+  height: 1286px;
+  left: -55px;
+  opacity: 1.0;
+  position: absolute;
+  top: 79px;
+  transform: rotate(269.00deg);
+  width: 1422px;
+}
+
+.runners-up-3 .group-100-1 {
+  background-image: url(../img/group-99-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 365px;
+  left: 747px;
+  position: absolute;
+  top: 1212px;
+  width: 269px;
+}
+
+.runners-up-3 .hospitalized-in-utop-1 {
+  cursor: pointer;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 543px;
+  width: 543px;
+}
+
+.runners-up-3 .surname-2 {
+  cursor: pointer;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 677px;
+  width: 452px;
+}
+
+.runners-up-3 .automata-albatross-by-robin-happel-1 {
+  cursor: pointer;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 791px;
+  width: 452px;
+}
+
+.runners-up-3 .return-to-kiribati-by-alexandra-porter-1 {
+  cursor: pointer;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 917px;
+  width: 452px;
+}
+
+.runners-up-3 .surname-3 {
+  cursor: pointer;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 49px;
+  position: absolute;
+  top: 1044px;
+  width: 452px;
+}
+
+.runners-up-3 .runners-up-1 {
+  height: 84px;
+  left: 807px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 1307px;
+  white-space: nowrap;
+  width: 816px;
+}
+
+.runners-up-3 .group-90-1 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-91@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 112px;
+  justify-content: flex-end;
+  left: 1372px;
+  min-width: 148px;
+  padding: 13.9px 37.6px;
+  position: absolute;
+  top: 436px;
+}
+
+.runners-up-3 .group-42-1 {
+  display: flex;
+  height: 62px;
+  width: 61px;
+}
+
+.runners-up-3 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 61.49px;
+}
+
+.runners-up-3 .overlap-group-1 {
+  height: 62px;
+  position: relative;
+  width: 61px;
+}
+
+.runners-up-3 .path-4-1 {
+  height: 16px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 57px;
+}
+
+.runners-up-3 .group-38-2 {
+  display: flex;
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.runners-up-3 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 61.49px;
+}
+
+.runners-up-3 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 10.5px 0;
+  width: 61.49px;
+}
+
+.runners-up-3 .group-2-2-1 {
+  background-image: url(../img/path-5-2-91@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 57px;
+}
+
+.runners-up-3 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 838px;
+  min-width: 132px;
+  position: absolute;
+  top: 482px;
+}
+
+.runners-up-3 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.runners-up-3 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.runners-up-3 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.runners-up-3 .component-7-214 {
+  display: flex;
+  height: 45px;
+  left: 716px;
+  position: absolute;
+  top: 486px;
+  width: 86px;
+}
+
+.runners-up-3 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.runners-up-3 .component-9-213 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1104px;
+  position: absolute;
+  top: 487px;
+  width: 110px;
+}
+
+.runners-up-3 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.runners-up-3 .component-3-212 {
+  display: flex;
+  height: 46px;
+  left: 964px;
+  position: absolute;
+  top: 486px;
+  width: 172px;
+}
+
+.runners-up-3 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.runners-up-3 .component-8-248 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1254px;
+  position: absolute;
+  top: 487px;
+  width: 103px;
+}
+
+.runners-up-3 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - runners-up1 */
+
+.runners-up1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.runners-up1 .overlap-group2-2 {
+  height: 2127px;
+  margin-left: -1036px;
+  margin-top: -671.37px;
+  position: relative;
+  width: 3005px;
+}
+
+.runners-up1 .rectangle-41-2 {
+  background-color: var(--mandy);
+  height: 1080px;
+  left: 1036px;
+  position: absolute;
+  top: 671px;
+  width: 1920px;
+}
+
+.runners-up1 .ellipse-20-2 {
+  background-color: var(--goldenrod);
+  border-radius: 1047px/947.28px;
+  height: 1895px;
+  left: -82px;
+  opacity: 1.0;
+  position: absolute;
+  top: 116px;
+  transform: rotate(269.00deg);
+  width: 2094px;
+}
+
+.runners-up1 .group-100-2 {
+  background-image: url(../img/group-99@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 538px;
+  left: 2198px;
+  position: absolute;
+  top: 1100px;
+  width: 396px;
+}
+
+.runners-up1 .hospitalized-in-utop-2 {
+  cursor: pointer;
+  left: 1205px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 801px;
+  width: 665px;
+}
+
+.runners-up1 .surname-4 {
+  cursor: pointer;
+  left: 1205px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 980px;
+  width: 665px;
+}
+
+.runners-up1 .automata-albatross-by-robin-happel-2 {
+  cursor: pointer;
+  left: 1205px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 1167px;
+  width: 665px;
+}
+
+.runners-up1 .return-to-kiribati-by-alexandra-porter-2 {
+  cursor: pointer;
+  left: 1205px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 1354px;
+  width: 665px;
+}
+
+.runners-up1 .surname-5 {
+  cursor: pointer;
+  left: 1205px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 1541px;
+  width: 665px;
+}
+
+.runners-up1 .runners-up-4 {
+  color: var(--goldenrod);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 119px;
+  font-weight: 400;
+  height: 121px;
+  left: 1658px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 799px;
+  white-space: nowrap;
+  width: 1200px;
+}
+
+.runners-up1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2641px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 596px;
+}
+
+.runners-up1 .group-42-2 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.runners-up1 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.runners-up1 .overlap-group-2 {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.runners-up1 .path-4-2 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.runners-up1 .group-38-4 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.runners-up1 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.runners-up1 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0;
+  width: 149.11px;
+}
+
+.runners-up1 .group-2-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.runners-up1 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 1203px;
+  min-width: 132px;
+  position: absolute;
+  top: 697px;
+}
+
+.runners-up1 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.runners-up1 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.runners-up1 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.runners-up1 .component-7-212 {
+  display: flex;
+  height: 45px;
+  left: 1081px;
+  position: absolute;
+  top: 701px;
+  width: 86px;
+}
+
+.runners-up1 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.runners-up1 .component-9-211 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1469px;
+  position: absolute;
+  top: 702px;
+  width: 110px;
+}
+
+.runners-up1 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.runners-up1 .component-3-210 {
+  display: flex;
+  height: 46px;
+  left: 1329px;
+  position: absolute;
+  top: 701px;
+  width: 172px;
+}
+
+.runners-up1 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.runners-up1 .component-8-246 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1619px;
+  position: absolute;
+  top: 702px;
+  width: 103px;
+}
+
+.runners-up1 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.runners-up1 { 
+    display: none;
+   }
+  .screen.runners-up-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.runners-up1 { 
+    display: none;
+   }
+  .screen.runners-up-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.runners-up-2 { 
+    display: none;
+   }
+  .screen.runners-up-3 { 
+    display: none;
+   }
+}

@@ -1,0 +1,1224 @@
+/* screen - old-man-1 */
+
+.old-man-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 7150px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.old-man-1 .overlap-group3 {
+  height: 7223px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 4390px;
+}
+
+.old-man-1 .rectangle-42 {
+  background-color: var(--vivid-violet);
+  height: 1080px;
+  left: 1235px;
+  opacity: 0.38;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.old-man-1 .ellipse-21 {
+  background-color: var(--white);
+  border-radius: 2195.16px/1645px;
+  height: 3290px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 360px;
+  width: 4390px;
+}
+
+.old-man-1 .rectangle-52 {
+  background-color: var(--thistle);
+  height: 6068px;
+  left: 1235px;
+  opacity: 0.3;
+  position: absolute;
+  top: 1155px;
+  width: 1920px;
+}
+
+.old-man-1 .the-old-man-and-the-bird {
+  height: 121px;
+  left: 1567px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+  width: 1258px;
+}
+
+.old-man-1 .by-al-magnard-paris-france {
+  height: 109px;
+  left: 2361px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 287px;
+  width: 599px;
+}
+
+.old-man-1 .it-had-been {
+  left: 1524px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 1750px;
+  width: 1345px;
+}
+
+.old-man-1 .whats-app-image-2021-12-24-at-94502-am {
+  cursor: pointer;
+  height: 1119px;
+  left: 1558px;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 1275px;
+}
+
+.old-man-1 .illustration-by-dustin-jacobus {
+  height: 109px;
+  left: 1558px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 1578px;
+  width: 477px;
+}
+
+.old-man-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2840px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.old-man-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.old-man-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.old-man-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.old-man-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.old-man-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.old-man-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.old-man-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.old-man-1 .group-2-2 {
+  background-image: url(../img/path-5-2-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.old-man-1 .the-prizes {
+  left: 1312px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.old-man-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 1402px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.old-man-1 .overlap-group1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.old-man-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.old-man-1 .rectangle-49 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.old-man-1 .xr-wordsmiths {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-1 .the-artwork {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-1 .overlap-group1-item {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-1 .component-7-204 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 1280px;
+  position: absolute;
+  top: 100px;
+  width: 98px;
+}
+
+.old-man-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.old-man-1 .component-9-203 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1668px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.old-man-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.old-man-1 .component-3-202 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 1528px;
+  min-width: 172px;
+  position: absolute;
+  top: 105px;
+}
+
+.old-man-1 .overlap-group2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.old-man-1 .stories {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.old-man-1 .rectangle-48 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.old-man-1 .x11-under-winners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.old-man-1 .x19-over-winners {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.old-man-1 .x12-18-winners {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.old-man-1 .honorable-mentions {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.old-man-1 .component-8-238 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1818px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.old-man-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - old-man-2 */
+
+.old-man-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 4618px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.old-man-2 .overlap-group3-1 {
+  height: 4911px;
+  margin-left: -857px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 2994px;
+}
+
+.old-man-2 .rectangle-42-1 {
+  background-color: var(--vivid-violet);
+  height: 736px;
+  left: 845px;
+  opacity: 0.38;
+  position: absolute;
+  top: 36px;
+  width: 1309px;
+}
+
+.old-man-2 .ellipse-21-1 {
+  background-color: var(--white);
+  border-radius: 1497.07px/932.43px;
+  height: 1865px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 302px;
+  width: 2994px;
+}
+
+.old-man-2 .rectangle-52-1 {
+  background-color: var(--thistle);
+  height: 4139px;
+  left: 845px;
+  opacity: 0.3;
+  position: absolute;
+  top: 772px;
+  width: 1309px;
+}
+
+.old-man-2 .the-old-man-and-the-bird-1 {
+  color: var(--azure);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 70px;
+  font-weight: 400;
+  height: 83px;
+  left: 1069px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+  width: 1148px;
+}
+
+.old-man-2 .by-al-magnard-paris-france-1 {
+  height: 125px;
+  left: 1474px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 241px;
+  width: 472px;
+}
+
+.old-man-2 .it-had-been-1 {
+  left: 1040px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1208px;
+  width: 917px;
+}
+
+.old-man-2 .whats-app-image-2021-12-24-at-94502-am-1 {
+  cursor: pointer;
+  height: 763px;
+  left: 1062px;
+  object-fit: cover;
+  position: absolute;
+  top: 364px;
+  width: 870px;
+}
+
+.old-man-2 .illustration-by-dustin-jacobus-1 {
+  height: 79px;
+  left: 1257px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: right;
+  top: 1136px;
+  width: 674px;
+}
+
+.old-man-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1929px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.old-man-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.old-man-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.old-man-2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.old-man-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.old-man-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.old-man-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.old-man-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.old-man-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.old-man-2 .the-prizes-1 {
+  left: 934px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 127px;
+  white-space: nowrap;
+}
+
+.old-man-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 1024px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.old-man-2 .overlap-group1-1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.old-man-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.old-man-2 .rectangle-49-1 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.old-man-2 .xr-wordsmiths-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-2 .the-artwork-1 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-2 .overlap-group1-item-1 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-2 .component-7-203 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 902px;
+  position: absolute;
+  top: 77px;
+  width: 98px;
+}
+
+.old-man-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.old-man-2 .component-9-202 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1290px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.old-man-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.old-man-2 .component-3-201 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 1150px;
+  min-width: 172px;
+  position: absolute;
+  top: 82px;
+}
+
+.old-man-2 .overlap-group2-1 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.old-man-2 .stories-1 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.old-man-2 .rectangle-48-1 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.old-man-2 .x11-under-winners-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.old-man-2 .x19-over-winners-1 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.old-man-2 .x12-18-winners-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.old-man-2 .honorable-mentions-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.old-man-2 .component-8-237 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1440px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.old-man-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - old-man-3 */
+
+.old-man-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3659px;
+  justify-content: center;
+  overflow: hidden;
+  width: 834px;
+}
+
+.old-man-3 .overlap-group2-2 {
+  height: 3683px;
+  margin-top: -24.34px;
+  position: relative;
+  width: 1938px;
+}
+
+.old-man-3 .rectangle-42-2 {
+  background-color: var(--vivid-violet);
+  height: 479px;
+  left: 546px;
+  opacity: 0.38;
+  position: absolute;
+  top: 24px;
+  width: 840px;
+}
+
+.old-man-3 .ellipse-21-2 {
+  background-color: var(--white);
+  border-radius: 969.05px/678.46px;
+  height: 1357px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 223px;
+  width: 1938px;
+}
+
+.old-man-3 .rectangle-52-2 {
+  background-color: var(--thistle);
+  height: 3180px;
+  left: 546px;
+  opacity: 0.3;
+  position: absolute;
+  top: 503px;
+  width: 847px;
+}
+
+.old-man-3 .the-old-man-and-the-bird-2 {
+  color: var(--azure);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 50px;
+  font-weight: 400;
+  height: 55px;
+  left: 690px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 46px;
+  white-space: nowrap;
+  width: 609px;
+}
+
+.old-man-3 .by-al-magnard-paris-france-2 {
+  height: 82px;
+  left: 969px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 183px;
+  width: 318px;
+}
+
+.old-man-3 .it-had-been-2 {
+  left: 672px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 809px;
+  width: 596px;
+}
+
+.old-man-3 .whats-app-image-2021-12-24-at-94502-am-2 {
+  cursor: pointer;
+  height: 494px;
+  left: 690px;
+  object-fit: cover;
+  position: absolute;
+  top: 264px;
+  width: 564px;
+}
+
+.old-man-3 .illustration-by-dustin-jacobus-2 {
+  height: 53px;
+  left: 830px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: right;
+  top: 758px;
+  width: 438px;
+}
+
+.old-man-3 .the-prizes-2 {
+  left: 629px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.old-man-3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 719px;
+  min-width: 132px;
+  position: absolute;
+  top: 50px;
+}
+
+.old-man-3 .overlap-group-2 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.old-man-3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.old-man-3 .rectangle-49-2 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.old-man-3 .xr-wordsmiths-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-3 .the-artwork-2 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-3 .overlap-group-item {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.old-man-3 .component-7-205 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 597px;
+  position: absolute;
+  top: 49px;
+  width: 98px;
+}
+
+.old-man-3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.old-man-3 .component-9-204 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 985px;
+  position: absolute;
+  top: 55px;
+  width: 110px;
+}
+
+.old-man-3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.old-man-3 .component-3-203 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 845px;
+  min-width: 172px;
+  position: absolute;
+  top: 54px;
+}
+
+.old-man-3 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.old-man-3 .stories-2 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.old-man-3 .rectangle-48-2 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.old-man-3 .x11-under-winners-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.old-man-3 .x19-over-winners-2 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.old-man-3 .x12-18-winners-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.old-man-3 .honorable-mentions-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.old-man-3 .component-8-239 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1135px;
+  position: absolute;
+  top: 55px;
+  width: 103px;
+}
+
+.old-man-3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.old-man-3 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-111@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 115px;
+  justify-content: flex-end;
+  left: 1252px;
+  min-width: 152px;
+  padding: 14.4px 39.4px;
+  position: absolute;
+  top: 0;
+}
+
+.old-man-3 .group-42-2 {
+  display: flex;
+  height: 63px;
+  width: 63px;
+}
+
+.old-man-3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 62.64px;
+}
+
+.old-man-3 .overlap-group-3 {
+  height: 63px;
+  position: relative;
+  width: 63px;
+}
+
+.old-man-3 .path-4-2 {
+  height: 16px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 58px;
+}
+
+.old-man-3 .group-38-4 {
+  display: flex;
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.old-man-3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 62.64px;
+}
+
+.old-man-3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 10.6px 0.0px;
+  width: 62.64px;
+}
+
+.old-man-3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-111@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 58px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.old-man-1 { 
+    display: none;
+   }
+  .screen.old-man-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.old-man-1 { 
+    display: none;
+   }
+  .screen.old-man-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.old-man-2 { 
+    display: none;
+   }
+  .screen.old-man-3 { 
+    display: none;
+   }
+}

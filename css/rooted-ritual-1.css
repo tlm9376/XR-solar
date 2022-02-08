@@ -1,0 +1,757 @@
+/* screen - rooted-ritual-1 */
+
+.rooted-ritual-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 11487px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.rooted-ritual-1 .overlap-group2 {
+  height: 12553px;
+  margin-left: -685px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 3250px;
+}
+
+.rooted-ritual-1 .rectangle-42 {
+  background-color: var(--yellow-green);
+  height: 1080px;
+  left: 685px;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.rooted-ritual-1 .ellipse-21 {
+  background-color: var(--white);
+  border-radius: 1625.18px/1098.5px;
+  height: 2197px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 284px;
+  width: 3250px;
+}
+
+.rooted-ritual-1 .rectangle-56 {
+  background-color: var(--aths-special);
+  height: 11398px;
+  left: 685px;
+  position: absolute;
+  top: 1155px;
+  width: 1920px;
+}
+
+.rooted-ritual-1 .the-rooted-ritual {
+  height: 121px;
+  left: 1069px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 118px;
+  white-space: nowrap;
+  width: 786px;
+}
+
+.rooted-ritual-1 .rectangle-43 {
+  height: 60px;
+  left: 1209px;
+  object-fit: cover;
+  position: absolute;
+  top: 351px;
+  width: 802px;
+}
+
+.rooted-ritual-1 .paulo-awoke-to-the-s {
+  left: 974px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 424px;
+  width: 1345px;
+}
+
+.rooted-ritual-1 .span1 {
+  color: var(--black);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.rooted-ritual-1 .by-charles-mc-kay {
+  height: 49px;
+  left: 1868px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 209px;
+  width: 289px;
+}
+
+.rooted-ritual-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2290px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.rooted-ritual-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.rooted-ritual-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.rooted-ritual-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.rooted-ritual-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.rooted-ritual-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.rooted-ritual-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.rooted-ritual-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.rooted-ritual-1 .group-2-2 {
+  background-image: url(../img/path-5-2-23@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.rooted-ritual-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 852px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.rooted-ritual-1 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.rooted-ritual-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.rooted-ritual-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.rooted-ritual-1 .component-7-227 {
+  display: flex;
+  height: 45px;
+  left: 730px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.rooted-ritual-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.rooted-ritual-1 .component-9-226 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1118px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.rooted-ritual-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.rooted-ritual-1 .component-3-225 {
+  display: flex;
+  height: 46px;
+  left: 978px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.rooted-ritual-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.rooted-ritual-1 .component-8-261 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1268px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.rooted-ritual-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - rooted-ritual-2 */
+
+.rooted-ritual-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 7151px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.rooted-ritual-2 .overlap-group2-1 {
+  height: 7203px;
+  margin-left: -446px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 2171px;
+}
+
+.rooted-ritual-2 .rectangle-42-1 {
+  background-color: var(--yellow-green);
+  height: 721px;
+  left: 443px;
+  position: absolute;
+  top: 51px;
+  width: 1283px;
+}
+
+.rooted-ritual-2 .ellipse-21-1 {
+  background-color: var(--white);
+  border-radius: 1085.72px/577.26px;
+  height: 1155px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 233px;
+  width: 2171px;
+}
+
+.rooted-ritual-2 .rectangle-56-1 {
+  background-color: var(--aths-special);
+  height: 6431px;
+  left: 443px;
+  position: absolute;
+  top: 772px;
+  width: 1283px;
+}
+
+.rooted-ritual-2 .the-rooted-ritual-1 {
+  height: 82px;
+  left: 622px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 81px;
+  white-space: nowrap;
+  width: 612px;
+}
+
+.rooted-ritual-2 .rectangle-43-1 {
+  height: 40px;
+  left: 818px;
+  object-fit: cover;
+  position: absolute;
+  top: 278px;
+  width: 536px;
+}
+
+.rooted-ritual-2 .paulo-awoke-to-the-s-1 {
+  color: var(--black);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 637px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 358px;
+  width: 899px;
+}
+
+.rooted-ritual-2 .span1-1 {
+  font-style: italic;
+}
+
+.rooted-ritual-2 .by-charles-mc-kay-1 {
+  height: 33px;
+  left: 1232px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 183px;
+  width: 194px;
+}
+
+.rooted-ritual-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1518px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.rooted-ritual-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.rooted-ritual-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.rooted-ritual-2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.rooted-ritual-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.rooted-ritual-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.rooted-ritual-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.rooted-ritual-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.rooted-ritual-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-40@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.rooted-ritual-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 613px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.rooted-ritual-2 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.rooted-ritual-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.rooted-ritual-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.rooted-ritual-2 .component-7-228 {
+  display: flex;
+  height: 45px;
+  left: 491px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.rooted-ritual-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.rooted-ritual-2 .component-9-227 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 879px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.rooted-ritual-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.rooted-ritual-2 .component-3-226 {
+  display: flex;
+  height: 46px;
+  left: 739px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.rooted-ritual-2 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.rooted-ritual-2 .component-8-262 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1029px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.rooted-ritual-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - rooted-ritual-3 */
+
+.rooted-ritual-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6027px;
+  overflow: hidden;
+  width: 834px;
+}
+
+.rooted-ritual-3 .overlap-group1-2 {
+  height: 6052px;
+  margin-left: -290px;
+  margin-top: -25.0px;
+  position: relative;
+  width: 1415px;
+}
+
+.rooted-ritual-3 .rectangle-42-2 {
+  background-color: var(--yellow-green);
+  height: 470px;
+  left: 288px;
+  position: absolute;
+  top: 23px;
+  width: 836px;
+}
+
+.rooted-ritual-3 .ellipse-21-2 {
+  background-color: var(--white);
+  border-radius: 707.4px/292.33px;
+  height: 585px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 183px;
+  width: 1415px;
+}
+
+.rooted-ritual-3 .rectangle-56-2 {
+  background-color: var(--aths-special);
+  height: 5559px;
+  left: 288px;
+  position: absolute;
+  top: 493px;
+  width: 836px;
+}
+
+.rooted-ritual-3 .the-rooted-ritual-2 {
+  height: 54px;
+  left: 415px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+  width: 428px;
+}
+
+.rooted-ritual-3 .paulo-awoke-to-the-s-2 {
+  color: var(--black);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  left: 415px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 223px;
+  width: 586px;
+}
+
+.rooted-ritual-3 .span1-2 {
+  font-style: italic;
+}
+
+.rooted-ritual-3 .by-charles-mc-kay-2 {
+  height: 22px;
+  left: 852px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 145px;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.rooted-ritual-3 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  justify-content: flex-end;
+  left: 979px;
+  min-width: 159px;
+  padding: 13.7px 40.8px;
+  position: absolute;
+  top: 0;
+}
+
+.rooted-ritual-3 .group-42-2 {
+  display: flex;
+  height: 66px;
+  width: 66px;
+}
+
+.rooted-ritual-3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.52px;
+}
+
+.rooted-ritual-3 .overlap-group-2 {
+  height: 66px;
+  position: relative;
+  width: 66px;
+}
+
+.rooted-ritual-3 .path-4-2 {
+  height: 17px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 61px;
+}
+
+.rooted-ritual-3 .group-38-4 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.rooted-ritual-3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65.52px;
+}
+
+.rooted-ritual-3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.1px 0;
+  width: 65.52px;
+}
+
+.rooted-ritual-3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-103@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  width: 61px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.rooted-ritual-1 { 
+    display: none;
+   }
+  .screen.rooted-ritual-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.rooted-ritual-1 { 
+    display: none;
+   }
+  .screen.rooted-ritual-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.rooted-ritual-2 { 
+    display: none;
+   }
+  .screen.rooted-ritual-3 { 
+    display: none;
+   }
+}

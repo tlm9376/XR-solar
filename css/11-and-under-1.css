@@ -1,0 +1,7424 @@
+/* screen - 11-and-under-1 */
+
+.x11-and-under-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.x11-and-under-1 .overlap-group3 {
+  height: 1738px;
+  margin-left: -352px;
+  margin-top: -292px;
+  position: relative;
+  width: 2497px;
+}
+
+.x11-and-under-1 .rectangle-16 {
+  background-color: var(--lightning-yellow);
+  height: 1080px;
+  left: 352px;
+  position: absolute;
+  top: 292px;
+  width: 1920px;
+}
+
+.x11-and-under-1 .path-1682 {
+  height: 465px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 514px;
+}
+
+.x11-and-under-1 .path-125 {
+  height: 465px;
+  left: 410px;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 514px;
+}
+
+.x11-and-under-1 .path-1684 {
+  height: 465px;
+  left: 826px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 514px;
+}
+
+.x11-and-under-1 .path-1685 {
+  height: 465px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 514px;
+}
+
+.x11-and-under-1 .path-1687 {
+  height: 465px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 991px;
+  width: 514px;
+}
+
+.x11-and-under-1 .path-1688 {
+  height: 465px;
+  left: 428px;
+  object-fit: cover;
+  position: absolute;
+  top: 745px;
+  width: 514px;
+}
+
+.x11-and-under-1 .path-1683 {
+  height: 465px;
+  left: 410px;
+  object-fit: cover;
+  position: absolute;
+  top: 1261px;
+  width: 514px;
+}
+
+.x11-and-under-1 .group-32 {
+  display: flex;
+  height: 954px;
+  left: 1473px;
+  opacity: 1.0;
+  position: absolute;
+  top: 784px;
+  width: 1024px;
+}
+
+.x11-and-under-1 .group-31 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 1024.12px;
+  padding: 0.0px 0;
+}
+
+.x11-and-under-1 .overlap-group {
+  height: 954px;
+  position: relative;
+  width: 1024px;
+}
+
+.x11-and-under-1 .path-767 {
+  height: 803px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 842px;
+}
+
+.x11-and-under-1 .path-768 {
+  height: 187px;
+  left: 658px;
+  object-fit: cover;
+  position: absolute;
+  top: 464px;
+  width: 366px;
+}
+
+.x11-and-under-1 .path-769 {
+  height: 355px;
+  left: 470px;
+  object-fit: cover;
+  position: absolute;
+  top: 599px;
+  width: 90px;
+}
+
+.x11-and-under-1 .path-770 {
+  height: 253px;
+  left: 354px;
+  object-fit: cover;
+  position: absolute;
+  top: 529px;
+  width: 147px;
+}
+
+.x11-and-under-1 .path-771 {
+  height: 83px;
+  left: 618px;
+  object-fit: cover;
+  position: absolute;
+  top: 386px;
+  width: 285px;
+}
+
+.x11-and-under-1 .path-772 {
+  height: 167px;
+  left: 537px;
+  object-fit: cover;
+  position: absolute;
+  top: 680px;
+  width: 59px;
+}
+
+.x11-and-under-1 .path-773 {
+  height: 118px;
+  left: 745px;
+  object-fit: cover;
+  position: absolute;
+  top: 514px;
+  width: 145px;
+}
+
+.x11-and-under-1 .path-774 {
+  height: 88px;
+  left: 776px;
+  object-fit: cover;
+  position: absolute;
+  top: 472px;
+  width: 145px;
+}
+
+.x11-and-under-1 .path-775 {
+  height: 163px;
+  left: 456px;
+  object-fit: cover;
+  position: absolute;
+  top: 681px;
+  width: 38px;
+}
+
+.x11-and-under-1 .path-776 {
+  height: 13px;
+  left: 477px;
+  object-fit: cover;
+  position: absolute;
+  top: 787px;
+  width: 13px;
+}
+
+.x11-and-under-1 .path-777 {
+  height: 11px;
+  left: 878px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 11px;
+}
+
+.x11-and-under-1 .path-778 {
+  height: 11px;
+  left: 834px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 11px;
+}
+
+.x11-and-under-1 .path-779 {
+  height: 11px;
+  left: 888px;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 11px;
+}
+
+.x11-and-under-1 .path-780 {
+  height: 11px;
+  left: 481px;
+  object-fit: cover;
+  position: absolute;
+  top: 804px;
+  width: 10px;
+}
+
+.x11-and-under-1 .path-781 {
+  height: 11px;
+  left: 564px;
+  object-fit: cover;
+  position: absolute;
+  top: 801px;
+  width: 10px;
+}
+
+.x11-and-under-1 .path-782 {
+  height: 11px;
+  left: 475px;
+  object-fit: cover;
+  position: absolute;
+  top: 768px;
+  width: 10px;
+}
+
+.x11-and-under-1 .path-783 {
+  height: 10px;
+  left: 840px;
+  object-fit: cover;
+  position: absolute;
+  top: 512px;
+  width: 10px;
+}
+
+.x11-and-under-1 .path-784 {
+  height: 10px;
+  left: 480px;
+  object-fit: cover;
+  position: absolute;
+  top: 751px;
+  width: 10px;
+}
+
+.x11-and-under-1 .path-785 {
+  height: 10px;
+  left: 815px;
+  object-fit: cover;
+  position: absolute;
+  top: 588px;
+  width: 9px;
+}
+
+.x11-and-under-1 .path-786 {
+  height: 10px;
+  left: 783px;
+  object-fit: cover;
+  position: absolute;
+  top: 559px;
+  width: 10px;
+}
+
+.x11-and-under-1 .path-787 {
+  height: 9px;
+  left: 865px;
+  object-fit: cover;
+  position: absolute;
+  top: 510px;
+  width: 9px;
+}
+
+.x11-and-under-1 .path-788 {
+  height: 9px;
+  left: 828px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 8px;
+}
+
+.x11-and-under-1 .path-789 {
+  height: 10px;
+  left: 551px;
+  object-fit: cover;
+  position: absolute;
+  top: 728px;
+  width: 8px;
+}
+
+.x11-and-under-1 .path-790 {
+  height: 9px;
+  left: 858px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 9px;
+}
+
+.x11-and-under-1 .path-791 {
+  height: 8px;
+  left: 842px;
+  object-fit: cover;
+  position: absolute;
+  top: 499px;
+  width: 9px;
+}
+
+.x11-and-under-1 .path-792 {
+  height: 8px;
+  left: 557px;
+  object-fit: cover;
+  position: absolute;
+  top: 747px;
+  width: 9px;
+}
+
+.x11-and-under-1 .path-793 {
+  height: 9px;
+  left: 870px;
+  object-fit: cover;
+  position: absolute;
+  top: 528px;
+  width: 8px;
+}
+
+.x11-and-under-1 .path-794 {
+  height: 8px;
+  left: 480px;
+  object-fit: cover;
+  position: absolute;
+  top: 725px;
+  width: 8px;
+}
+
+.x11-and-under-1 .path-795 {
+  height: 8px;
+  left: 564px;
+  object-fit: cover;
+  position: absolute;
+  top: 784px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-796 {
+  height: 7px;
+  left: 487px;
+  object-fit: cover;
+  position: absolute;
+  top: 774px;
+  width: 8px;
+}
+
+.x11-and-under-1 .path-797 {
+  height: 8px;
+  left: 827px;
+  object-fit: cover;
+  position: absolute;
+  top: 586px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-798 {
+  height: 8px;
+  left: 557px;
+  object-fit: cover;
+  position: absolute;
+  top: 819px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-799 {
+  height: 7px;
+  left: 798px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 8px;
+}
+
+.x11-and-under-1 .path-800 {
+  height: 7px;
+  left: 814px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 8px;
+}
+
+.x11-and-under-1 .path-801 {
+  height: 7px;
+  left: 849px;
+  object-fit: cover;
+  position: absolute;
+  top: 524px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-802 {
+  height: 7px;
+  left: 886px;
+  object-fit: cover;
+  position: absolute;
+  top: 528px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-803 {
+  height: 7px;
+  left: 777px;
+  object-fit: cover;
+  position: absolute;
+  top: 545px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-804 {
+  height: 7px;
+  left: 574px;
+  object-fit: cover;
+  position: absolute;
+  top: 797px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-805 {
+  height: 6px;
+  left: 564px;
+  object-fit: cover;
+  position: absolute;
+  top: 766px;
+  width: 6px;
+}
+
+.x11-and-under-1 .path-806 {
+  height: 6px;
+  left: 546px;
+  object-fit: cover;
+  position: absolute;
+  top: 715px;
+  width: 6px;
+}
+
+.x11-and-under-1 .path-807 {
+  height: 5px;
+  left: 764px;
+  object-fit: cover;
+  position: absolute;
+  top: 530px;
+  width: 6px;
+}
+
+.x11-and-under-1 .path-808 {
+  height: 5px;
+  left: 541px;
+  object-fit: cover;
+  position: absolute;
+  top: 605px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-809 {
+  height: 4px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 544px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-810 {
+  height: 4px;
+  left: 560px;
+  object-fit: cover;
+  position: absolute;
+  top: 608px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-811 {
+  height: 4px;
+  left: 556px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-812 {
+  height: 5px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 620px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-813 {
+  height: 3px;
+  left: 666px;
+  object-fit: cover;
+  position: absolute;
+  top: 527px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-814 {
+  height: 3px;
+  left: 527px;
+  object-fit: cover;
+  position: absolute;
+  top: 608px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-815 {
+  height: 3px;
+  left: 584px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-816 {
+  height: 2px;
+  left: 630px;
+  object-fit: cover;
+  position: absolute;
+  top: 574px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-817 {
+  height: 3px;
+  left: 577px;
+  object-fit: cover;
+  position: absolute;
+  top: 591px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-818 {
+  height: 2px;
+  left: 604px;
+  object-fit: cover;
+  position: absolute;
+  top: 572px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-819 {
+  height: 2px;
+  left: 544px;
+  object-fit: cover;
+  position: absolute;
+  top: 628px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-820 {
+  height: 1px;
+  left: 603px;
+  object-fit: cover;
+  position: absolute;
+  top: 583px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-821 {
+  height: 2px;
+  left: 670px;
+  object-fit: cover;
+  position: absolute;
+  top: 527px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-822 {
+  height: 1px;
+  left: 533px;
+  object-fit: cover;
+  position: absolute;
+  top: 609px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-823 {
+  height: 2px;
+  left: 672px;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-824 {
+  height: 1px;
+  left: 557px;
+  object-fit: cover;
+  position: absolute;
+  top: 608px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-825 {
+  height: 1px;
+  left: 546px;
+  object-fit: cover;
+  position: absolute;
+  top: 606px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-826 {
+  height: 1px;
+  left: 607px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 1px;
+}
+
+.x11-and-under-1 .ellipse-2 {
+  background-color: var(--black);
+  border-radius: 0.15px/0.59px;
+  height: 1px;
+  left: 556px;
+  position: absolute;
+  top: 611px;
+  transform: rotate(-36.02deg);
+  width: 1px;
+}
+
+.x11-and-under-1 .path-827 {
+  height: 1px;
+  left: 671px;
+  object-fit: cover;
+  position: absolute;
+  top: 510px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-828 {
+  height: 1px;
+  left: 644px;
+  object-fit: cover;
+  position: absolute;
+  top: 528px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-829 {
+  height: 1px;
+  left: 667px;
+  object-fit: cover;
+  position: absolute;
+  top: 519px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-830 {
+  height: 1px;
+  left: 672px;
+  object-fit: cover;
+  position: absolute;
+  top: 517px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-831 {
+  height: 1px;
+  left: 564px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-832 {
+  height: 1px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-833 {
+  height: 1px;
+  left: 602px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-834 {
+  height: 1px;
+  left: 673px;
+  object-fit: cover;
+  position: absolute;
+  top: 524px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-835 {
+  height: 1px;
+  left: 670px;
+  object-fit: cover;
+  position: absolute;
+  top: 529px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-836 {
+  height: 1px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 605px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-837 {
+  height: 1px;
+  left: 604px;
+  object-fit: cover;
+  position: absolute;
+  top: 584px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-838 {
+  height: 4px;
+  left: 710px;
+  object-fit: cover;
+  position: absolute;
+  top: 555px;
+  width: 4px;
+}
+
+.x11-and-under-1 .path-839 {
+  height: 6px;
+  left: 611px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-840 {
+  height: 7px;
+  left: 719px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-841 {
+  height: 2px;
+  left: 675px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-842 {
+  height: 4px;
+  left: 598px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-843 {
+  height: 2px;
+  left: 624px;
+  object-fit: cover;
+  position: absolute;
+  top: 644px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-844 {
+  height: 2px;
+  left: 617px;
+  object-fit: cover;
+  position: absolute;
+  top: 668px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-845 {
+  height: 3px;
+  left: 697px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-846 {
+  height: 2px;
+  left: 621px;
+  object-fit: cover;
+  position: absolute;
+  top: 661px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-847 {
+  height: 3px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 659px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-848 {
+  height: 4px;
+  left: 708px;
+  object-fit: cover;
+  position: absolute;
+  top: 587px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-849 {
+  height: 3px;
+  left: 631px;
+  object-fit: cover;
+  position: absolute;
+  top: 643px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-850 {
+  height: 3px;
+  left: 668px;
+  object-fit: cover;
+  position: absolute;
+  top: 630px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-851 {
+  height: 3px;
+  left: 711px;
+  object-fit: cover;
+  position: absolute;
+  top: 586px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-852 {
+  height: 2px;
+  left: 696px;
+  object-fit: cover;
+  position: absolute;
+  top: 601px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-853 {
+  height: 2px;
+  left: 595px;
+  object-fit: cover;
+  position: absolute;
+  top: 652px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-854 {
+  height: 2px;
+  left: 648px;
+  object-fit: cover;
+  position: absolute;
+  top: 640px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-855 {
+  height: 2px;
+  left: 643px;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-856 {
+  height: 3px;
+  left: 609px;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-857 {
+  height: 2px;
+  left: 600px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-858 {
+  height: 2px;
+  left: 661px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-859 {
+  height: 2px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 649px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-860 {
+  height: 1px;
+  left: 581px;
+  object-fit: cover;
+  position: absolute;
+  top: 679px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-861 {
+  height: 2px;
+  left: 694px;
+  object-fit: cover;
+  position: absolute;
+  top: 572px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-862 {
+  height: 1px;
+  left: 713px;
+  object-fit: cover;
+  position: absolute;
+  top: 558px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-863 {
+  height: 1px;
+  left: 629px;
+  object-fit: cover;
+  position: absolute;
+  top: 638px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-864 {
+  height: 1px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 638px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-865 {
+  height: 1px;
+  left: 603px;
+  object-fit: cover;
+  position: absolute;
+  top: 663px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-866 {
+  height: 1px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 621px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-867 {
+  height: 1px;
+  left: 725px;
+  object-fit: cover;
+  position: absolute;
+  top: 560px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-868 {
+  height: 1px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 662px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-869 {
+  height: 1px;
+  left: 617px;
+  object-fit: cover;
+  position: absolute;
+  top: 639px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-870 {
+  height: 1px;
+  left: 690px;
+  object-fit: cover;
+  position: absolute;
+  top: 605px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-871 {
+  height: 1px;
+  left: 726px;
+  object-fit: cover;
+  position: absolute;
+  top: 562px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-872 {
+  height: 1px;
+  left: 608px;
+  object-fit: cover;
+  position: absolute;
+  top: 649px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-873 {
+  height: 1px;
+  left: 619px;
+  object-fit: cover;
+  position: absolute;
+  top: 646px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-874 {
+  height: 1px;
+  left: 707px;
+  object-fit: cover;
+  position: absolute;
+  top: 571px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-875 {
+  height: 1px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 671px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-876 {
+  height: 1px;
+  left: 608px;
+  object-fit: cover;
+  position: absolute;
+  top: 671px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-877 {
+  height: 1px;
+  left: 723px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-878 {
+  height: 1px;
+  left: 620px;
+  object-fit: cover;
+  position: absolute;
+  top: 647px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-879 {
+  height: 1px;
+  left: 618px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-880 {
+  height: 1px;
+  left: 721px;
+  object-fit: cover;
+  position: absolute;
+  top: 576px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-881 {
+  height: 2px;
+  left: 721px;
+  object-fit: cover;
+  position: absolute;
+  top: 576px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-882 {
+  height: 1px;
+  left: 602px;
+  object-fit: cover;
+  position: absolute;
+  top: 653px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-88 {
+  height: 1px;
+  left: 572px;
+  object-fit: cover;
+  position: absolute;
+  top: 666px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-884 {
+  height: 1px;
+  left: 699px;
+  object-fit: cover;
+  position: absolute;
+  top: 598px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-885 {
+  height: 1px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 661px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-887 {
+  height: 1px;
+  left: 599px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-8 {
+  height: 1px;
+  left: 652px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-889 {
+  height: 1px;
+  left: 584px;
+  object-fit: cover;
+  position: absolute;
+  top: 661px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-891 {
+  height: 1px;
+  left: 643px;
+  object-fit: cover;
+  position: absolute;
+  top: 642px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-892 {
+  height: 1px;
+  left: 661px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-893 {
+  height: 1px;
+  left: 587px;
+  object-fit: cover;
+  position: absolute;
+  top: 657px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-894 {
+  height: 7px;
+  left: 690px;
+  object-fit: cover;
+  position: absolute;
+  top: 680px;
+  width: 5px;
+}
+
+.x11-and-under-1 .path-895 {
+  height: 3px;
+  left: 661px;
+  object-fit: cover;
+  position: absolute;
+  top: 695px;
+  width: 5px;
+}
+
+.x11-and-under-1 .path-896 {
+  height: 3px;
+  left: 640px;
+  object-fit: cover;
+  position: absolute;
+  top: 707px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-897 {
+  height: 3px;
+  left: 636px;
+  object-fit: cover;
+  position: absolute;
+  top: 700px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-898 {
+  height: 3px;
+  left: 649px;
+  object-fit: cover;
+  position: absolute;
+  top: 710px;
+  width: 4px;
+}
+
+.x11-and-under-1 .path-899 {
+  height: 2px;
+  left: 654px;
+  object-fit: cover;
+  position: absolute;
+  top: 685px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-900 {
+  height: 2px;
+  left: 640px;
+  object-fit: cover;
+  position: absolute;
+  top: 716px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-901 {
+  height: 2px;
+  left: 747px;
+  object-fit: cover;
+  position: absolute;
+  top: 616px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-902 {
+  height: 2px;
+  left: 626px;
+  object-fit: cover;
+  position: absolute;
+  top: 723px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-903 {
+  height: 1px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 688px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-904 {
+  height: 1px;
+  left: 753px;
+  object-fit: cover;
+  position: absolute;
+  top: 624px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-905 {
+  height: 1px;
+  left: 667px;
+  object-fit: cover;
+  position: absolute;
+  top: 693px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-906 {
+  height: 1px;
+  left: 620px;
+  object-fit: cover;
+  position: absolute;
+  top: 724px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-907 {
+  height: 1px;
+  left: 696px;
+  object-fit: cover;
+  position: absolute;
+  top: 688px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-908 {
+  height: 1px;
+  left: 688px;
+  object-fit: cover;
+  position: absolute;
+  top: 686px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-909 {
+  height: 1px;
+  left: 617px;
+  object-fit: cover;
+  position: absolute;
+  top: 715px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-910 {
+  height: 1px;
+  left: 638px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-911 {
+  height: 1px;
+  left: 742px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-912 {
+  height: 1px;
+  left: 708px;
+  object-fit: cover;
+  position: absolute;
+  top: 668px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-913 {
+  height: 1px;
+  left: 632px;
+  object-fit: cover;
+  position: absolute;
+  top: 722px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-914 {
+  height: 1px;
+  left: 629px;
+  object-fit: cover;
+  position: absolute;
+  top: 725px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-915 {
+  height: 1px;
+  left: 628px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-916 {
+  height: 1px;
+  left: 615px;
+  object-fit: cover;
+  position: absolute;
+  top: 714px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-917 {
+  height: 1px;
+  left: 679px;
+  object-fit: cover;
+  position: absolute;
+  top: 694px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-918 {
+  height: 1px;
+  left: 653px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-919 {
+  height: 1px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 679px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-920 {
+  height: 6px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 519px;
+  width: 5px;
+}
+
+.x11-and-under-1 .path-921 {
+  height: 3px;
+  left: 620px;
+  object-fit: cover;
+  position: absolute;
+  top: 465px;
+  width: 5px;
+}
+
+.x11-and-under-1 .path-922 {
+  height: 2px;
+  left: 581px;
+  object-fit: cover;
+  position: absolute;
+  top: 531px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-923 {
+  height: 2px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 525px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-924 {
+  height: 4px;
+  left: 517px;
+  object-fit: cover;
+  position: absolute;
+  top: 550px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-925 {
+  height: 2px;
+  left: 594px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-926 {
+  height: 2px;
+  left: 554px;
+  object-fit: cover;
+  position: absolute;
+  top: 515px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-927 {
+  height: 2px;
+  left: 553px;
+  object-fit: cover;
+  position: absolute;
+  top: 526px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-928 {
+  height: 2px;
+  left: 620px;
+  object-fit: cover;
+  position: absolute;
+  top: 474px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-929 {
+  height: 2px;
+  left: 618px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-930 {
+  height: 2px;
+  left: 556px;
+  object-fit: cover;
+  position: absolute;
+  top: 519px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-931 {
+  height: 1px;
+  left: 587px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-932 {
+  height: 1px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 548px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-933 {
+  height: 1px;
+  left: 623px;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-934 {
+  height: 1px;
+  left: 525px;
+  object-fit: cover;
+  position: absolute;
+  top: 546px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-935 {
+  height: 1px;
+  left: 608px;
+  object-fit: cover;
+  position: absolute;
+  top: 503px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-936 {
+  height: 1px;
+  left: 606px;
+  object-fit: cover;
+  position: absolute;
+  top: 507px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-937 {
+  height: 1px;
+  left: 616px;
+  object-fit: cover;
+  position: absolute;
+  top: 472px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-938 {
+  height: 1px;
+  left: 620px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-939 {
+  height: 2px;
+  left: 542px;
+  object-fit: cover;
+  position: absolute;
+  top: 552px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-940 {
+  height: 1px;
+  left: 590px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-941 {
+  height: 1px;
+  left: 568px;
+  object-fit: cover;
+  position: absolute;
+  top: 526px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-942 {
+  height: 1px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 530px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-943 {
+  height: 1px;
+  left: 554px;
+  object-fit: cover;
+  position: absolute;
+  top: 523px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-944 {
+  height: 1px;
+  left: 537px;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-945 {
+  height: 1px;
+  left: 623px;
+  object-fit: cover;
+  position: absolute;
+  top: 477px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-946 {
+  height: 1px;
+  left: 564px;
+  object-fit: cover;
+  position: absolute;
+  top: 530px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-947 {
+  height: 1px;
+  left: 533px;
+  object-fit: cover;
+  position: absolute;
+  top: 554px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-948 {
+  height: 1px;
+  left: 541px;
+  object-fit: cover;
+  position: absolute;
+  top: 549px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-949 {
+  height: 1px;
+  left: 554px;
+  object-fit: cover;
+  position: absolute;
+  top: 524px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-950 {
+  height: 1px;
+  left: 621px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-951 {
+  height: 1px;
+  left: 555px;
+  object-fit: cover;
+  position: absolute;
+  top: 536px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-952 {
+  height: 1px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 543px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-953 {
+  height: 1px;
+  left: 530px;
+  object-fit: cover;
+  position: absolute;
+  top: 548px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-954 {
+  height: 1px;
+  left: 558px;
+  object-fit: cover;
+  position: absolute;
+  top: 521px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-95 {
+  height: 1px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 533px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-956 {
+  height: 1px;
+  left: 531px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-958 {
+  height: 1px;
+  left: 527px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-959 {
+  height: 1px;
+  left: 530px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-960 {
+  height: 1px;
+  left: 526px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-961 {
+  height: 1px;
+  left: 630px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-962 {
+  height: 1px;
+  left: 624px;
+  object-fit: cover;
+  position: absolute;
+  top: 463px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-963 {
+  height: 4px;
+  left: 686px;
+  object-fit: cover;
+  position: absolute;
+  top: 766px;
+  width: 7px;
+}
+
+.x11-and-under-1 .path-964 {
+  height: 3px;
+  left: 724px;
+  object-fit: cover;
+  position: absolute;
+  top: 738px;
+  width: 4px;
+}
+
+.x11-and-under-1 .path-965 {
+  height: 4px;
+  left: 693px;
+  object-fit: cover;
+  position: absolute;
+  top: 758px;
+  width: 4px;
+}
+
+.x11-and-under-1 .path-966 {
+  height: 3px;
+  left: 735px;
+  object-fit: cover;
+  position: absolute;
+  top: 705px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-967 {
+  height: 3px;
+  left: 719px;
+  object-fit: cover;
+  position: absolute;
+  top: 731px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-968 {
+  height: 4px;
+  left: 778px;
+  object-fit: cover;
+  position: absolute;
+  top: 691px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-969 {
+  height: 2px;
+  left: 738px;
+  object-fit: cover;
+  position: absolute;
+  top: 714px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-970 {
+  height: 3px;
+  left: 690px;
+  object-fit: cover;
+  position: absolute;
+  top: 754px;
+  width: 3px;
+}
+
+.x11-and-under-1 .path-971 {
+  height: 1px;
+  left: 707px;
+  object-fit: cover;
+  position: absolute;
+  top: 755px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-972 {
+  height: 1px;
+  left: 720px;
+  object-fit: cover;
+  position: absolute;
+  top: 718px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-973 {
+  height: 1px;
+  left: 727px;
+  object-fit: cover;
+  position: absolute;
+  top: 715px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-974 {
+  height: 2px;
+  left: 729px;
+  object-fit: cover;
+  position: absolute;
+  top: 711px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-975 {
+  height: 1px;
+  left: 687px;
+  object-fit: cover;
+  position: absolute;
+  top: 742px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-976 {
+  height: 1px;
+  left: 731px;
+  object-fit: cover;
+  position: absolute;
+  top: 710px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-977 {
+  height: 1px;
+  left: 682px;
+  object-fit: cover;
+  position: absolute;
+  top: 749px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-978 {
+  height: 1px;
+  left: 771px;
+  object-fit: cover;
+  position: absolute;
+  top: 681px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-979 {
+  height: 1px;
+  left: 686px;
+  object-fit: cover;
+  position: absolute;
+  top: 745px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-980 {
+  height: 1px;
+  left: 721px;
+  object-fit: cover;
+  position: absolute;
+  top: 742px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-981 {
+  height: 1px;
+  left: 689px;
+  object-fit: cover;
+  position: absolute;
+  top: 742px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-982 {
+  height: 1px;
+  left: 731px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-983 {
+  height: 1px;
+  left: 690px;
+  object-fit: cover;
+  position: absolute;
+  top: 743px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-984 {
+  height: 1px;
+  left: 712px;
+  object-fit: cover;
+  position: absolute;
+  top: 727px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-985 {
+  height: 1px;
+  left: 691px;
+  object-fit: cover;
+  position: absolute;
+  top: 743px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-986 {
+  height: 1px;
+  left: 692px;
+  object-fit: cover;
+  position: absolute;
+  top: 744px;
+  width: 1px;
+}
+
+.x11-and-under-1 .path-987 {
+  height: 54px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 578px;
+  width: 48px;
+}
+
+.x11-and-under-1 .path-988 {
+  height: 46px;
+  left: 728px;
+  object-fit: cover;
+  position: absolute;
+  top: 176px;
+  width: 75px;
+}
+
+.x11-and-under-1 .path-989 {
+  height: 2px;
+  left: 745px;
+  object-fit: cover;
+  position: absolute;
+  top: 780px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-990 {
+  height: 2px;
+  left: 784px;
+  object-fit: cover;
+  position: absolute;
+  top: 764px;
+  width: 2px;
+}
+
+.x11-and-under-1 .path-991 {
+  height: 1px;
+  left: 759px;
+  object-fit: cover;
+  position: absolute;
+  top: 787px;
+  width: 1px;
+}
+
+.x11-and-under-1 .winners-11-under-category {
+  height: 121px;
+  left: 942px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 590px;
+  width: 1254px;
+}
+
+.x11-and-under-1 .the-happy-wolf-by-m {
+  cursor: pointer;
+  left: 1008px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 733px;
+  width: 665px;
+}
+
+.x11-and-under-1 .name {
+  cursor: pointer;
+  left: 1009px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 930px;
+  width: 665px;
+}
+
+.x11-and-under-1 .the-future-schoolby {
+  cursor: pointer;
+  left: 1008px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 1127px;
+  width: 665px;
+}
+
+.x11-and-under-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 1957px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 217px;
+}
+
+.x11-and-under-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.x11-and-under-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.x11-and-under-1 .overlap-group-1 {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.x11-and-under-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.x11-and-under-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.x11-and-under-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.x11-and-under-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.x11-and-under-1 .group-2-2 {
+  background-image: url(../img/path-5-2-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.x11-and-under-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 519px;
+  min-width: 132px;
+  position: absolute;
+  top: 318px;
+}
+
+.x11-and-under-1 .overlap-group1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.x11-and-under-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .rectangle-49 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.x11-and-under-1 .xr-wordsmiths {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .the-artwork {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .overlap-group1-item {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .component-7-171 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 397px;
+  position: absolute;
+  top: 317px;
+  width: 98px;
+}
+
+.x11-and-under-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.x11-and-under-1 .component-9-170 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 785px;
+  position: absolute;
+  top: 323px;
+  width: 110px;
+}
+
+.x11-and-under-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.x11-and-under-1 .component-3-169 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 645px;
+  min-width: 172px;
+  position: absolute;
+  top: 322px;
+}
+
+.x11-and-under-1 .overlap-group2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.x11-and-under-1 .stories {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .rectangle-48 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.x11-and-under-1 .x11-under-winners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .x19-over-winners {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .x12-18-winners {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .honorable-mentions {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x11-and-under-1 .component-8-205 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 935px;
+  position: absolute;
+  top: 323px;
+  width: 103px;
+}
+
+.x11-and-under-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - 11-and-under-2 */
+
+.x11-and-under-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 800px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.x11-and-under-2 .overlap-group3-1 {
+  height: 1110px;
+  margin-left: -259px;
+  margin-top: -123.28px;
+  position: relative;
+  width: 1727px;
+}
+
+.x11-and-under-2 .rectangle-16-1 {
+  background-color: var(--lightning-yellow);
+  height: 802px;
+  left: 227px;
+  position: absolute;
+  top: 121px;
+  width: 1313px;
+}
+
+.x11-and-under-2 .path-1682-1 {
+  height: 282px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.x11-and-under-2 .path-125-1 {
+  height: 282px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 312px;
+}
+
+.x11-and-under-2 .path-1684-1 {
+  height: 282px;
+  left: 501px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.x11-and-under-2 .path-1685-1 {
+  height: 282px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 301px;
+  width: 312px;
+}
+
+.x11-and-under-2 .path-1687-1 {
+  height: 282px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 601px;
+  width: 312px;
+}
+
+.x11-and-under-2 .path-1688-1 {
+  height: 282px;
+  left: 260px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 312px;
+}
+
+.x11-and-under-2 .path-1683-1 {
+  height: 282px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 765px;
+  width: 312px;
+}
+
+.x11-and-under-2 .group-32-1 {
+  display: flex;
+  height: 652px;
+  left: 1027px;
+  opacity: 1.0;
+  position: absolute;
+  top: 458px;
+  width: 700px;
+}
+
+.x11-and-under-2 .group-31-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 700.24px;
+}
+
+.x11-and-under-2 .overlap-group-2 {
+  height: 652px;
+  margin-bottom: 0;
+  position: relative;
+  width: 700px;
+}
+
+.x11-and-under-2 .path-767-1 {
+  height: 549px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 575px;
+}
+
+.x11-and-under-2 .path-768-1 {
+  height: 128px;
+  left: 450px;
+  object-fit: cover;
+  position: absolute;
+  top: 317px;
+  width: 251px;
+}
+
+.x11-and-under-2 .path-769-1 {
+  height: 242px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 61px;
+}
+
+.x11-and-under-2 .path-770-1 {
+  height: 173px;
+  left: 242px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 100px;
+}
+
+.x11-and-under-2 .path-771-1 {
+  height: 57px;
+  left: 423px;
+  object-fit: cover;
+  position: absolute;
+  top: 264px;
+  width: 195px;
+}
+
+.x11-and-under-2 .path-772-1 {
+  height: 114px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 465px;
+  width: 41px;
+}
+
+.x11-and-under-2 .path-773-1 {
+  height: 80px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 352px;
+  width: 99px;
+}
+
+.x11-and-under-2 .path-774-1 {
+  height: 60px;
+  left: 530px;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 99px;
+}
+
+.x11-and-under-2 .path-775-1 {
+  height: 112px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 466px;
+  width: 26px;
+}
+
+.x11-and-under-2 .path-776-1 {
+  height: 9px;
+  left: 326px;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 9px;
+}
+
+.x11-and-under-2 .path-777-1 {
+  height: 8px;
+  left: 600px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 8px;
+}
+
+.x11-and-under-2 .path-778-1 {
+  height: 7px;
+  left: 570px;
+  object-fit: cover;
+  position: absolute;
+  top: 408px;
+  width: 8px;
+}
+
+.x11-and-under-2 .path-779-1 {
+  height: 7px;
+  left: 607px;
+  object-fit: cover;
+  position: absolute;
+  top: 368px;
+  width: 8px;
+}
+
+.x11-and-under-2 .path-780-1 {
+  height: 8px;
+  left: 329px;
+  object-fit: cover;
+  position: absolute;
+  top: 550px;
+  width: 7px;
+}
+
+.x11-and-under-2 .path-781-1 {
+  height: 8px;
+  left: 385px;
+  object-fit: cover;
+  position: absolute;
+  top: 548px;
+  width: 7px;
+}
+
+.x11-and-under-2 .path-782-1 {
+  height: 7px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 525px;
+  width: 7px;
+}
+
+.x11-and-under-2 .path-783-1 {
+  height: 7px;
+  left: 574px;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 7px;
+}
+
+.x11-and-under-2 .path-784-1 {
+  height: 6px;
+  left: 328px;
+  object-fit: cover;
+  position: absolute;
+  top: 514px;
+  width: 7px;
+}
+
+.x11-and-under-2 .path-785-1 {
+  height: 7px;
+  left: 558px;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-786-1 {
+  height: 7px;
+  left: 535px;
+  object-fit: cover;
+  position: absolute;
+  top: 382px;
+  width: 7px;
+}
+
+.x11-and-under-2 .path-787-1 {
+  height: 6px;
+  left: 592px;
+  object-fit: cover;
+  position: absolute;
+  top: 349px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-788-1 {
+  height: 6px;
+  left: 566px;
+  object-fit: cover;
+  position: absolute;
+  top: 339px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-789-1 {
+  height: 7px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-790-1 {
+  height: 6px;
+  left: 587px;
+  object-fit: cover;
+  position: absolute;
+  top: 412px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-791-1 {
+  height: 6px;
+  left: 576px;
+  object-fit: cover;
+  position: absolute;
+  top: 341px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-792-1 {
+  height: 6px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 511px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-793-1 {
+  height: 6px;
+  left: 595px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-794-1 {
+  height: 6px;
+  left: 328px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-795-1 {
+  height: 6px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 536px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-796-1 {
+  height: 5px;
+  left: 333px;
+  object-fit: cover;
+  position: absolute;
+  top: 529px;
+  width: 6px;
+}
+
+.x11-and-under-2 .path-797-1 {
+  height: 5px;
+  left: 566px;
+  object-fit: cover;
+  position: absolute;
+  top: 401px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-798-1 {
+  height: 5px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 560px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-799-1 {
+  height: 5px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-800-1 {
+  height: 5px;
+  left: 557px;
+  object-fit: cover;
+  position: absolute;
+  top: 335px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-801-1 {
+  height: 5px;
+  left: 581px;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-802-1 {
+  height: 5px;
+  left: 606px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-803-1 {
+  height: 5px;
+  left: 532px;
+  object-fit: cover;
+  position: absolute;
+  top: 373px;
+  width: 4px;
+}
+
+.x11-and-under-2 .path-804-1 {
+  height: 5px;
+  left: 393px;
+  object-fit: cover;
+  position: absolute;
+  top: 545px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-805-1 {
+  height: 4px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 524px;
+  width: 4px;
+}
+
+.x11-and-under-2 .path-806-1 {
+  height: 4px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 4px;
+}
+
+.x11-and-under-2 .path-807-1 {
+  height: 4px;
+  left: 522px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 4px;
+}
+
+.x11-and-under-2 .path-808-1 {
+  height: 3px;
+  left: 370px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-809-1 {
+  height: 3px;
+  left: 449px;
+  object-fit: cover;
+  position: absolute;
+  top: 372px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-810-1 {
+  height: 3px;
+  left: 383px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-811-1 {
+  height: 3px;
+  left: 380px;
+  object-fit: cover;
+  position: absolute;
+  top: 412px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-812-1 {
+  height: 3px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 424px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-813-1 {
+  height: 2px;
+  left: 455px;
+  object-fit: cover;
+  position: absolute;
+  top: 360px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-814-1 {
+  height: 2px;
+  left: 360px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-815-1 {
+  height: 2px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 408px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-816-1 {
+  height: 2px;
+  left: 431px;
+  object-fit: cover;
+  position: absolute;
+  top: 392px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-817-1 {
+  height: 2px;
+  left: 395px;
+  object-fit: cover;
+  position: absolute;
+  top: 404px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-818-1 {
+  height: 1px;
+  left: 413px;
+  object-fit: cover;
+  position: absolute;
+  top: 391px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-819-1 {
+  height: 1px;
+  left: 372px;
+  object-fit: cover;
+  position: absolute;
+  top: 429px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-820-1 {
+  height: 1px;
+  left: 412px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-821-1 {
+  height: 1px;
+  left: 458px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-822-1 {
+  height: 1px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 417px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-823-1 {
+  height: 1px;
+  left: 460px;
+  object-fit: cover;
+  position: absolute;
+  top: 357px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-824-1 {
+  height: 1px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 415px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-825-1 {
+  height: 1px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-826-1 {
+  height: 1px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 1px;
+}
+
+.x11-and-under-2 .ellipse-2-1 {
+  background-color: var(--black);
+  border-radius: 0.1px/0.4px;
+  height: 1px;
+  left: 380px;
+  position: absolute;
+  top: 418px;
+  transform: rotate(-36.02deg);
+  width: 1px;
+}
+
+.x11-and-under-2 .path-827-1 {
+  height: 1px;
+  left: 459px;
+  object-fit: cover;
+  position: absolute;
+  top: 349px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-828-1 {
+  height: 1px;
+  left: 441px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-829-1 {
+  height: 1px;
+  left: 456px;
+  object-fit: cover;
+  position: absolute;
+  top: 355px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-830-1 {
+  height: 1px;
+  left: 459px;
+  object-fit: cover;
+  position: absolute;
+  top: 354px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-831-1 {
+  height: 1px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 407px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-832-1 {
+  height: 1px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-833-1 {
+  height: 1px;
+  left: 412px;
+  object-fit: cover;
+  position: absolute;
+  top: 393px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-834-1 {
+  height: 1px;
+  left: 460px;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-835-1 {
+  height: 1px;
+  left: 458px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-836-1 {
+  height: 1px;
+  left: 392px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-837-1 {
+  height: 1px;
+  left: 413px;
+  object-fit: cover;
+  position: absolute;
+  top: 399px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-838-1 {
+  height: 3px;
+  left: 486px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-839-1 {
+  height: 4px;
+  left: 418px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-840-1 {
+  height: 5px;
+  left: 491px;
+  object-fit: cover;
+  position: absolute;
+  top: 393px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-841-1 {
+  height: 2px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 407px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-842-1 {
+  height: 3px;
+  left: 409px;
+  object-fit: cover;
+  position: absolute;
+  top: 448px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-843-1 {
+  height: 2px;
+  left: 427px;
+  object-fit: cover;
+  position: absolute;
+  top: 440px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-844-1 {
+  height: 1px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 457px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-845-1 {
+  height: 2px;
+  left: 476px;
+  object-fit: cover;
+  position: absolute;
+  top: 393px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-846-1 {
+  height: 1px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-847-1 {
+  height: 2px;
+  left: 397px;
+  object-fit: cover;
+  position: absolute;
+  top: 451px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-848-1 {
+  height: 3px;
+  left: 484px;
+  object-fit: cover;
+  position: absolute;
+  top: 401px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-849-1 {
+  height: 2px;
+  left: 432px;
+  object-fit: cover;
+  position: absolute;
+  top: 440px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-850-1 {
+  height: 2px;
+  left: 456px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-851-1 {
+  height: 2px;
+  left: 486px;
+  object-fit: cover;
+  position: absolute;
+  top: 401px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-852-1 {
+  height: 1px;
+  left: 476px;
+  object-fit: cover;
+  position: absolute;
+  top: 411px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-853-1 {
+  height: 1px;
+  left: 407px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-854-1 {
+  height: 1px;
+  left: 443px;
+  object-fit: cover;
+  position: absolute;
+  top: 438px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-855-1 {
+  height: 1px;
+  left: 440px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-856-1 {
+  height: 2px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-857-1 {
+  height: 1px;
+  left: 411px;
+  object-fit: cover;
+  position: absolute;
+  top: 454px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-858-1 {
+  height: 2px;
+  left: 452px;
+  object-fit: cover;
+  position: absolute;
+  top: 432px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-859-1 {
+  height: 1px;
+  left: 418px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-860-1 {
+  height: 1px;
+  left: 397px;
+  object-fit: cover;
+  position: absolute;
+  top: 464px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-861-1 {
+  height: 1px;
+  left: 475px;
+  object-fit: cover;
+  position: absolute;
+  top: 391px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-862-1 {
+  height: 1px;
+  left: 488px;
+  object-fit: cover;
+  position: absolute;
+  top: 382px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-863-1 {
+  height: 1px;
+  left: 430px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-864-1 {
+  height: 1px;
+  left: 448px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-865-1 {
+  height: 1px;
+  left: 412px;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-866-1 {
+  height: 1px;
+  left: 452px;
+  object-fit: cover;
+  position: absolute;
+  top: 424px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-867-1 {
+  height: 1px;
+  left: 496px;
+  object-fit: cover;
+  position: absolute;
+  top: 383px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-868-1 {
+  height: 1px;
+  left: 418px;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-869-1 {
+  height: 1px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 437px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-870-1 {
+  height: 1px;
+  left: 471px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-871-1 {
+  height: 1px;
+  left: 496px;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-872-1 {
+  height: 1px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-873-1 {
+  height: 1px;
+  left: 423px;
+  object-fit: cover;
+  position: absolute;
+  top: 442px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-874-1 {
+  height: 1px;
+  left: 484px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-875-1 {
+  height: 1px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 458px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-876-1 {
+  height: 1px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-877-1 {
+  height: 1px;
+  left: 494px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-878-1 {
+  height: 1px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 443px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-879-1 {
+  height: 1px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 454px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-88-1 {
+  height: 1px;
+  left: 493px;
+  object-fit: cover;
+  position: absolute;
+  top: 394px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-882-1 {
+  height: 1px;
+  left: 411px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-88-2 {
+  height: 1px;
+  left: 391px;
+  object-fit: cover;
+  position: absolute;
+  top: 456px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-884-1 {
+  height: 1px;
+  left: 478px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-885-1 {
+  height: 1px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-887-1 {
+  height: 1px;
+  left: 410px;
+  object-fit: cover;
+  position: absolute;
+  top: 443px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-8-1 {
+  height: 1px;
+  left: 446px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-889-1 {
+  height: 1px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-891-1 {
+  height: 1px;
+  left: 440px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-892-1 {
+  height: 1px;
+  left: 452px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-893-1 {
+  height: 1px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 449px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-894-1 {
+  height: 4px;
+  left: 472px;
+  object-fit: cover;
+  position: absolute;
+  top: 465px;
+  width: 4px;
+}
+
+.x11-and-under-2 .path-895-1 {
+  height: 2px;
+  left: 452px;
+  object-fit: cover;
+  position: absolute;
+  top: 475px;
+  width: 3px;
+}
+
+.x11-and-under-2 .path-896-1 {
+  height: 2px;
+  left: 437px;
+  object-fit: cover;
+  position: absolute;
+  top: 483px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-897-1 {
+  height: 2px;
+  left: 435px;
+  object-fit: cover;
+  position: absolute;
+  top: 479px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-898-1 {
+  height: 2px;
+  left: 444px;
+  object-fit: cover;
+  position: absolute;
+  top: 485px;
+  width: 3px;
+}
+
+.x11-and-under-2 .path-899-1 {
+  height: 2px;
+  left: 447px;
+  object-fit: cover;
+  position: absolute;
+  top: 468px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-900-1 {
+  height: 1px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-901-1 {
+  height: 2px;
+  left: 511px;
+  object-fit: cover;
+  position: absolute;
+  top: 421px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-902-1 {
+  height: 1px;
+  left: 428px;
+  object-fit: cover;
+  position: absolute;
+  top: 494px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-903-1 {
+  height: 1px;
+  left: 453px;
+  object-fit: cover;
+  position: absolute;
+  top: 471px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-904-1 {
+  height: 1px;
+  left: 515px;
+  object-fit: cover;
+  position: absolute;
+  top: 427px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-905-1 {
+  height: 1px;
+  left: 456px;
+  object-fit: cover;
+  position: absolute;
+  top: 474px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-906-1 {
+  height: 1px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 495px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-907-1 {
+  height: 1px;
+  left: 476px;
+  object-fit: cover;
+  position: absolute;
+  top: 471px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-908-1 {
+  height: 1px;
+  left: 470px;
+  object-fit: cover;
+  position: absolute;
+  top: 469px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-909-1 {
+  height: 1px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-910-1 {
+  height: 1px;
+  left: 436px;
+  object-fit: cover;
+  position: absolute;
+  top: 493px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-911-1 {
+  height: 1px;
+  left: 508px;
+  object-fit: cover;
+  position: absolute;
+  top: 432px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-912-1 {
+  height: 1px;
+  left: 484px;
+  object-fit: cover;
+  position: absolute;
+  top: 456px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-913-1 {
+  height: 1px;
+  left: 432px;
+  object-fit: cover;
+  position: absolute;
+  top: 494px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-914-1 {
+  height: 1px;
+  left: 430px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-915-1 {
+  height: 1px;
+  left: 429px;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-916-1 {
+  height: 1px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-917-1 {
+  height: 1px;
+  left: 464px;
+  object-fit: cover;
+  position: absolute;
+  top: 474px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-918-1 {
+  height: 1px;
+  left: 447px;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-919-1 {
+  height: 1px;
+  left: 453px;
+  object-fit: cover;
+  position: absolute;
+  top: 464px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-920-1 {
+  height: 4px;
+  left: 397px;
+  object-fit: cover;
+  position: absolute;
+  top: 355px;
+  width: 4px;
+}
+
+.x11-and-under-2 .path-921-1 {
+  height: 2px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 3px;
+}
+
+.x11-and-under-2 .path-922-1 {
+  height: 2px;
+  left: 398px;
+  object-fit: cover;
+  position: absolute;
+  top: 363px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-923-1 {
+  height: 2px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-924-1 {
+  height: 2px;
+  left: 353px;
+  object-fit: cover;
+  position: absolute;
+  top: 376px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-925-1 {
+  height: 1px;
+  left: 406px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-926-1 {
+  height: 1px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 352px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-927-1 {
+  height: 1px;
+  left: 378px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-928-1 {
+  height: 1px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 324px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-929-1 {
+  height: 2px;
+  left: 423px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-930-1 {
+  height: 1px;
+  left: 380px;
+  object-fit: cover;
+  position: absolute;
+  top: 355px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-931-1 {
+  height: 1px;
+  left: 401px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-932-1 {
+  height: 1px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-933-1 {
+  height: 1px;
+  left: 426px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-934-1 {
+  height: 1px;
+  left: 359px;
+  object-fit: cover;
+  position: absolute;
+  top: 373px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-935-1 {
+  height: 1px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 344px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-936-1 {
+  height: 1px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-937-1 {
+  height: 1px;
+  left: 421px;
+  object-fit: cover;
+  position: absolute;
+  top: 322px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-938-1 {
+  height: 1px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 315px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-939-1 {
+  height: 1px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-940-1 {
+  height: 1px;
+  left: 403px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-941-1 {
+  height: 1px;
+  left: 389px;
+  object-fit: cover;
+  position: absolute;
+  top: 360px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-942-1 {
+  height: 1px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-94 {
+  height: 1px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-944-1 {
+  height: 1px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 368px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-945-1 {
+  height: 1px;
+  left: 426px;
+  object-fit: cover;
+  position: absolute;
+  top: 326px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-946-1 {
+  height: 1px;
+  left: 385px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-947-1 {
+  height: 1px;
+  left: 365px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-948-1 {
+  height: 1px;
+  left: 370px;
+  object-fit: cover;
+  position: absolute;
+  top: 376px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-950-1 {
+  height: 1px;
+  left: 425px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-951-1 {
+  height: 1px;
+  left: 380px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-952-1 {
+  height: 1px;
+  left: 369px;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-953-1 {
+  height: 1px;
+  left: 362px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-954-1 {
+  height: 1px;
+  left: 382px;
+  object-fit: cover;
+  position: absolute;
+  top: 356px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-955 {
+  height: 1px;
+  left: 370px;
+  object-fit: cover;
+  position: absolute;
+  top: 365px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-956-1 {
+  height: 1px;
+  left: 363px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-957 {
+  height: 1px;
+  left: 370px;
+  object-fit: cover;
+  position: absolute;
+  top: 364px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-958-1 {
+  height: 1px;
+  left: 360px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-959-1 {
+  height: 1px;
+  left: 362px;
+  object-fit: cover;
+  position: absolute;
+  top: 369px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-960-1 {
+  height: 1px;
+  left: 359px;
+  object-fit: cover;
+  position: absolute;
+  top: 369px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-961-1 {
+  height: 1px;
+  left: 430px;
+  object-fit: cover;
+  position: absolute;
+  top: 315px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-962-1 {
+  height: 1px;
+  left: 426px;
+  object-fit: cover;
+  position: absolute;
+  top: 316px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-963-1 {
+  height: 3px;
+  left: 469px;
+  object-fit: cover;
+  position: absolute;
+  top: 524px;
+  width: 5px;
+}
+
+.x11-and-under-2 .path-964-1 {
+  height: 2px;
+  left: 495px;
+  object-fit: cover;
+  position: absolute;
+  top: 504px;
+  width: 3px;
+}
+
+.x11-and-under-2 .path-965-1 {
+  height: 3px;
+  left: 474px;
+  object-fit: cover;
+  position: absolute;
+  top: 518px;
+  width: 3px;
+}
+
+.x11-and-under-2 .path-966-1 {
+  height: 2px;
+  left: 502px;
+  object-fit: cover;
+  position: absolute;
+  top: 482px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-967-1 {
+  height: 2px;
+  left: 491px;
+  object-fit: cover;
+  position: absolute;
+  top: 500px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-968-1 {
+  height: 3px;
+  left: 532px;
+  object-fit: cover;
+  position: absolute;
+  top: 473px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-969-1 {
+  height: 1px;
+  left: 504px;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-970-1 {
+  height: 2px;
+  left: 472px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-971-1 {
+  height: 1px;
+  left: 483px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-972-1 {
+  height: 1px;
+  left: 492px;
+  object-fit: cover;
+  position: absolute;
+  top: 491px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-973-1 {
+  height: 1px;
+  left: 497px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-974-1 {
+  height: 1px;
+  left: 498px;
+  object-fit: cover;
+  position: absolute;
+  top: 486px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-975-1 {
+  height: 1px;
+  left: 470px;
+  object-fit: cover;
+  position: absolute;
+  top: 507px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-976-1 {
+  height: 1px;
+  left: 500px;
+  object-fit: cover;
+  position: absolute;
+  top: 486px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-977-1 {
+  height: 1px;
+  left: 466px;
+  object-fit: cover;
+  position: absolute;
+  top: 512px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-978-1 {
+  height: 1px;
+  left: 527px;
+  object-fit: cover;
+  position: absolute;
+  top: 465px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-979-1 {
+  height: 1px;
+  left: 469px;
+  object-fit: cover;
+  position: absolute;
+  top: 510px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-980-1 {
+  height: 1px;
+  left: 493px;
+  object-fit: cover;
+  position: absolute;
+  top: 507px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-981-1 {
+  height: 1px;
+  left: 471px;
+  object-fit: cover;
+  position: absolute;
+  top: 508px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-982-1 {
+  height: 1px;
+  left: 500px;
+  object-fit: cover;
+  position: absolute;
+  top: 487px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-983-1 {
+  height: 1px;
+  left: 472px;
+  object-fit: cover;
+  position: absolute;
+  top: 508px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-984-1 {
+  height: 1px;
+  left: 487px;
+  object-fit: cover;
+  position: absolute;
+  top: 497px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-985-1 {
+  height: 1px;
+  left: 473px;
+  object-fit: cover;
+  position: absolute;
+  top: 508px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-986-1 {
+  height: 1px;
+  left: 473px;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-987-1 {
+  height: 37px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 395px;
+  width: 33px;
+}
+
+.x11-and-under-2 .path-988-1 {
+  height: 32px;
+  left: 498px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 51px;
+}
+
+.x11-and-under-2 .path-989-1 {
+  height: 1px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 533px;
+  width: 2px;
+}
+
+.x11-and-under-2 .path-990-1 {
+  height: 1px;
+  left: 536px;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 1px;
+}
+
+.x11-and-under-2 .path-991-1 {
+  height: 1px;
+  left: 519px;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 1px;
+}
+
+.x11-and-under-2 .the-happy-wolf-by-m-1 {
+  cursor: pointer;
+  left: 644px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 422px;
+  width: 455px;
+}
+
+.x11-and-under-2 .name-1 {
+  cursor: pointer;
+  left: 644px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 551px;
+  width: 455px;
+}
+
+.x11-and-under-2 .the-future-schoolby-1 {
+  cursor: pointer;
+  left: 644px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 680px;
+  width: 482px;
+}
+
+.x11-and-under-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1331px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 71px;
+}
+
+.x11-and-under-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.x11-and-under-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.x11-and-under-2 .overlap-group-3 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.x11-and-under-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.x11-and-under-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.x11-and-under-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.x11-and-under-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.x11-and-under-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.x11-and-under-2 .winners-11-under-category-1 {
+  color: var(--red-violet);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 65px;
+  font-weight: 400;
+  height: 121px;
+  left: 592px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 314px;
+  width: 983px;
+}
+
+.x11-and-under-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 426px;
+  min-width: 132px;
+  position: absolute;
+  top: 149px;
+}
+
+.x11-and-under-2 .overlap-group1-1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.x11-and-under-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .rectangle-49-1 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.x11-and-under-2 .xr-wordsmiths-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .the-artwork-1 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .overlap-group1-item-1 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .component-7-172 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 304px;
+  position: absolute;
+  top: 148px;
+  width: 98px;
+}
+
+.x11-and-under-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.x11-and-under-2 .component-9-171 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 692px;
+  position: absolute;
+  top: 154px;
+  width: 110px;
+}
+
+.x11-and-under-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.x11-and-under-2 .component-3-170 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 552px;
+  min-width: 172px;
+  position: absolute;
+  top: 153px;
+}
+
+.x11-and-under-2 .overlap-group2-1 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.x11-and-under-2 .stories-1 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .rectangle-48-1 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.x11-and-under-2 .x11-under-winners-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .x19-over-winners-1 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .x12-18-winners-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .honorable-mentions-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x11-and-under-2 .component-8-206 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 842px;
+  position: absolute;
+  top: 154px;
+  width: 103px;
+}
+
+.x11-and-under-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - 11-and-under-3 */
+
+.x11-and-under-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1194px;
+  overflow: hidden;
+  width: 834px;
+}
+
+.x11-and-under-3 .overlap-group3-2 {
+  height: 1493px;
+  margin-left: -168px;
+  margin-top: -104.5px;
+  position: relative;
+  width: 1120px;
+}
+
+.x11-and-under-3 .rectangle-16-2 {
+  background-color: var(--lightning-yellow);
+  height: 1194px;
+  left: 168px;
+  position: absolute;
+  top: 105px;
+  width: 834px;
+}
+
+.x11-and-under-3 .path-1682-2 {
+  height: 217px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-125-2 {
+  height: 217px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 114px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-1684-2 {
+  height: 217px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-1685-2 {
+  height: 217px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 231px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-1687-2 {
+  height: 217px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 462px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-1688-2 {
+  height: 217px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-1683-2 {
+  height: 217px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 588px;
+  width: 240px;
+}
+
+.x11-and-under-3 .group-32-2 {
+  display: flex;
+  height: 575px;
+  left: 503px;
+  opacity: 1.0;
+  position: absolute;
+  top: 874px;
+  width: 617px;
+}
+
+.x11-and-under-3 .group-31-2 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 617.24px;
+  padding: 0 0.0px;
+}
+
+.x11-and-under-3 .overlap-group-4 {
+  height: 575px;
+  margin-bottom: 0;
+  position: relative;
+  width: 617px;
+}
+
+.x11-and-under-3 .path-767-2 {
+  height: 484px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 507px;
+}
+
+.x11-and-under-3 .path-768-2 {
+  height: 112px;
+  left: 396px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 221px;
+}
+
+.x11-and-under-3 .path-769-2 {
+  height: 214px;
+  left: 283px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 54px;
+}
+
+.x11-and-under-3 .path-770-2 {
+  height: 153px;
+  left: 213px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 88px;
+}
+
+.x11-and-under-3 .path-771-2 {
+  height: 50px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 233px;
+  width: 172px;
+}
+
+.x11-and-under-3 .path-772-2 {
+  height: 100px;
+  left: 324px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 36px;
+}
+
+.x11-and-under-3 .path-773-2 {
+  height: 71px;
+  left: 449px;
+  object-fit: cover;
+  position: absolute;
+  top: 310px;
+  width: 87px;
+}
+
+.x11-and-under-3 .path-774-2 {
+  height: 53px;
+  left: 467px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 87px;
+}
+
+.x11-and-under-3 .path-775-2 {
+  height: 99px;
+  left: 275px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 23px;
+}
+
+.x11-and-under-3 .path-776-2 {
+  height: 8px;
+  left: 287px;
+  object-fit: cover;
+  position: absolute;
+  top: 474px;
+  width: 8px;
+}
+
+.x11-and-under-3 .path-777-2 {
+  height: 7px;
+  left: 529px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 7px;
+}
+
+.x11-and-under-3 .path-778-2 {
+  height: 6px;
+  left: 503px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 7px;
+}
+
+.x11-and-under-3 .path-779-2 {
+  height: 7px;
+  left: 535px;
+  object-fit: cover;
+  position: absolute;
+  top: 324px;
+  width: 7px;
+}
+
+.x11-and-under-3 .path-780-2 {
+  height: 7px;
+  left: 290px;
+  object-fit: cover;
+  position: absolute;
+  top: 485px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-781-2 {
+  height: 7px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 483px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-782-2 {
+  height: 7px;
+  left: 286px;
+  object-fit: cover;
+  position: absolute;
+  top: 463px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-783-2 {
+  height: 6px;
+  left: 506px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-784-2 {
+  height: 6px;
+  left: 289px;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-785-2 {
+  height: 6px;
+  left: 491px;
+  object-fit: cover;
+  position: absolute;
+  top: 354px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-786-2 {
+  height: 6px;
+  left: 472px;
+  object-fit: cover;
+  position: absolute;
+  top: 337px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-787-2 {
+  height: 5px;
+  left: 521px;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 6px;
+}
+
+.x11-and-under-3 .path-788-2 {
+  height: 5px;
+  left: 499px;
+  object-fit: cover;
+  position: absolute;
+  top: 299px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-789-2 {
+  height: 6px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-790-2 {
+  height: 5px;
+  left: 517px;
+  object-fit: cover;
+  position: absolute;
+  top: 364px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-791-2 {
+  height: 5px;
+  left: 508px;
+  object-fit: cover;
+  position: absolute;
+  top: 301px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-792-2 {
+  height: 5px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 450px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-793-2 {
+  height: 5px;
+  left: 524px;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-794-2 {
+  height: 5px;
+  left: 290px;
+  object-fit: cover;
+  position: absolute;
+  top: 437px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-795-2 {
+  height: 5px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 472px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-796-2 {
+  height: 4px;
+  left: 294px;
+  object-fit: cover;
+  position: absolute;
+  top: 467px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-797-2 {
+  height: 5px;
+  left: 499px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-798-2 {
+  height: 5px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 494px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-799-2 {
+  height: 4px;
+  left: 481px;
+  object-fit: cover;
+  position: absolute;
+  top: 344px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-800-2 {
+  height: 4px;
+  left: 491px;
+  object-fit: cover;
+  position: absolute;
+  top: 295px;
+  width: 5px;
+}
+
+.x11-and-under-3 .path-801-2 {
+  height: 4px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 316px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-802-2 {
+  height: 4px;
+  left: 534px;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-803-2 {
+  height: 4px;
+  left: 469px;
+  object-fit: cover;
+  position: absolute;
+  top: 328px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-804-2 {
+  height: 4px;
+  left: 346px;
+  object-fit: cover;
+  position: absolute;
+  top: 480px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-805-2 {
+  height: 4px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 462px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-806-2 {
+  height: 3px;
+  left: 329px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-807-2 {
+  height: 3px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-808-2 {
+  height: 3px;
+  left: 326px;
+  object-fit: cover;
+  position: absolute;
+  top: 365px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-809-2 {
+  height: 2px;
+  left: 395px;
+  object-fit: cover;
+  position: absolute;
+  top: 328px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-810-2 {
+  height: 3px;
+  left: 337px;
+  object-fit: cover;
+  position: absolute;
+  top: 367px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-811-2 {
+  height: 2px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 363px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-812-2 {
+  height: 3px;
+  left: 330px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-813-2 {
+  height: 2px;
+  left: 401px;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-814-2 {
+  height: 2px;
+  left: 317px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-815-2 {
+  height: 2px;
+  left: 352px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-816-2 {
+  height: 1px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 346px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-817-2 {
+  height: 2px;
+  left: 348px;
+  object-fit: cover;
+  position: absolute;
+  top: 356px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-818-2 {
+  height: 1px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 345px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-819-2 {
+  height: 1px;
+  left: 328px;
+  object-fit: cover;
+  position: absolute;
+  top: 378px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-820-2 {
+  height: 1px;
+  left: 363px;
+  object-fit: cover;
+  position: absolute;
+  top: 351px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-821-2 {
+  height: 1px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-822-2 {
+  height: 1px;
+  left: 321px;
+  object-fit: cover;
+  position: absolute;
+  top: 367px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-823-2 {
+  height: 1px;
+  left: 405px;
+  object-fit: cover;
+  position: absolute;
+  top: 315px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-824-2 {
+  height: 1px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-825-2 {
+  height: 1px;
+  left: 329px;
+  object-fit: cover;
+  position: absolute;
+  top: 365px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-826-2 {
+  height: 1px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 344px;
+  width: 1px;
+}
+
+.x11-and-under-3 .ellipse-2-2 {
+  background-color: var(--black);
+  border-radius: 0.09px/0.35px;
+  height: 1px;
+  left: 335px;
+  position: absolute;
+  top: 368px;
+  transform: rotate(-36.02deg);
+  width: 1px;
+}
+
+.x11-and-under-3 .path-827-2 {
+  height: 1px;
+  left: 405px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-828-2 {
+  height: 1px;
+  left: 388px;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-829-2 {
+  height: 1px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-830-2 {
+  height: 1px;
+  left: 405px;
+  object-fit: cover;
+  position: absolute;
+  top: 312px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-831-2 {
+  height: 1px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-832-2 {
+  height: 1px;
+  left: 329px;
+  object-fit: cover;
+  position: absolute;
+  top: 369px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-833-2 {
+  height: 1px;
+  left: 363px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-834-2 {
+  height: 1px;
+  left: 406px;
+  object-fit: cover;
+  position: absolute;
+  top: 316px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-835-2 {
+  height: 1px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-836-2 {
+  height: 1px;
+  left: 345px;
+  object-fit: cover;
+  position: absolute;
+  top: 364px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-837-2 {
+  height: 1px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 352px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-838-2 {
+  height: 2px;
+  left: 428px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-839-2 {
+  height: 4px;
+  left: 368px;
+  object-fit: cover;
+  position: absolute;
+  top: 387px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-840-2 {
+  height: 4px;
+  left: 433px;
+  object-fit: cover;
+  position: absolute;
+  top: 346px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-841-2 {
+  height: 1px;
+  left: 407px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-842-2 {
+  height: 3px;
+  left: 360px;
+  object-fit: cover;
+  position: absolute;
+  top: 395px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-843-2 {
+  height: 2px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 388px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-844-2 {
+  height: 1px;
+  left: 372px;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-845-2 {
+  height: 2px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-846-2 {
+  height: 1px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 399px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-847-2 {
+  height: 2px;
+  left: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 397px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-848-2 {
+  height: 2px;
+  left: 427px;
+  object-fit: cover;
+  position: absolute;
+  top: 354px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-849-2 {
+  height: 2px;
+  left: 380px;
+  object-fit: cover;
+  position: absolute;
+  top: 388px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-850-2 {
+  height: 2px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 380px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-851-2 {
+  height: 2px;
+  left: 428px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-852-2 {
+  height: 1px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-853-2 {
+  height: 1px;
+  left: 359px;
+  object-fit: cover;
+  position: absolute;
+  top: 393px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-854-2 {
+  height: 1px;
+  left: 391px;
+  object-fit: cover;
+  position: absolute;
+  top: 386px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-855-2 {
+  height: 1px;
+  left: 388px;
+  object-fit: cover;
+  position: absolute;
+  top: 392px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-856-2 {
+  height: 2px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 392px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-857-2 {
+  height: 1px;
+  left: 362px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-858-2 {
+  height: 1px;
+  left: 398px;
+  object-fit: cover;
+  position: absolute;
+  top: 381px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-859-2 {
+  height: 1px;
+  left: 369px;
+  object-fit: cover;
+  position: absolute;
+  top: 391px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-860-2 {
+  height: 1px;
+  left: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-861-2 {
+  height: 1px;
+  left: 418px;
+  object-fit: cover;
+  position: absolute;
+  top: 345px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-862-2 {
+  height: 1px;
+  left: 430px;
+  object-fit: cover;
+  position: absolute;
+  top: 337px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-863-2 {
+  height: 1px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 385px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-864-2 {
+  height: 1px;
+  left: 395px;
+  object-fit: cover;
+  position: absolute;
+  top: 385px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-865-2 {
+  height: 1px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-866-2 {
+  height: 1px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-867-2 {
+  height: 1px;
+  left: 437px;
+  object-fit: cover;
+  position: absolute;
+  top: 337px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-868-2 {
+  height: 1px;
+  left: 369px;
+  object-fit: cover;
+  position: absolute;
+  top: 399px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-869-2 {
+  height: 1px;
+  left: 372px;
+  object-fit: cover;
+  position: absolute;
+  top: 385px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-870-2 {
+  height: 1px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 365px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-871-2 {
+  height: 1px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 339px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-872-2 {
+  height: 1px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 391px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-873-2 {
+  height: 1px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-874-2 {
+  height: 1px;
+  left: 426px;
+  object-fit: cover;
+  position: absolute;
+  top: 344px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-875-2 {
+  height: 1px;
+  left: 354px;
+  object-fit: cover;
+  position: absolute;
+  top: 404px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-876-2 {
+  height: 1px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 404px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-877-2 {
+  height: 1px;
+  left: 436px;
+  object-fit: cover;
+  position: absolute;
+  top: 344px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-878-2 {
+  height: 1px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-879-2 {
+  height: 1px;
+  left: 372px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-88-3 {
+  height: 1px;
+  left: 435px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-882-2 {
+  height: 1px;
+  left: 363px;
+  object-fit: cover;
+  position: absolute;
+  top: 393px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-88-4 {
+  height: 1px;
+  left: 345px;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-884-2 {
+  height: 1px;
+  left: 421px;
+  object-fit: cover;
+  position: absolute;
+  top: 360px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-885-2 {
+  height: 1px;
+  left: 355px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-887-2 {
+  height: 1px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-8-2 {
+  height: 1px;
+  left: 393px;
+  object-fit: cover;
+  position: absolute;
+  top: 387px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-889-2 {
+  height: 1px;
+  left: 352px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-891-2 {
+  height: 1px;
+  left: 388px;
+  object-fit: cover;
+  position: absolute;
+  top: 387px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-892-2 {
+  height: 1px;
+  left: 398px;
+  object-fit: cover;
+  position: absolute;
+  top: 380px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-893-2 {
+  height: 1px;
+  left: 354px;
+  object-fit: cover;
+  position: absolute;
+  top: 396px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-894-2 {
+  height: 4px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-895-2 {
+  height: 2px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 419px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-896-2 {
+  height: 2px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 426px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-897-2 {
+  height: 2px;
+  left: 383px;
+  object-fit: cover;
+  position: absolute;
+  top: 422px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-898-2 {
+  height: 2px;
+  left: 391px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-899-2 {
+  height: 1px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-900-2 {
+  height: 1px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-901-2 {
+  height: 1px;
+  left: 450px;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-902-2 {
+  height: 1px;
+  left: 378px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-903-2 {
+  height: 1px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 415px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-904-2 {
+  height: 1px;
+  left: 454px;
+  object-fit: cover;
+  position: absolute;
+  top: 376px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-905-2 {
+  height: 1px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-906-2 {
+  height: 1px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-907-2 {
+  height: 1px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 415px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-908-2 {
+  height: 1px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-909-2 {
+  height: 1px;
+  left: 372px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-910-2 {
+  height: 1px;
+  left: 384px;
+  object-fit: cover;
+  position: absolute;
+  top: 435px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-911-2 {
+  height: 1px;
+  left: 447px;
+  object-fit: cover;
+  position: absolute;
+  top: 381px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-912-2 {
+  height: 1px;
+  left: 427px;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-913-2 {
+  height: 1px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 435px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-914-2 {
+  height: 1px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 437px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-915-2 {
+  height: 1px;
+  left: 378px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-916-2 {
+  height: 1px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-917-2 {
+  height: 1px;
+  left: 409px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-918-2 {
+  height: 1px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-919-2 {
+  height: 1px;
+  left: 399px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-920-2 {
+  height: 4px;
+  left: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-921-2 {
+  height: 2px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 281px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-922-2 {
+  height: 1px;
+  left: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 320px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-923-2 {
+  height: 1px;
+  left: 329px;
+  object-fit: cover;
+  position: absolute;
+  top: 316px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-924-2 {
+  height: 2px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-925-2 {
+  height: 1px;
+  left: 358px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-926-2 {
+  height: 1px;
+  left: 334px;
+  object-fit: cover;
+  position: absolute;
+  top: 310px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-927-2 {
+  height: 1px;
+  left: 334px;
+  object-fit: cover;
+  position: absolute;
+  top: 317px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-928-2 {
+  height: 1px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-929-2 {
+  height: 1px;
+  left: 373px;
+  object-fit: cover;
+  position: absolute;
+  top: 295px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-930-2 {
+  height: 1px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-931-2 {
+  height: 1px;
+  left: 354px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-932-2 {
+  height: 1px;
+  left: 328px;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-933-2 {
+  height: 1px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 277px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-934-2 {
+  height: 1px;
+  left: 317px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-935-2 {
+  height: 1px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 303px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-936-2 {
+  height: 1px;
+  left: 365px;
+  object-fit: cover;
+  position: absolute;
+  top: 306px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-937-2 {
+  height: 1px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 284px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-938-2 {
+  height: 1px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 278px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-939-2 {
+  height: 1px;
+  left: 327px;
+  object-fit: cover;
+  position: absolute;
+  top: 332px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-940-2 {
+  height: 1px;
+  left: 355px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-941-2 {
+  height: 1px;
+  left: 343px;
+  object-fit: cover;
+  position: absolute;
+  top: 317px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-942-2 {
+  height: 1px;
+  left: 330px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-943-1 {
+  height: 1px;
+  left: 334px;
+  object-fit: cover;
+  position: absolute;
+  top: 315px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-944-2 {
+  height: 1px;
+  left: 324px;
+  object-fit: cover;
+  position: absolute;
+  top: 325px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-945-2 {
+  height: 1px;
+  left: 375px;
+  object-fit: cover;
+  position: absolute;
+  top: 287px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-946-2 {
+  height: 1px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-947-2 {
+  height: 1px;
+  left: 321px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-948-2 {
+  height: 1px;
+  left: 326px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-949-1 {
+  height: 1px;
+  left: 334px;
+  object-fit: cover;
+  position: absolute;
+  top: 316px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-950-2 {
+  height: 1px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 295px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-951-2 {
+  height: 1px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-952-2 {
+  height: 1px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 327px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-953-2 {
+  height: 1px;
+  left: 319px;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-954-2 {
+  height: 1px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-955-1 {
+  height: 1px;
+  left: 326px;
+  object-fit: cover;
+  position: absolute;
+  top: 322px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-956-2 {
+  height: 1px;
+  left: 320px;
+  object-fit: cover;
+  position: absolute;
+  top: 326px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-957-1 {
+  height: 1px;
+  left: 326px;
+  object-fit: cover;
+  position: absolute;
+  top: 321px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-958-2 {
+  height: 1px;
+  left: 318px;
+  object-fit: cover;
+  position: absolute;
+  top: 326px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-959-2 {
+  height: 1px;
+  left: 320px;
+  object-fit: cover;
+  position: absolute;
+  top: 325px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-960-2 {
+  height: 1px;
+  left: 317px;
+  object-fit: cover;
+  position: absolute;
+  top: 325px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-961-2 {
+  height: 1px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 278px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-962-2 {
+  height: 1px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 279px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-963-2 {
+  height: 2px;
+  left: 413px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 4px;
+}
+
+.x11-and-under-3 .path-964-2 {
+  height: 2px;
+  left: 437px;
+  object-fit: cover;
+  position: absolute;
+  top: 445px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-965-2 {
+  height: 2px;
+  left: 418px;
+  object-fit: cover;
+  position: absolute;
+  top: 457px;
+  width: 3px;
+}
+
+.x11-and-under-3 .path-966-2 {
+  height: 2px;
+  left: 443px;
+  object-fit: cover;
+  position: absolute;
+  top: 425px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-967-2 {
+  height: 2px;
+  left: 433px;
+  object-fit: cover;
+  position: absolute;
+  top: 441px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-968-2 {
+  height: 2px;
+  left: 469px;
+  object-fit: cover;
+  position: absolute;
+  top: 417px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-969-2 {
+  height: 1px;
+  left: 445px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-970-2 {
+  height: 2px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 455px;
+  width: 2px;
+}
+
+.x11-and-under-3 .path-971-2 {
+  height: 1px;
+  left: 426px;
+  object-fit: cover;
+  position: absolute;
+  top: 455px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-972-2 {
+  height: 1px;
+  left: 434px;
+  object-fit: cover;
+  position: absolute;
+  top: 432px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-973-2 {
+  height: 1px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-974-2 {
+  height: 1px;
+  left: 439px;
+  object-fit: cover;
+  position: absolute;
+  top: 429px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-975-2 {
+  height: 1px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 447px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-976-2 {
+  height: 1px;
+  left: 441px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-977-2 {
+  height: 1px;
+  left: 411px;
+  object-fit: cover;
+  position: absolute;
+  top: 451px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-978-2 {
+  height: 1px;
+  left: 464px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-979-2 {
+  height: 1px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 449px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-980-2 {
+  height: 1px;
+  left: 434px;
+  object-fit: cover;
+  position: absolute;
+  top: 447px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-981-2 {
+  height: 1px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 447px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-982-2 {
+  height: 1px;
+  left: 440px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-983-2 {
+  height: 1px;
+  left: 416px;
+  object-fit: cover;
+  position: absolute;
+  top: 448px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-984-2 {
+  height: 1px;
+  left: 429px;
+  object-fit: cover;
+  position: absolute;
+  top: 438px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-98 {
+  height: 1px;
+  left: 417px;
+  object-fit: cover;
+  position: absolute;
+  top: 448px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-987-2 {
+  height: 32px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 29px;
+}
+
+.x11-and-under-3 .path-988-2 {
+  height: 28px;
+  left: 439px;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 45px;
+}
+
+.x11-and-under-3 .path-989-2 {
+  height: 1px;
+  left: 449px;
+  object-fit: cover;
+  position: absolute;
+  top: 470px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-990-2 {
+  height: 1px;
+  left: 472px;
+  object-fit: cover;
+  position: absolute;
+  top: 460px;
+  width: 1px;
+}
+
+.x11-and-under-3 .path-991-2 {
+  height: 1px;
+  left: 457px;
+  object-fit: cover;
+  position: absolute;
+  top: 474px;
+  width: 1px;
+}
+
+.x11-and-under-3 .the-happy-wolf-by-m-2 {
+  cursor: pointer;
+  left: 479px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 415px;
+  width: 482px;
+}
+
+.x11-and-under-3 .name-2 {
+  cursor: pointer;
+  left: 479px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 572px;
+  width: 387px;
+}
+
+.x11-and-under-3 .the-future-schoolby-2 {
+  cursor: pointer;
+  left: 479px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 729px;
+  width: 467px;
+}
+
+.x11-and-under-3 .path-3888 {
+  height: 217px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 702px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-3889 {
+  height: 217px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 933px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-3890 {
+  height: 217px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1164px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-3891 {
+  height: 217px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 814px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-3892 {
+  height: 217px;
+  left: 194px;
+  object-fit: cover;
+  position: absolute;
+  top: 1046px;
+  width: 240px;
+}
+
+.x11-and-under-3 .path-3893 {
+  height: 217px;
+  left: 194px;
+  object-fit: cover;
+  position: absolute;
+  top: 1277px;
+  width: 240px;
+}
+
+.x11-and-under-3 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  justify-content: flex-end;
+  left: 857px;
+  min-width: 159px;
+  padding: 13.7px 40.8px;
+  position: absolute;
+  top: 80px;
+}
+
+.x11-and-under-3 .group-42-2 {
+  display: flex;
+  height: 66px;
+  width: 66px;
+}
+
+.x11-and-under-3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.52px;
+}
+
+.x11-and-under-3 .overlap-group-5 {
+  height: 66px;
+  position: relative;
+  width: 66px;
+}
+
+.x11-and-under-3 .path-4-2 {
+  height: 17px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 61px;
+}
+
+.x11-and-under-3 .group-38-4 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.x11-and-under-3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65.52px;
+}
+
+.x11-and-under-3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.1px 0;
+  width: 65.52px;
+}
+
+.x11-and-under-3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-77@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  width: 61px;
+}
+
+.x11-and-under-3 .winners-11-under-category-2 {
+  color: var(--red-violet);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 55px;
+  font-weight: 400;
+  height: 181px;
+  left: 454px;
+  letter-spacing: 0;
+  line-height: 65px;
+  position: absolute;
+  top: 265px;
+  width: 507px;
+}
+
+.x11-and-under-3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 335px;
+  min-width: 132px;
+  position: absolute;
+  top: 131px;
+}
+
+.x11-and-under-3 .overlap-group1-2 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.x11-and-under-3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .rectangle-49-2 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.x11-and-under-3 .xr-wordsmiths-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .the-artwork-2 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .overlap-group1-item-2 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .component-7-173 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 213px;
+  position: absolute;
+  top: 130px;
+  width: 98px;
+}
+
+.x11-and-under-3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.x11-and-under-3 .component-9-172 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 601px;
+  position: absolute;
+  top: 136px;
+  width: 110px;
+}
+
+.x11-and-under-3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.x11-and-under-3 .component-3-171 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 461px;
+  min-width: 172px;
+  position: absolute;
+  top: 135px;
+}
+
+.x11-and-under-3 .overlap-group2-2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.x11-and-under-3 .stories-2 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .rectangle-48-2 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.x11-and-under-3 .x11-under-winners-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .x19-over-winners-2 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .x12-18-winners-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .honorable-mentions-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x11-and-under-3 .component-8-207 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 751px;
+  position: absolute;
+  top: 136px;
+  width: 103px;
+}
+
+.x11-and-under-3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.x11-and-under-1 { 
+    display: none;
+   }
+  .screen.x11-and-under-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.x11-and-under-1 { 
+    display: none;
+   }
+  .screen.x11-and-under-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.x11-and-under-2 { 
+    display: none;
+   }
+  .screen.x11-and-under-3 { 
+    display: none;
+   }
+}

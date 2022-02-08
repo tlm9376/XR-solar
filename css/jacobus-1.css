@@ -1,0 +1,396 @@
+/* screen - jacobus-1 */
+
+.jacobus-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 7738px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.jacobus-1 .overlap-group3 {
+  height: 7813px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 2776px;
+}
+
+.jacobus-1 .rectangle-63 {
+  background-color: var(--cape-cod);
+  height: 7738px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.jacobus-1 .ellipse-44 {
+  background-color: #b5d0ff;
+  border-radius: 448.23px/317.5px;
+  left: 998px;
+  opacity: 0;
+  position: absolute;
+  top: 278px;
+  transform: rotate(224.00deg);
+}
+
+.jacobus-1 .group-2 {
+  height: 1080px;
+  left: 811px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 107px;
+  width: 1086px;
+}
+
+.jacobus-1 .path-4021 {
+  height: 1500px;
+  left: 744px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 2227px;
+  width: 2033px;
+}
+
+.jacobus-1 .er_illustration2-d-jacobus_numbers {
+  height: 1131px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 1791px;
+}
+
+.jacobus-1 .name {
+  height: 12px;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 219px;
+  white-space: nowrap;
+  width: 1408px;
+}
+
+.jacobus-1 .x1modular-approach {
+  color: var(--white);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 159px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 1561px;
+  width: 1542px;
+}
+
+.jacobus-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 1605px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.jacobus-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.jacobus-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.jacobus-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.jacobus-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.jacobus-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.jacobus-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.jacobus-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 25.3px 0;
+  width: 149.11px;
+}
+
+.jacobus-1 .group-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.jacobus-1 .er_-illustration2_d-jacobus-small-1 {
+  height: 1126px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 1782px;
+}
+
+.jacobus-1 .er_-illustration2_d-jacobus-small-1-1 {
+  height: 1097px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 6607px;
+  width: 1736px;
+}
+
+.jacobus-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 167px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.jacobus-1 .overlap-group1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.jacobus-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .rectangle-49 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.jacobus-1 .xr-wordsmiths {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .the-artwork {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .overlap-group1-item {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .component-7-161 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 45px;
+  position: absolute;
+  top: 100px;
+  width: 98px;
+}
+
+.jacobus-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.jacobus-1 .component-8-195 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 583px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.jacobus-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.jacobus-1 .component-9-160 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 433px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.jacobus-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.jacobus-1 .component-3-159 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 293px;
+  min-width: 172px;
+  position: absolute;
+  top: 105px;
+}
+
+.jacobus-1 .overlap-group2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.jacobus-1 .stories {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.jacobus-1 .rectangle-48 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.jacobus-1 .x11-under-winners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .x19-over-winners {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .x12-18-winners {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.jacobus-1 .honorable-mentions {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}

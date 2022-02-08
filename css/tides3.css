@@ -1,0 +1,1093 @@
+/* screen - tides-1 */
+
+.tides-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6842px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.tides-1 .overlap-group2 {
+  height: 7471px;
+  margin-left: -685px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 3250px;
+}
+
+.tides-1 .rectangle-42 {
+  background-color: var(--sky-blue);
+  height: 5771px;
+  left: 685px;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.tides-1 .ellipse-21 {
+  background-color: var(--white);
+  border-radius: 1625.18px/725px;
+  height: 1450px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 344px;
+  width: 3250px;
+}
+
+.tides-1 .rectangle-54 {
+  background-color: var(--onahau);
+  height: 6212px;
+  left: 685px;
+  position: absolute;
+  top: 1259px;
+  width: 1920px;
+}
+
+.tides-1 .the-tides-rolled-in {
+  height: 121px;
+  left: 963px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 170px;
+  white-space: nowrap;
+  width: 906px;
+}
+
+.tides-1 .by-chris-muscato-colorado-us {
+  height: 49px;
+  left: 1756px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 267px;
+  width: 575px;
+}
+
+.tides-1 .the-tides-rolled-in-1 {
+  left: 974px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 1313px;
+  width: 1345px;
+}
+
+.tides-1 .whats-app-image-2022-01-26-at-110023-am {
+  cursor: pointer;
+  height: 767px;
+  left: 975px;
+  object-fit: cover;
+  position: absolute;
+  top: 440px;
+  width: 1341px;
+}
+
+.tides-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2290px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.tides-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.tides-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.tides-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.tides-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.tides-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.tides-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.tides-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.tides-1 .group-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.tides-1 .illustration-by-dustin-jacobus {
+  height: 109px;
+  left: 1854px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 1206px;
+  width: 477px;
+}
+
+.tides-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 852px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.tides-1 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.tides-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.tides-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.tides-1 .component-7-209 {
+  display: flex;
+  height: 45px;
+  left: 730px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.tides-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.tides-1 .component-9-208 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1118px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.tides-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.tides-1 .component-3-207 {
+  display: flex;
+  height: 46px;
+  left: 978px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.tides-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.tides-1 .component-8-243 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1268px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.tides-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - tides-2 */
+
+.tides-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 4383px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.tides-2 .overlap-group3 {
+  height: 4450px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 2173px;
+}
+
+.tides-2 .rectangle-42-1 {
+  background-color: var(--sky-blue);
+  height: 3700px;
+  left: 441px;
+  position: absolute;
+  top: 53px;
+  width: 1283px;
+}
+
+.tides-2 .ellipse-21-1 {
+  background-color: var(--white);
+  border-radius: 1086.48px/681.57px;
+  height: 1363px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 243px;
+  width: 2173px;
+}
+
+.tides-2 .rectangle-54-1 {
+  background-color: var(--onahau);
+  height: 3100px;
+  left: 441px;
+  position: absolute;
+  top: 1350px;
+  width: 1283px;
+}
+
+.tides-2 .the-tides-rolled-in-2 {
+  height: 82px;
+  left: 605px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 87px;
+  white-space: nowrap;
+  width: 606px;
+}
+
+.tides-2 .by-chris-muscato-colorado-us-1 {
+  height: 33px;
+  left: 1221px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 192px;
+  width: 385px;
+}
+
+.tides-2 .the-tides-rolled-in-3 {
+  left: 637px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 917px;
+  width: 900px;
+}
+
+.tides-2 .whats-app-image-2022-01-26-at-110023-am-1 {
+  cursor: pointer;
+  height: 524px;
+  left: 635px;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 917px;
+}
+
+.tides-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1518px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.tides-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.tides-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.tides-2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.tides-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.tides-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.tides-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.tides-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.tides-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-40@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.tides-2 .illustration-by-dustin-jacobus-1 {
+  height: 43px;
+  left: 1262px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 856px;
+  width: 292px;
+}
+
+.tides-2 .the-prizes {
+  left: 523px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 127px;
+  white-space: nowrap;
+}
+
+.tides-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 613px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.tides-2 .overlap-group1-1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.tides-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.tides-2 .rectangle-49 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.tides-2 .xr-wordsmiths {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides-2 .the-artwork {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides-2 .overlap-group1-item {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides-2 .component-7-210 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 491px;
+  position: absolute;
+  top: 77px;
+  width: 98px;
+}
+
+.tides-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.tides-2 .component-9-209 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 879px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.tides-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.tides-2 .component-3-208 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 739px;
+  min-width: 172px;
+  position: absolute;
+  top: 82px;
+}
+
+.tides-2 .overlap-group2-1 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.tides-2 .stories-1 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.tides-2 .rectangle-48 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.tides-2 .x11-under-winners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.tides-2 .x19-over-winners {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.tides-2 .x12-18-winners {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.tides-2 .honorable-mentions {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.tides-2 .component-8-244 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1029px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.tides-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - tides3 */
+
+.tides3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3622px;
+  overflow: hidden;
+  width: 834px;
+}
+
+.tides3 .overlap-group3-1 {
+  height: 3834px;
+  margin-left: -293px;
+  margin-top: -29.35px;
+  position: relative;
+  width: 1420px;
+}
+
+.tides3 .rectangle-42-2 {
+  background-color: var(--sky-blue);
+  height: 3700px;
+  left: 288px;
+  position: absolute;
+  top: 30px;
+  width: 839px;
+}
+
+.tides3 .ellipse-21-2 {
+  background-color: var(--white);
+  border-radius: 709.77px/371.86px;
+  height: 744px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 208px;
+  width: 1420px;
+}
+
+.tides3 .rectangle-54-2 {
+  background-color: var(--onahau);
+  height: 3041px;
+  left: 291px;
+  position: absolute;
+  top: 793px;
+  width: 838px;
+}
+
+.tides3 .the-tides-rolled-in-4 {
+  height: 28px;
+  left: 417px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 51px;
+  white-space: nowrap;
+  width: 467px;
+}
+
+.tides3 .by-chris-muscato-colorado-us-2 {
+  height: 33px;
+  left: 744px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 177px;
+  width: 252px;
+}
+
+.tides3 .the-tides-rolled-in-5 {
+  left: 417px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 648px;
+  width: 588px;
+}
+
+.tides3 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-95@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  justify-content: flex-end;
+  left: 982px;
+  min-width: 158px;
+  padding: 14.8px 41.2px;
+  position: absolute;
+  top: 0;
+}
+
+.tides3 .group-42-2 {
+  display: flex;
+  height: 66px;
+  width: 65px;
+}
+
+.tides3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.12px;
+}
+
+.tides3 .overlap-group-2 {
+  height: 66px;
+  position: relative;
+  width: 65px;
+}
+
+.tides3 .path-4-2 {
+  height: 16px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 60px;
+}
+
+.tides3 .group-38-4 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.tides3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65.12px;
+}
+
+.tides3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.1px 0;
+  width: 65.12px;
+}
+
+.tides3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-95@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 60px;
+}
+
+.tides3 .whats-app-image-2022-01-26-at-110023-am-2 {
+  cursor: pointer;
+  height: 332px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 251px;
+  width: 581px;
+}
+
+.tides3 .illustration-by-dustin-jacobus-2 {
+  height: 43px;
+  left: 782px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 600px;
+  width: 223px;
+}
+
+.tides3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 460px;
+  min-width: 132px;
+  position: absolute;
+  top: 55px;
+}
+
+.tides3 .overlap-group1-2 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.tides3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.tides3 .rectangle-49-1 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.tides3 .xr-wordsmiths-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides3 .the-artwork-1 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides3 .overlap-group1-item-1 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.tides3 .component-7-211 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 338px;
+  position: absolute;
+  top: 54px;
+  width: 98px;
+}
+
+.tides3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.tides3 .component-9-210 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 726px;
+  position: absolute;
+  top: 60px;
+  width: 110px;
+}
+
+.tides3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.tides3 .component-3-209 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 586px;
+  min-width: 172px;
+  position: absolute;
+  top: 59px;
+}
+
+.tides3 .overlap-group2-2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.tides3 .stories-2 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.tides3 .rectangle-48-1 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.tides3 .x11-under-winners-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.tides3 .x19-over-winners-1 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.tides3 .x12-18-winners-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.tides3 .honorable-mentions-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.tides3 .component-8-245 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 876px;
+  position: absolute;
+  top: 60px;
+  width: 103px;
+}
+
+.tides3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.tides-1 { 
+    display: none;
+   }
+  .screen.tides-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.tides-1 { 
+    display: none;
+   }
+  .screen.tides3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.tides-2 { 
+    display: none;
+   }
+  .screen.tides3 { 
+    display: none;
+   }
+}

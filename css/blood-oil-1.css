@@ -1,0 +1,1208 @@
+/* screen - blood-oil-1 */
+
+.blood-oil-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 5221px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.blood-oil-1 .overlap-group3 {
+  height: 5322px;
+  margin-left: -1235px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 4390px;
+}
+
+.blood-oil-1 .rectangle-42 {
+  background-color: var(--vivid-violet);
+  height: 1080px;
+  left: 1235px;
+  opacity: 0.38;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.blood-oil-1 .ellipse-21 {
+  background-color: var(--white);
+  border-radius: 2195.16px/1866.5px;
+  height: 3733px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 360px;
+  width: 4390px;
+}
+
+.blood-oil-1 .blood-oil {
+  height: 121px;
+  left: 1524px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 162px;
+  white-space: nowrap;
+  width: 1258px;
+}
+
+.blood-oil-1 .by-rebecca-spring-w {
+  height: 64px;
+  left: 1963px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 254px;
+  width: 819px;
+}
+
+.blood-oil-1 .rectangle-53 {
+  background-color: var(--thistle);
+  height: 4167px;
+  left: 1235px;
+  opacity: 0.3;
+  position: absolute;
+  top: 1155px;
+  width: 1920px;
+}
+
+.blood-oil-1 .i-walk-through-the-t {
+  left: 1524px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 1667px;
+  width: 1345px;
+}
+
+.blood-oil-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2840px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.blood-oil-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.blood-oil-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.blood-oil-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.blood-oil-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.blood-oil-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.blood-oil-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.blood-oil-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.blood-oil-1 .group-2-2 {
+  background-image: url(../img/path-5-2-37@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.blood-oil-1 .blood-oil-2 {
+  cursor: pointer;
+  height: 1116px;
+  left: 1799px;
+  object-fit: cover;
+  position: absolute;
+  top: 420px;
+  width: 792px;
+}
+
+.blood-oil-1 .illustration-by-joo-queiroz {
+  height: 109px;
+  left: 2155px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 1536px;
+  width: 435px;
+}
+
+.blood-oil-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 1402px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.blood-oil-1 .overlap-group1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.blood-oil-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .rectangle-49 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.blood-oil-1 .xr-wordsmiths {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .the-artwork {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .overlap-group1-item {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .component-7-206 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 1280px;
+  position: absolute;
+  top: 100px;
+  width: 98px;
+}
+
+.blood-oil-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.blood-oil-1 .component-9-205 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1668px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.blood-oil-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.blood-oil-1 .component-3-204 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 1528px;
+  min-width: 172px;
+  position: absolute;
+  top: 105px;
+}
+
+.blood-oil-1 .overlap-group2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.blood-oil-1 .stories {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .rectangle-48 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.blood-oil-1 .x11-under-winners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .x19-over-winners {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .x12-18-winners {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .honorable-mentions {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.blood-oil-1 .component-8-240 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1818px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.blood-oil-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - blood-oil-2 */
+
+.blood-oil-2-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3279px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.blood-oil-2-1 .overlap-group3-1 {
+  height: 3368px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 2944px;
+}
+
+.blood-oil-2-1 .rectangle-42-1 {
+  background-color: var(--vivid-violet);
+  height: 725px;
+  left: 834px;
+  opacity: 0.38;
+  position: absolute;
+  top: 40px;
+  width: 1287px;
+}
+
+.blood-oil-2-1 .ellipse-21-1 {
+  background-color: var(--white);
+  border-radius: 1471.98px/878.59px;
+  height: 1757px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 321px;
+  width: 2944px;
+}
+
+.blood-oil-2-1 .blood-oil-3 {
+  height: 83px;
+  left: 1022px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 79px;
+  white-space: nowrap;
+  width: 845px;
+}
+
+.blood-oil-2-1 .by-rebecca-spring-w-1 {
+  height: 44px;
+  left: 1151px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 247px;
+  white-space: nowrap;
+  width: 1017px;
+}
+
+.blood-oil-2-1 .rectangle-53-1 {
+  background-color: var(--thistle);
+  height: 2603px;
+  left: 834px;
+  opacity: 0.3;
+  position: absolute;
+  top: 765px;
+  width: 1287px;
+}
+
+.blood-oil-2-1 .i-walk-through-the-t-1 {
+  left: 1022px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1146px;
+  width: 902px;
+}
+
+.blood-oil-2-1 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1904px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.blood-oil-2-1 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.blood-oil-2-1 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.blood-oil-2-1 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.blood-oil-2-1 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.blood-oil-2-1 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.blood-oil-2-1 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.blood-oil-2-1 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.blood-oil-2-1 .group-2-2-1 {
+  background-image: url(../img/path-5-2-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.blood-oil-2-1 .the-prizes {
+  left: 909px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 127px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .blood-oil-4 {
+  cursor: pointer;
+  height: 699px;
+  left: 1224px;
+  object-fit: cover;
+  position: absolute;
+  top: 368px;
+  width: 496px;
+}
+
+.blood-oil-2-1 .illustration-by-joo-queiroz-1 {
+  height: 44px;
+  left: 1432px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: right;
+  top: 1068px;
+  width: 290px;
+}
+
+.blood-oil-2-1 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 999px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.blood-oil-2-1 .overlap-group1-1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.blood-oil-2-1 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .rectangle-49-1 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.blood-oil-2-1 .xr-wordsmiths-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .the-artwork-1 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .overlap-group1-item-1 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .component-7-207 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 877px;
+  position: absolute;
+  top: 77px;
+  width: 98px;
+}
+
+.blood-oil-2-1 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.blood-oil-2-1 .component-9-206 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1265px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.blood-oil-2-1 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.blood-oil-2-1 .component-3-205 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 1125px;
+  min-width: 172px;
+  position: absolute;
+  top: 82px;
+}
+
+.blood-oil-2-1 .overlap-group2-1 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.blood-oil-2-1 .stories-1 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .rectangle-48-1 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.blood-oil-2-1 .x11-under-winners-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .x19-over-winners-1 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .x12-18-winners-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .honorable-mentions-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.blood-oil-2-1 .component-8-241 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1415px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.blood-oil-2-1 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - blood-oil-3 */
+
+.blood-oil-3-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 834px;
+}
+
+.blood-oil-3-1 .overlap-group3-2 {
+  height: 2619px;
+  margin-left: -519px;
+  margin-top: -12.0px;
+  position: relative;
+  width: 1903px;
+}
+
+.blood-oil-3-1 .rectangle-42-2 {
+  background-color: var(--vivid-violet);
+  height: 470px;
+  left: 519px;
+  opacity: 0.38;
+  position: absolute;
+  top: 12px;
+  width: 833px;
+}
+
+.blood-oil-3-1 .ellipse-21-2 {
+  background-color: var(--white);
+  border-radius: 951.66px/389.68px;
+  height: 779px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 231px;
+  width: 1903px;
+}
+
+.blood-oil-3-1 .blood-oil-5 {
+  height: 114px;
+  left: 643px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+  width: 547px;
+}
+
+.blood-oil-3-1 .by-rebecca-spring-w-2 {
+  height: 29px;
+  left: 696px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 191px;
+  white-space: nowrap;
+  width: 659px;
+}
+
+.blood-oil-3-1 .rectangle-53-2 {
+  background-color: var(--thistle);
+  height: 2137px;
+  left: 520px;
+  opacity: 0.3;
+  position: absolute;
+  top: 482px;
+  width: 832px;
+}
+
+.blood-oil-3-1 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 117px;
+  justify-content: flex-end;
+  left: 1205px;
+  min-width: 155px;
+  padding: 13.2px 39.4px;
+  position: absolute;
+  top: 0;
+}
+
+.blood-oil-3-1 .group-42-2 {
+  display: flex;
+  height: 65px;
+  width: 65px;
+}
+
+.blood-oil-3-1 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 64.65px;
+}
+
+.blood-oil-3-1 .overlap-group-2 {
+  height: 65px;
+  position: relative;
+  width: 65px;
+}
+
+.blood-oil-3-1 .path-4-2 {
+  height: 16px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 60px;
+}
+
+.blood-oil-3-1 .group-38-4 {
+  display: flex;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.blood-oil-3-1 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 64.65px;
+}
+
+.blood-oil-3-1 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.0px 0;
+  width: 64.65px;
+}
+
+.blood-oil-3-1 .group-2-2-2 {
+  background-image: url(../img/path-5-2-113@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 60px;
+}
+
+.blood-oil-3-1 .i-walk-through-the-t-2 {
+  left: 646px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 779px;
+  width: 583px;
+}
+
+.blood-oil-3-1 .the-prizes-1 {
+  left: 596px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 87px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .blood-oil-6 {
+  cursor: pointer;
+  height: 474px;
+  left: 767px;
+  object-fit: cover;
+  position: absolute;
+  top: 259px;
+  width: 337px;
+}
+
+.blood-oil-3-1 .illustration-by-joo-queiroz-2 {
+  height: 31px;
+  left: 884px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: right;
+  top: 733px;
+  width: 220px;
+}
+
+.blood-oil-3-1 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 686px;
+  min-width: 132px;
+  position: absolute;
+  top: 38px;
+}
+
+.blood-oil-3-1 .overlap-group1-2 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.blood-oil-3-1 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .rectangle-49-2 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.blood-oil-3-1 .xr-wordsmiths-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .the-artwork-2 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .overlap-group1-item-2 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .component-7-208 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 564px;
+  position: absolute;
+  top: 37px;
+  width: 98px;
+}
+
+.blood-oil-3-1 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.blood-oil-3-1 .component-9-207 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 952px;
+  position: absolute;
+  top: 43px;
+  width: 110px;
+}
+
+.blood-oil-3-1 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.blood-oil-3-1 .component-3-206 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 812px;
+  min-width: 172px;
+  position: absolute;
+  top: 42px;
+}
+
+.blood-oil-3-1 .overlap-group2-2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.blood-oil-3-1 .stories-2 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .rectangle-48-2 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.blood-oil-3-1 .x11-under-winners-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .x19-over-winners-2 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .x12-18-winners-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .honorable-mentions-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.blood-oil-3-1 .component-8-242 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1102px;
+  position: absolute;
+  top: 43px;
+  width: 103px;
+}
+
+.blood-oil-3-1 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.blood-oil-1 { 
+    display: none;
+   }
+  .screen.blood-oil-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.blood-oil-1 { 
+    display: none;
+   }
+  .screen.blood-oil-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.blood-oil-2 { 
+    display: none;
+   }
+  .screen.blood-oil-3 { 
+    display: none;
+   }
+}

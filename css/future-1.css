@@ -1,0 +1,842 @@
+/* screen - future-1 */
+
+.future-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3930px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.future-1 .overlap-group2 {
+  height: 4546px;
+  margin-left: -1669px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 5258px;
+}
+
+.future-1 .rectangle-50 {
+  background-color: var(--lightning-yellow);
+  height: 3975px;
+  left: 1669px;
+  opacity: 0.39;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.future-1 .ellipse-21 {
+  background-color: var(--white);
+  border-radius: 2629.16px/2109px;
+  height: 4218px;
+  left: 0;
+  opacity: 0.81;
+  position: absolute;
+  top: 328px;
+  width: 5258px;
+}
+
+.future-1 .the-future-school {
+  height: 121px;
+  left: 1958px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 161px;
+  white-space: nowrap;
+  width: 906px;
+}
+
+.future-1 .rectangle-43 {
+  height: 60px;
+  left: 2542px;
+  object-fit: cover;
+  position: absolute;
+  top: 335px;
+  width: 802px;
+}
+
+.future-1 .nowadays-students-d {
+  left: 1958px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 428px;
+  width: 1345px;
+}
+
+.future-1 .by-liz-liu-age-10-taipei-taiwan {
+  height: 49px;
+  left: 2738px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 252px;
+  width: 575px;
+}
+
+.future-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 3274px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.future-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.future-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.future-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.future-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.future-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.future-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.future-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.future-1 .group-2-2 {
+  background-image: url(../img/path-5-2-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.future-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 1836px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.future-1 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.future-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.future-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.future-1 .component-7-194 {
+  display: flex;
+  height: 45px;
+  left: 1714px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.future-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.future-1 .component-9-193 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 2102px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.future-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.future-1 .component-3-192 {
+  display: flex;
+  height: 46px;
+  left: 1962px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.future-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.future-1 .component-8-228 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 2252px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.future-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - future-2 */
+
+.future-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2471px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.future-2 .overlap-group2-1 {
+  height: 3036px;
+  margin-left: -1113px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 3507px;
+}
+
+.future-2 .rectangle-50-1 {
+  background-color: var(--lightning-yellow);
+  height: 2651px;
+  left: 1109px;
+  opacity: 0.39;
+  position: absolute;
+  top: 54px;
+  width: 1280px;
+}
+
+.future-2 .ellipse-21-1 {
+  background-color: var(--white);
+  border-radius: 1753.28px/1406.41px;
+  height: 2813px;
+  left: 0;
+  opacity: 0.81;
+  position: absolute;
+  top: 223px;
+  width: 3507px;
+}
+
+.future-2 .the-future-school-1 {
+  height: 81px;
+  left: 1303px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 78px;
+  white-space: nowrap;
+  width: 605px;
+}
+
+.future-2 .nowadays-students-d-1 {
+  left: 1306px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 340px;
+  width: 897px;
+}
+
+.future-2 .by-liz-liu-age-10-taipei-taiwan-1 {
+  color: var(--dove-gray);
+  font-family: var(--font-family-crimson_text);
+  font-size: 29px;
+  font-weight: 400;
+  height: 119px;
+  left: 1823px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 172px;
+  width: 410px;
+}
+
+.future-2 .rectangle-43-1 {
+  height: 40px;
+  left: 1714px;
+  object-fit: cover;
+  position: absolute;
+  top: 251px;
+  width: 535px;
+}
+
+.future-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 2185px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.future-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.future-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.future-2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.future-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.future-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.future-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.future-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.future-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.future-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 1280px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.future-2 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.future-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.future-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.future-2 .component-7-195 {
+  display: flex;
+  height: 45px;
+  left: 1158px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.future-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.future-2 .component-9-194 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1546px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.future-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.future-2 .component-3-193 {
+  display: flex;
+  height: 46px;
+  left: 1406px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.future-2 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.future-2 .component-8-229 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1696px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.future-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - future-3 */
+
+.future-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2150px;
+  overflow: hidden;
+  width: 834px;
+}
+
+.future-3 .overlap-group2-2 {
+  height: 2178px;
+  margin-left: -729px;
+  margin-top: -28.0px;
+  position: relative;
+  width: 2292px;
+}
+
+.future-3 .rectangle-50-2 {
+  background-color: var(--lightning-yellow);
+  height: 1733px;
+  left: 726px;
+  opacity: 0.39;
+  position: absolute;
+  top: 26px;
+  width: 837px;
+}
+
+.future-3 .ellipse-21-2 {
+  background-color: var(--white);
+  border-radius: 1146.09px/919.34px;
+  height: 1839px;
+  left: 0;
+  opacity: 0.81;
+  position: absolute;
+  top: 231px;
+  width: 2292px;
+}
+
+.future-3 .rectangle-62 {
+  background-color: #fffaef;
+  height: 498px;
+  left: 726px;
+  position: absolute;
+  top: 1680px;
+  width: 837px;
+}
+
+.future-3 .the-future-school-2 {
+  height: 135px;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 118px;
+  width: 575px;
+}
+
+.future-3 .nowadays-students-d-2 {
+  height: 1825px;
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 275px;
+  width: 587px;
+}
+
+.future-3 .by-liz-liu-age-10-taipei-taiwan-2 {
+  color: var(--dove-gray);
+  font-family: var(--font-family-crimson_text);
+  font-size: 29px;
+  font-weight: 400;
+  height: 41px;
+  left: 1039px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  top: 192px;
+  width: 527px;
+}
+
+.future-3 .group-130 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-85@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 118px;
+  justify-content: flex-end;
+  left: 1425px;
+  min-width: 156px;
+  padding: 13.7px 40.2px;
+  position: absolute;
+  top: 0;
+}
+
+.future-3 .group-42-2 {
+  display: flex;
+  height: 66px;
+  width: 65px;
+}
+
+.future-3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65px;
+}
+
+.future-3 .overlap-group-2 {
+  height: 66px;
+  position: relative;
+  width: 65px;
+}
+
+.future-3 .path-4-2 {
+  height: 16px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 60px;
+}
+
+.future-3 .group-38-4 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.future-3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65px;
+}
+
+.future-3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.0px 0;
+  width: 65px;
+}
+
+.future-3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-85@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 60px;
+}
+
+.future-3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 896px;
+  min-width: 132px;
+  position: absolute;
+  top: 54px;
+}
+
+.future-3 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.future-3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.future-3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.future-3 .component-7-196 {
+  display: flex;
+  height: 45px;
+  left: 774px;
+  position: absolute;
+  top: 58px;
+  width: 86px;
+}
+
+.future-3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.future-3 .component-9-195 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1162px;
+  position: absolute;
+  top: 59px;
+  width: 110px;
+}
+
+.future-3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.future-3 .component-3-194 {
+  display: flex;
+  height: 46px;
+  left: 1022px;
+  position: absolute;
+  top: 58px;
+  width: 172px;
+}
+
+.future-3 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.future-3 .component-8-230 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1312px;
+  position: absolute;
+  top: 59px;
+  width: 103px;
+}
+
+.future-3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.future-1 { 
+    display: none;
+   }
+  .screen.future-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.future-1 { 
+    display: none;
+   }
+  .screen.future-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.future-2 { 
+    display: none;
+   }
+  .screen.future-3 { 
+    display: none;
+   }
+}

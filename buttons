@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.abtdropbtn {
+  background-color: #3FB3DD;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.abtdropdown {
+  position: fixed;
+  left: 10px;
+  display: block;
+
+}
+
+.abtdropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #76D0F1;
+ 
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,.2);
+  z-index: 1;
+}
+
+.abtdropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.abtdropdown-content a:hover {background-color: #22ADE0;}
+
+
+.abtdropdown:hover .abtdropdown-content {display: block;}
+
+.abtdropdown:hover .abtdropbtn {background-color: #76D0F1;}
+
+
+
+
+.stydropbtn {
+  background-color:#3FB3DD;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.stydropdown {
+  position: relative;
+  left: 99px;
+  display: inline-block;
+
+}
+
+.stydropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #76D0F1;
+  min-width: 230px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,.2);
+  z-index: 1;
+}
+
+.stydropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.stydropdown-content a:hover {background-color: #22ADE0;}
+
+
+.stydropdown:hover .stydropdown-content {display: block;}
+
+.stydropdown:hover .stydropbtn {background-color: #76D0F1;}
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
+
+
+
+<div class="abtdropdown">
+  <button class="abtdropbtn">About</button>
+  <div class="abtdropdown-content crimsontext-normal-black-25px">
+    <a href="about-solarpunk-1.html">Solarpunk</a>
+    <a href="about-the-judges-1.html">The Judges</a>
+    <a href="about-the-showcase-1.html">The Showcase</a>
+    <a href="about-the-xr-wordsmiths-1.html">The XR Wordsmiths</a>
+    <a href="about-the-artwork-1.html">The Artwork</a>
+    <a href="about-the-prizes-1.html">The Prizes</a>
+      </div>
+    </div>
+    
+    
+
+
+<div class="stydropdown">
+  <button class="stydropbtn">Stories</button>
+  <div class="stydropdown-content">
+    <a href="11-and-under-1.html">Winners: Children's Category</a>
+    <a href="12-18-winners1.html">Winners: Teenager's Category</a>
+    <a href="18-ov-1.html">Winners: Adult's Category</a>
+    <a href="xr-top-1.html">XR Wordsmith's Top Picks</a>
+    <a href="runners-up1.html">Runners Up</a>
+    <a href="honorable-1.html">Honourable Mentions</a>
+
+</div>
+
+</body>
+</html>

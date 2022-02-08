@@ -1,0 +1,859 @@
+/* screen - automata-1 */
+
+.automata-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 8357px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.automata-1 .overlap-group2 {
+  height: 8507px;
+  margin-left: -556px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 3148px;
+}
+
+.automata-1 .rectangle-42 {
+  background-color: var(--mandy);
+  height: 1080px;
+  left: 556px;
+  position: absolute;
+  top: 75px;
+  width: 2037px;
+}
+
+.automata-1 .ellipse-21 {
+  background-color: var(--peach-yellow);
+  border-radius: 1574.18px/1261px;
+  height: 2522px;
+  left: 0;
+  position: absolute;
+  top: 288px;
+  width: 3148px;
+}
+
+.automata-1 .automata-albatross {
+  height: 121px;
+  left: 883px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 126px;
+  white-space: nowrap;
+  width: 1240px;
+}
+
+.automata-1 .rectangle-55 {
+  background-color: var(--peach-yellow);
+  height: 7523px;
+  left: 556px;
+  position: absolute;
+  top: 984px;
+  width: 2037px;
+}
+
+.automata-1 .the-albatross-almost {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 457px;
+  width: 1378px;
+}
+
+.automata-1 .rectangle-43 {
+  height: 60px;
+  left: 1175px;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 799px;
+}
+
+.automata-1 .by-robin-happel {
+  color: #070202;
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 49px;
+  left: 1829px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 227px;
+  width: 334px;
+}
+
+.automata-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2161px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.automata-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.automata-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.automata-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.automata-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.automata-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.automata-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.automata-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.automata-1 .group-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.automata-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 723px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.automata-1 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.automata-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.automata-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.automata-1 .component-7-247 {
+  display: flex;
+  height: 45px;
+  left: 601px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.automata-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.automata-1 .component-9-246 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 989px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.automata-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.automata-1 .component-3-245 {
+  display: flex;
+  height: 46px;
+  left: 849px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.automata-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.automata-1 .component-8-281 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1139px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.automata-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - automata-2 */
+
+.automata-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 5532px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.automata-2 .overlap-group2-1 {
+  height: 5567px;
+  margin-left: -350px;
+  margin-top: -35.0px;
+  position: relative;
+  width: 1981px;
+}
+
+.automata-2 .rectangle-42-1 {
+  background-color: var(--mandy);
+  height: 679px;
+  left: 350px;
+  position: absolute;
+  top: 34px;
+  width: 1282px;
+}
+
+.automata-2 .ellipse-21-1 {
+  background-color: var(--peach-yellow);
+  border-radius: 990.39px/627.35px;
+  height: 1255px;
+  left: 0;
+  position: absolute;
+  top: 225px;
+  width: 1981px;
+}
+
+.automata-2 .automata-albatross-1 {
+  height: 77px;
+  left: 568px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+  width: 781px;
+}
+
+.automata-2 .by-robin-happel-1 {
+  color: #0f0606;
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 32px;
+  left: 1230px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 187px;
+  width: 211px;
+}
+
+.automata-2 .rectangle-55-1 {
+  background-color: var(--peach-yellow);
+  height: 4961px;
+  left: 350px;
+  position: absolute;
+  top: 606px;
+  width: 1282px;
+}
+
+.automata-2 .the-albatross-almost-1 {
+  left: 557px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 341px;
+  width: 868px;
+}
+
+.automata-2 .rectangle-43-1 {
+  height: 38px;
+  left: 728px;
+  object-fit: cover;
+  position: absolute;
+  top: 278px;
+  width: 503px;
+}
+
+.automata-2 .group-124 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-71@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 172px;
+  justify-content: flex-end;
+  left: 1418px;
+  min-width: 229px;
+  padding: 21.8px 59.2px;
+  position: absolute;
+  top: 0;
+}
+
+.automata-2 .group-42-1 {
+  display: flex;
+  height: 95px;
+  width: 94px;
+}
+
+.automata-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 93.81px;
+}
+
+.automata-2 .overlap-group-1 {
+  height: 95px;
+  position: relative;
+  width: 94px;
+}
+
+.automata-2 .path-4-1 {
+  height: 24px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 87px;
+}
+
+.automata-2 .group-38-2 {
+  display: flex;
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.automata-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 93.81px;
+}
+
+.automata-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 15.9px 0;
+  width: 93.81px;
+}
+
+.automata-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-71@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  width: 87px;
+}
+
+.automata-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 517px;
+  min-width: 132px;
+  position: absolute;
+  top: 61px;
+}
+
+.automata-2 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.automata-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.automata-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.automata-2 .component-7-248 {
+  display: flex;
+  height: 45px;
+  left: 395px;
+  position: absolute;
+  top: 65px;
+  width: 86px;
+}
+
+.automata-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.automata-2 .component-9-247 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 783px;
+  position: absolute;
+  top: 66px;
+  width: 110px;
+}
+
+.automata-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.automata-2 .component-3-246 {
+  display: flex;
+  height: 46px;
+  left: 643px;
+  position: absolute;
+  top: 65px;
+  width: 172px;
+}
+
+.automata-2 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.automata-2 .component-8-282 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 933px;
+  position: absolute;
+  top: 66px;
+  width: 103px;
+}
+
+.automata-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - automata-3 */
+
+.automata-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 4577px;
+  justify-content: center;
+  overflow: hidden;
+  width: 834px;
+}
+
+.automata-3 .overlap-group2-2 {
+  height: 4599px;
+  margin-top: -21.53px;
+  position: relative;
+  width: 1289px;
+}
+
+.automata-3 .rectangle-42-2 {
+  background-color: var(--mandy);
+  height: 442px;
+  left: 228px;
+  position: absolute;
+  top: 22px;
+  width: 834px;
+}
+
+.automata-3 .ellipse-21-2 {
+  background-color: var(--peach-yellow);
+  border-radius: 644.3px/320.37px;
+  height: 641px;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 1289px;
+}
+
+.automata-3 .automata-albatross-2 {
+  height: 51px;
+  left: 372px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+  width: 509px;
+}
+
+.automata-3 .by-robin-happel-2 {
+  color: #0f0606;
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  height: 21px;
+  left: 810px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 166px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.automata-3 .rectangle-55-2 {
+  background-color: var(--peach-yellow);
+  height: 4205px;
+  left: 228px;
+  position: absolute;
+  top: 394px;
+  width: 834px;
+}
+
+.automata-3 .the-albatross-almost-2 {
+  left: 383px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 243px;
+  width: 565px;
+}
+
+.automata-3 .group-124-1 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-109@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 112px;
+  justify-content: flex-end;
+  left: 923px;
+  min-width: 149px;
+  padding: 14.2px 38.5px;
+  position: absolute;
+  top: 0;
+}
+
+.automata-3 .group-42-2 {
+  display: flex;
+  height: 62px;
+  width: 61px;
+}
+
+.automata-3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 61.03px;
+}
+
+.automata-3 .overlap-group-2 {
+  height: 62px;
+  position: relative;
+  width: 61px;
+}
+
+.automata-3 .path-4-2 {
+  height: 15px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 56px;
+}
+
+.automata-3 .group-38-4 {
+  display: flex;
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.automata-3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 61.03px;
+}
+
+.automata-3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 10.4px 0;
+  width: 61.03px;
+}
+
+.automata-3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-109@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  width: 56px;
+}
+
+.automata-3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 394px;
+  min-width: 132px;
+  position: absolute;
+  top: 48px;
+}
+
+.automata-3 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.automata-3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.automata-3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.automata-3 .component-7-249 {
+  display: flex;
+  height: 45px;
+  left: 272px;
+  position: absolute;
+  top: 52px;
+  width: 86px;
+}
+
+.automata-3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.automata-3 .component-9-248 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 660px;
+  position: absolute;
+  top: 53px;
+  width: 110px;
+}
+
+.automata-3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.automata-3 .component-3-247 {
+  display: flex;
+  height: 46px;
+  left: 520px;
+  position: absolute;
+  top: 52px;
+  width: 172px;
+}
+
+.automata-3 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.automata-3 .component-8-283 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 810px;
+  position: absolute;
+  top: 53px;
+  width: 103px;
+}
+
+.automata-3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.automata-1 { 
+    display: none;
+   }
+  .screen.automata-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.automata-1 { 
+    display: none;
+   }
+  .screen.automata-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.automata-2 { 
+    display: none;
+   }
+  .screen.automata-3 { 
+    display: none;
+   }
+}

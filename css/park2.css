@@ -1,0 +1,859 @@
+/* screen - park-1 */
+
+.park-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6440px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.park-1 .overlap-group2 {
+  height: 6512px;
+  margin-left: -614px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 3148px;
+}
+
+.park-1 .rectangle-42 {
+  background-color: var(--hopbush);
+  height: 1080px;
+  left: 614px;
+  position: absolute;
+  top: 75px;
+  width: 2037px;
+}
+
+.park-1 .ellipse-21 {
+  background-color: var(--perano);
+  border-radius: 1574.18px/1079px;
+  height: 2158px;
+  left: 0;
+  position: absolute;
+  top: 274px;
+  width: 3148px;
+}
+
+.park-1 .the-park {
+  height: 121px;
+  left: 955px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+  width: 1240px;
+}
+
+.park-1 .by-adam-marx-borehamwood-england {
+  color: var(--dust-storm);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 49px;
+  left: 1382px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 218px;
+  width: 1020px;
+}
+
+.park-1 .rectangle-43 {
+  height: 60px;
+  left: 1232px;
+  object-fit: cover;
+  position: absolute;
+  top: 343px;
+  width: 802px;
+}
+
+.park-1 .rectangle-55 {
+  background-color: var(--perano);
+  height: 5528px;
+  left: 614px;
+  position: absolute;
+  top: 984px;
+  width: 2037px;
+}
+
+.park-1 .the-childs-face-was {
+  left: 945px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 441px;
+  width: 1378px;
+}
+
+.park-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2219px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.park-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.park-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.park-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.park-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.park-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.park-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.park-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.park-1 .group-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.park-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 781px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.park-1 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.park-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.park-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.park-1 .component-7-250 {
+  display: flex;
+  height: 45px;
+  left: 659px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.park-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.park-1 .component-9-249 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1047px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.park-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.park-1 .component-3-248 {
+  display: flex;
+  height: 46px;
+  left: 907px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.park-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.park-1 .component-8-284 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1197px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.park-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - park2 */
+
+.park2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 4273px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.park2 .overlap-group2-1 {
+  height: 4325px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 1982px;
+}
+
+.park2 .rectangle-42-1 {
+  background-color: var(--hopbush);
+  height: 680px;
+  left: 350px;
+  position: absolute;
+  top: 49px;
+  width: 1282px;
+}
+
+.park2 .ellipse-21-1 {
+  background-color: var(--perano);
+  border-radius: 990.8px/594.19px;
+  height: 1188px;
+  left: 0;
+  position: absolute;
+  top: 248px;
+  width: 1982px;
+}
+
+.park2 .the-park-1 {
+  height: 77px;
+  left: 560px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 91px;
+  white-space: nowrap;
+  width: 781px;
+}
+
+.park2 .by-adam-marx-borehamwood-england-1 {
+  color: var(--dust-storm);
+  font-family: var(--font-family-crimson_text);
+  font-size: 30px;
+  font-weight: 400;
+  height: 32px;
+  left: 977px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 183px;
+  white-space: nowrap;
+  width: 643px;
+}
+
+.park2 .rectangle-43-1 {
+  height: 38px;
+  left: 738px;
+  object-fit: cover;
+  position: absolute;
+  top: 302px;
+  width: 505px;
+}
+
+.park2 .rectangle-55-1 {
+  background-color: var(--perano);
+  height: 3705px;
+  left: 350px;
+  position: absolute;
+  top: 620px;
+  width: 1282px;
+}
+
+.park2 .the-childs-face-was-1 {
+  left: 558px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 388px;
+  width: 868px;
+}
+
+.park2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1423px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.park2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.park2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.park2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.park2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.park2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.park2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.park2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0;
+  width: 99.47px;
+}
+
+.park2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-48@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.park2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 518px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.park2 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.park2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.park2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.park2 .component-7-251 {
+  display: flex;
+  height: 45px;
+  left: 396px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.park2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.park2 .component-9-250 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 784px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.park2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.park2 .component-3-249 {
+  display: flex;
+  height: 46px;
+  left: 644px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.park2 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.park2 .component-8-285 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 934px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.park2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - park3 */
+
+.park3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3467px;
+  justify-content: center;
+  overflow: hidden;
+  width: 834px;
+}
+
+.park3 .overlap-group2-2 {
+  height: 3532px;
+  margin-top: -25.0px;
+  position: relative;
+  width: 1532px;
+}
+
+.park3 .rectangle-42-2 {
+  background-color: var(--hopbush);
+  height: 446px;
+  left: 349px;
+  position: absolute;
+  top: 26px;
+  width: 834px;
+}
+
+.park3 .ellipse-21-2 {
+  background-color: var(--perano);
+  border-radius: 766.25px/520.48px;
+  height: 1041px;
+  left: 0;
+  position: absolute;
+  top: 170px;
+  width: 1532px;
+}
+
+.park3 .the-park-2 {
+  height: 51px;
+  left: 483px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 513px;
+}
+
+.park3 .by-adam-marx-borehamwood-england-2 {
+  color: var(--dust-storm);
+  font-family: var(--font-family-crimson_text);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  height: 21px;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+  width: 422px;
+}
+
+.park3 .rectangle-55-2 {
+  background-color: var(--perano);
+  height: 3132px;
+  left: 346px;
+  position: absolute;
+  top: 400px;
+  width: 841px;
+}
+
+.park3 .the-childs-face-was-2 {
+  left: 482px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 210px;
+  width: 570px;
+}
+
+.park3 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  justify-content: flex-end;
+  left: 1038px;
+  min-width: 159px;
+  padding: 13.7px 40.8px;
+  position: absolute;
+  top: 0;
+}
+
+.park3 .group-42-2 {
+  display: flex;
+  height: 66px;
+  width: 66px;
+}
+
+.park3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.52px;
+}
+
+.park3 .overlap-group-2 {
+  height: 66px;
+  position: relative;
+  width: 66px;
+}
+
+.park3 .path-4-2 {
+  height: 17px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 61px;
+}
+
+.park3 .group-38-4 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.park3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65.52px;
+}
+
+.park3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 11.1px 0;
+  width: 65.52px;
+}
+
+.park3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-103@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  width: 61px;
+}
+
+.park3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 516px;
+  min-width: 132px;
+  position: absolute;
+  top: 51px;
+}
+
+.park3 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.park3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.park3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.park3 .component-7-252 {
+  display: flex;
+  height: 45px;
+  left: 394px;
+  position: absolute;
+  top: 55px;
+  width: 86px;
+}
+
+.park3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.park3 .component-9-251 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 782px;
+  position: absolute;
+  top: 56px;
+  width: 110px;
+}
+
+.park3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.park3 .component-3-250 {
+  display: flex;
+  height: 46px;
+  left: 642px;
+  position: absolute;
+  top: 55px;
+  width: 172px;
+}
+
+.park3 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.park3 .component-8-286 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 932px;
+  position: absolute;
+  top: 56px;
+  width: 103px;
+}
+
+.park3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.park-1 { 
+    display: none;
+   }
+  .screen.park2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.park-1 { 
+    display: none;
+   }
+  .screen.park3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.park2 { 
+    display: none;
+   }
+  .screen.park3 { 
+    display: none;
+   }
+}

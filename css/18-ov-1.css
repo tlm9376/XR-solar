@@ -1,0 +1,973 @@
+/* screen - 18-0v-3 */
+
+.x18-0v-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1194px;
+  overflow: hidden;
+  width: 834px;
+}
+
+.x18-0v-3 .overlap-group3 {
+  height: 1330px;
+  margin-left: -170px;
+  margin-top: -25.0px;
+  position: relative;
+  width: 1164px;
+}
+
+.x18-0v-3 .rectangle-24 {
+  background-color: var(--sky-blue);
+  height: 1195px;
+  left: 170px;
+  position: absolute;
+  top: 24px;
+  width: 838px;
+}
+
+.x18-0v-3 .ellipse-19 {
+  background-color: var(--lightning-yellow);
+  border-radius: 451px/602.5px;
+  height: 1205px;
+  left: 262px;
+  opacity: 1.0;
+  position: absolute;
+  top: 125px;
+  width: 902px;
+}
+
+.x18-0v-3 .gabbys-first-kissb {
+  cursor: pointer;
+  left: 495px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  text-align: right;
+  top: 465px;
+  width: 467px;
+}
+
+.x18-0v-3 .where-giants-will-st {
+  cursor: pointer;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  text-align: right;
+  top: 653px;
+  width: 683px;
+}
+
+.x18-0v-3 .the-tides-rolled-in {
+  cursor: pointer;
+  left: 350px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  text-align: right;
+  top: 851px;
+  width: 604px;
+}
+
+.x18-0v-3 .group-94 {
+  background-image: url(../img/group-93-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 801px;
+  width: 407px;
+}
+
+.x18-0v-3 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  justify-content: flex-end;
+  left: 859px;
+  min-width: 159px;
+  padding: 13.7px 40.8px;
+  position: absolute;
+  top: 0;
+}
+
+.x18-0v-3 .group-42 {
+  display: flex;
+  height: 66px;
+  width: 66px;
+}
+
+.x18-0v-3 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.52px;
+}
+
+.x18-0v-3 .overlap-group {
+  height: 66px;
+  position: relative;
+  width: 66px;
+}
+
+.x18-0v-3 .path-4 {
+  height: 17px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 61px;
+}
+
+.x18-0v-3 .group-38 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.x18-0v-3 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 65.52px;
+}
+
+.x18-0v-3 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.1px 0;
+  width: 65.52px;
+}
+
+.x18-0v-3 .group-2-2 {
+  background-image: url(../img/path-5-2-78@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  width: 61px;
+}
+
+.x18-0v-3 .winners-18-over-category {
+  color: var(--mandy);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 65px;
+  font-weight: 400;
+  height: 163px;
+  left: 453px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  text-align: right;
+  top: 230px;
+  width: 515px;
+}
+
+.x18-0v-3 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 337px;
+  min-width: 132px;
+  position: absolute;
+  top: 51px;
+}
+
+.x18-0v-3 .overlap-group1 {
+  height: 57px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 132px;
+}
+
+.x18-0v-3 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .rectangle-49 {
+  background-color: var(--picton-blue);
+  border-radius: 5px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.x18-0v-3 .xr-wordsmiths {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .the-artwork {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .overlap-group1-item {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .component-7-176 {
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  left: 215px;
+  position: absolute;
+  top: 50px;
+  width: 98px;
+}
+
+.x18-0v-3 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -20.5px;
+  margin-right: -2px;
+  margin-top: 18.5px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.x18-0v-3 .component-9-175 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 603px;
+  position: absolute;
+  top: 56px;
+  width: 110px;
+}
+
+.x18-0v-3 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.x18-0v-3 .component-3-174 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  left: 463px;
+  min-width: 172px;
+  position: absolute;
+  top: 55px;
+}
+
+.x18-0v-3 .overlap-group2 {
+  height: 47px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 172px;
+}
+
+.x18-0v-3 .stories {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .rectangle-48 {
+  background-color: var(--black);
+  border-radius: 4px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 13px;
+}
+
+.x18-0v-3 .x11-under-winners {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .x19-over-winners {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .x12-18-winners {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .honorable-mentions {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.x18-0v-3 .component-8-210 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 753px;
+  position: absolute;
+  top: 56px;
+  width: 103px;
+}
+
+.x18-0v-3 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - 18-ov-1 */
+
+.x18-ov-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.x18-ov-1 .overlap-group2-1 {
+  height: 1237px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 2190px;
+}
+
+.x18-ov-1 .rectangle-24-1 {
+  background-color: var(--sky-blue);
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.x18-ov-1 .ellipse-19-1 {
+  background-color: var(--lightning-yellow);
+  border-radius: 956.5px/581px;
+  height: 1162px;
+  left: 277px;
+  opacity: 1.0;
+  position: absolute;
+  top: 75px;
+  width: 1913px;
+}
+
+.x18-ov-1 .winners-18-over-category-1 {
+  height: 121px;
+  left: 584px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 318px;
+  width: 1301px;
+}
+
+.x18-ov-1 .gabbys-first-kissb-1 {
+  cursor: pointer;
+  left: 604px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 452px;
+  width: 665px;
+}
+
+.x18-ov-1 .where-giants-will-st-1 {
+  cursor: pointer;
+  left: 605px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 649px;
+  width: 665px;
+}
+
+.x18-ov-1 .the-tides-rolled-in-1 {
+  cursor: pointer;
+  left: 604px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 846px;
+  width: 665px;
+}
+
+.x18-ov-1 .group-94-1 {
+  background-image: url(../img/group-93@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 651px;
+  left: 1310px;
+  position: absolute;
+  top: 504px;
+  width: 580px;
+}
+
+.x18-ov-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 1605px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.x18-ov-1 .group-42-1 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.x18-ov-1 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.x18-ov-1 .overlap-group-1 {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.x18-ov-1 .path-4-1 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.x18-ov-1 .group-38-2 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.x18-ov-1 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.x18-ov-1 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.x18-ov-1 .group-2-2-1 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.x18-ov-1 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 167px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.x18-ov-1 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.x18-ov-1 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x18-ov-1 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x18-ov-1 .component-7-174 {
+  display: flex;
+  height: 45px;
+  left: 45px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.x18-ov-1 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.x18-ov-1 .component-9-173 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 433px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.x18-ov-1 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.x18-ov-1 .component-3-172 {
+  display: flex;
+  height: 46px;
+  left: 293px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.x18-ov-1 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.x18-ov-1 .component-8-208 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 583px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.x18-ov-1 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - 18-ov-2 */
+
+.x18-ov-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 800px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.x18-ov-2 .overlap-group2-2 {
+  height: 859px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 1402px;
+}
+
+.x18-ov-2 .rectangle-24-2 {
+  background-color: var(--sky-blue);
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 1280px;
+}
+
+.x18-ov-2 .ellipse-19-2 {
+  background-color: var(--lightning-yellow);
+  border-radius: 671px/407px;
+  height: 814px;
+  left: 60px;
+  opacity: 1.0;
+  position: absolute;
+  top: 45px;
+  width: 1342px;
+}
+
+.x18-ov-2 .gabbys-first-kissb-2 {
+  cursor: pointer;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 261px;
+  width: 444px;
+}
+
+.x18-ov-2 .where-giants-will-st-2 {
+  cursor: pointer;
+  left: 278px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 406px;
+  width: 649px;
+}
+
+.x18-ov-2 .the-tides-rolled-in-2 {
+  cursor: pointer;
+  left: 278px;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  top: 569px;
+  width: 574px;
+}
+
+.x18-ov-2 .group-94-2 {
+  background-image: url(../img/group-93-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 434px;
+  left: 873px;
+  position: absolute;
+  top: 338px;
+  width: 387px;
+}
+
+.x18-ov-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1072px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.x18-ov-2 .group-42-2 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.x18-ov-2 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.x18-ov-2 .overlap-group-2 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.x18-ov-2 .path-4-2 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.x18-ov-2 .group-38-4 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.x18-ov-2 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.x18-ov-2 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.x18-ov-2 .group-2-2-2 {
+  background-image: url(../img/path-5-2-40@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.x18-ov-2 .winners-18-over-category-2 {
+  color: var(--mandy);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 65px;
+  font-weight: 400;
+  height: 121px;
+  left: 290px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 180px;
+  width: 905px;
+}
+
+.x18-ov-2 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 167px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.x18-ov-2 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.x18-ov-2 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x18-ov-2 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.x18-ov-2 .component-7-175 {
+  display: flex;
+  height: 45px;
+  left: 45px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.x18-ov-2 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.x18-ov-2 .component-9-174 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 433px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.x18-ov-2 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.x18-ov-2 .component-3-173 {
+  display: flex;
+  height: 46px;
+  left: 293px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.x18-ov-2 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.x18-ov-2 .component-8-209 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 583px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.x18-ov-2 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.x18-ov-1 { 
+    display: none;
+   }
+  .screen.x18-ov-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.x18-ov-1 { 
+    display: none;
+   }
+  .screen.x18-0v-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.x18-ov-2 { 
+    display: none;
+   }
+  .screen.x18-0v-3 { 
+    display: none;
+   }
+}

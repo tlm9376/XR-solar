@@ -1,0 +1,6495 @@
+/* screen - about-the-showcase-1 */
+
+.about-the-showcase-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1240px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.about-the-showcase-1 .overlap-group32 {
+  height: 1893px;
+  margin-left: -2px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 2351px;
+}
+
+.about-the-showcase-1 .rectangle-10 {
+  background-color: var(--hopbush);
+  height: 1818px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.about-the-showcase-1 .ellipse-15 {
+  background-color: var(--yellow-green);
+  border-radius: 644.5px/566.5px;
+  height: 1133px;
+  left: 1062px;
+  position: absolute;
+  top: 131px;
+  width: 1289px;
+}
+
+.about-the-showcase-1 .about-the-showcase {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 90px;
+  font-weight: 400;
+  height: 121px;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 221px;
+  white-space: nowrap;
+  width: 906px;
+}
+
+.about-the-showcase-1 .the-xr-wordsmiths-so {
+  height: 882px;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 420px;
+  width: 958px;
+}
+
+.about-the-showcase-1 .group-89 {
+  display: flex;
+  height: 1671px;
+  left: 1104px;
+  position: absolute;
+  top: 157px;
+  width: 717px;
+}
+
+.about-the-showcase-1 .group-88 {
+  background-image: url(../img/path-1483@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  position: relative;
+  width: 717.08px;
+}
+
+.about-the-showcase-1 .path-1484 {
+  height: 2px;
+  left: 210px;
+  object-fit: cover;
+  position: absolute;
+  top: 1107px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1485 {
+  height: 3px;
+  left: 258px;
+  object-fit: cover;
+  position: absolute;
+  top: 1268px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container {
+  height: 25px;
+  left: 293px;
+  position: absolute;
+  top: 1286px;
+  width: 12px;
+}
+
+.about-the-showcase-1 .path-1486 {
+  height: 22px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.about-the-showcase-1 .path-1488 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1487 {
+  height: 2px;
+  left: 625px;
+  object-fit: cover;
+  position: absolute;
+  top: 1161px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1489 {
+  height: 1px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 1270px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1490 {
+  height: 1px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 1169px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-1 {
+  height: 4px;
+  left: 343px;
+  position: absolute;
+  top: 617px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1491 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1495 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-2 {
+  height: 1px;
+  left: 339px;
+  position: absolute;
+  top: 607px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1-1 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1496 {
+  height: 18px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 649px;
+  width: 6px;
+}
+
+.about-the-showcase-1 .path-1497 {
+  height: 13px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 653px;
+  width: 6px;
+}
+
+.about-the-showcase-1 .path-1498 {
+  height: 10px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 703px;
+  width: 14px;
+}
+
+.about-the-showcase-1 .path-1499 {
+  height: 10px;
+  left: 121px;
+  object-fit: cover;
+  position: absolute;
+  top: 652px;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-1500 {
+  height: 1px;
+  left: 180px;
+  object-fit: cover;
+  position: absolute;
+  top: 690px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-3 {
+  height: 22px;
+  left: 68px;
+  position: absolute;
+  top: 1045px;
+  width: 62px;
+}
+
+.about-the-showcase-1 .path-1501 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 62px;
+}
+
+.about-the-showcase-1 .path-1502 {
+  height: 4px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1503 {
+  height: 5px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-1504 {
+  height: 2px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 1056px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1505 {
+  height: 3px;
+  left: 550px;
+  object-fit: cover;
+  position: absolute;
+  top: 754px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1506 {
+  height: 4px;
+  left: 557px;
+  object-fit: cover;
+  position: absolute;
+  top: 727px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1507 {
+  height: 1px;
+  left: 549px;
+  object-fit: cover;
+  position: absolute;
+  top: 760px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1508 {
+  height: 18px;
+  left: 352px;
+  object-fit: cover;
+  position: absolute;
+  top: 424px;
+  width: 39px;
+}
+
+.about-the-showcase-1 .path-1509 {
+  height: 10px;
+  left: 388px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 18px;
+}
+
+.about-the-showcase-1 .path-1510 {
+  height: 1px;
+  left: 406px;
+  object-fit: cover;
+  position: absolute;
+  top: 528px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-4 {
+  height: 2px;
+  left: 263px;
+  position: absolute;
+  top: 483px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1511 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-5 {
+  height: 25px;
+  left: 106px;
+  position: absolute;
+  top: 1266px;
+  width: 38px;
+}
+
+.about-the-showcase-1 .path-1513 {
+  height: 18px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.about-the-showcase-1 .path-1514 {
+  height: 13px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1515 {
+  height: 14px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+
+.about-the-showcase-1 .path-1521 {
+  height: 4px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1516 {
+  height: 12px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 1265px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-container-6 {
+  height: 9px;
+  left: 128px;
+  position: absolute;
+  top: 1290px;
+  width: 6px;
+}
+
+.about-the-showcase-1 .path-1517 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1518 {
+  height: 7px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-container-7 {
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 1295px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1519 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1520 {
+  height: 3px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1522 {
+  height: 1px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 1288px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1523 {
+  height: 1px;
+  left: 134px;
+  object-fit: cover;
+  position: absolute;
+  top: 1304px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1524 {
+  height: 19px;
+  left: 207px;
+  object-fit: cover;
+  position: absolute;
+  top: 1372px;
+  width: 26px;
+}
+
+.about-the-showcase-1 .path-1525 {
+  height: 19px;
+  left: 251px;
+  object-fit: cover;
+  position: absolute;
+  top: 1389px;
+  width: 17px;
+}
+
+.about-the-showcase-1 .path-1526 {
+  height: 17px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 1451px;
+  width: 11px;
+}
+
+.about-the-showcase-1 .path-1527 {
+  height: 17px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 1461px;
+  width: 10px;
+}
+
+.about-the-showcase-1 .path-1528 {
+  height: 13px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 1444px;
+  width: 11px;
+}
+
+.about-the-showcase-1 .path-1529 {
+  height: 10px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 1430px;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-1530 {
+  height: 8px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 1431px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1531 {
+  height: 7px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 1442px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1532 {
+  height: 2px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 1447px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1533 {
+  height: 1px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 1456px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1534 {
+  height: 6px;
+  left: 489px;
+  object-fit: cover;
+  position: absolute;
+  top: 1310px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-container-8 {
+  height: 16px;
+  left: 169px;
+  position: absolute;
+  top: 1271px;
+  width: 27px;
+}
+
+.about-the-showcase-1 .path-1535 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.about-the-showcase-1 .path-1536 {
+  height: 10px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1537 {
+  height: 10px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 1284px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1538 {
+  height: 8px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 1302px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-9 {
+  height: 5px;
+  left: 189px;
+  position: absolute;
+  top: 1301px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1539 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1542 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1540 {
+  height: 3px;
+  left: 182px;
+  object-fit: cover;
+  position: absolute;
+  top: 1298px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1541 {
+  height: 1px;
+  left: 180px;
+  object-fit: cover;
+  position: absolute;
+  top: 1288px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1543 {
+  height: 1px;
+  left: 187px;
+  object-fit: cover;
+  position: absolute;
+  top: 1301px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-10 {
+  height: 18px;
+  left: 187px;
+  position: absolute;
+  top: 1045px;
+  width: 26px;
+}
+
+.about-the-showcase-1 .path-1544 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.about-the-showcase-1 .path-1546 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1547 {
+  height: 1px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1545 {
+  height: 2px;
+  left: 213px;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/path-1512-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  left: 219px;
+  min-width: 1px;
+  position: absolute;
+  top: 1041px;
+}
+
+.about-the-showcase-1 .path-1549 {
+  height: 1px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1550 {
+  height: 19px;
+  left: 231px;
+  object-fit: cover;
+  position: absolute;
+  top: 1083px;
+  width: 17px;
+}
+
+.about-the-showcase-1 .path-1551 {
+  height: 9px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 1047px;
+  width: 17px;
+}
+
+.about-the-showcase-1 .path-1552 {
+  height: 9px;
+  left: 229px;
+  object-fit: cover;
+  position: absolute;
+  top: 1060px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1553 {
+  height: 7px;
+  left: 236px;
+  object-fit: cover;
+  position: absolute;
+  top: 1072px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-container-11 {
+  height: 5px;
+  left: 223px;
+  position: absolute;
+  top: 1077px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1554 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1557 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .overlap-group11 {
+  align-items: flex-start;
+  background-image: url(../img/path-1555@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 4px;
+  justify-content: flex-end;
+  left: 212px;
+  min-width: 7px;
+  padding: 0.8px 0;
+  position: absolute;
+  top: 1084px;
+}
+
+.about-the-showcase-1 .path-1563 {
+  height: 1px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-container-12 {
+  height: 4px;
+  left: 222px;
+  position: absolute;
+  top: 1089px;
+  width: 6px;
+}
+
+.about-the-showcase-1 .path-1556 {
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-1558 {
+  height: 2px;
+  left: 225px;
+  object-fit: cover;
+  position: absolute;
+  top: 1050px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-13 {
+  height: 1px;
+  left: 207px;
+  position: absolute;
+  top: 1081px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1559 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1561 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1560 {
+  height: 1px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 1083px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-14 {
+  height: 17px;
+  left: 452px;
+  position: absolute;
+  top: 468px;
+  width: 51px;
+}
+
+.about-the-showcase-1 .path-1564 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.about-the-showcase-1 .path-1565 {
+  height: 17px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.about-the-showcase-1 .path-1566 {
+  height: 5px;
+  left: 486px;
+  object-fit: cover;
+  position: absolute;
+  top: 495px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-container-15 {
+  height: 30px;
+  left: 521px;
+  position: absolute;
+  top: 485px;
+  width: 61px;
+}
+
+.about-the-showcase-1 .path-1567 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.about-the-showcase-1 .path-1568 {
+  height: 11px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 24px;
+}
+
+.about-the-showcase-1 .path-1569 {
+  height: 12px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 18px;
+}
+
+.about-the-showcase-1 .path-container-16 {
+  height: 40px;
+  left: 121px;
+  position: absolute;
+  top: 1325px;
+  width: 53px;
+}
+
+.about-the-showcase-1 .path-1570 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.about-the-showcase-1 .path-1571 {
+  height: 5px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1572 {
+  height: 1px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-container-17 {
+  height: 82px;
+  left: 149px;
+  position: absolute;
+  top: 1091px;
+  width: 54px;
+}
+
+.about-the-showcase-1 .path-1573 {
+  height: 24px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 49px;
+}
+
+.about-the-showcase-1 .path-1574 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 7px;
+}
+
+.about-the-showcase-1 .path-1575 {
+  height: 15px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 16px;
+}
+
+.about-the-showcase-1 .path-1576 {
+  height: 13px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1577 {
+  height: 14px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1578 {
+  height: 3px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1579 {
+  height: 3px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1580 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1581 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1593 {
+  height: 50px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.about-the-showcase-1 .path-1594 {
+  height: 34px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.about-the-showcase-1 .path-1595 {
+  height: 3px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-1582 {
+  height: 14px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 1400px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1583 {
+  height: 12px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 1384px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1584 {
+  height: 15px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1414px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1585 {
+  height: 11px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 1370px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1586 {
+  height: 5px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 1382px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1587 {
+  height: 2px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 1366px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1588 {
+  height: 1px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 1366px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .ellipse-14 {
+  background-color: var(--black);
+  border-radius: 1.22px/0.12px;
+  height: 1px;
+  left: 116px;
+  position: absolute;
+  top: 1366px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1589 {
+  height: 22px;
+  left: 196px;
+  object-fit: cover;
+  position: absolute;
+  top: 980px;
+  width: 34px;
+}
+
+.about-the-showcase-1 .path-1590 {
+  height: 8px;
+  left: 219px;
+  object-fit: cover;
+  position: absolute;
+  top: 1002px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1591 {
+  height: 5px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 989px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1592 {
+  height: 5px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 1002px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-container-18 {
+  height: 30px;
+  left: 85px;
+  position: absolute;
+  top: 971px;
+  width: 32px;
+}
+
+.about-the-showcase-1 .path-1596 {
+  height: 25px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.about-the-showcase-1 .path-1597 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1598 {
+  height: 5px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 1004px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1599 {
+  height: 2px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 983px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1600 {
+  height: 1px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 1012px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1601 {
+  height: 14px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 1157px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1602 {
+  height: 13px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 1154px;
+  width: 11px;
+}
+
+.about-the-showcase-1 .path-container-19 {
+  height: 17px;
+  left: 96px;
+  position: absolute;
+  top: 1143px;
+  width: 16px;
+}
+
+.about-the-showcase-1 .path-1603 {
+  height: 12px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1604 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1605 {
+  height: 7px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 1145px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1606 {
+  height: 8px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 1142px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-container-20 {
+  height: 10px;
+  left: 119px;
+  position: absolute;
+  top: 1139px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1607 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1608 {
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1609 {
+  height: 10px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 1324px;
+  width: 10px;
+}
+
+.about-the-showcase-1 .path-1610 {
+  height: 8px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 1338px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1611 {
+  height: 8px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 1349px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1612 {
+  height: 12px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 1308px;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-container-21 {
+  height: 25px;
+  left: 213px;
+  position: absolute;
+  top: 1110px;
+  width: 21px;
+}
+
+.about-the-showcase-1 .path-1613 {
+  height: 13px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.about-the-showcase-1 .path-1614 {
+  height: 13px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.about-the-showcase-1 .path-1615 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 7px;
+}
+
+.about-the-showcase-1 .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/path-1616@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 11px;
+  justify-content: flex-end;
+  left: 208px;
+  min-width: 10px;
+  padding: 0.7px 2.3px;
+  position: absolute;
+  top: 1093px;
+}
+
+.about-the-showcase-1 .path-1617 {
+  height: 2px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1618 {
+  height: 1px;
+  left: 217px;
+  object-fit: cover;
+  position: absolute;
+  top: 1111px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1619 {
+  height: 1px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 1092px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1620 {
+  height: 1px;
+  left: 471px;
+  object-fit: cover;
+  position: absolute;
+  top: 336px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-22 {
+  height: 21px;
+  left: 54px;
+  position: absolute;
+  top: 1012px;
+  width: 25px;
+}
+
+.about-the-showcase-1 .path-1621 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.about-the-showcase-1 .path-1622 {
+  height: 8px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 17px;
+}
+
+.about-the-showcase-1 .path-1624 {
+  height: 3px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 12px;
+}
+
+.about-the-showcase-1 .path-1625 {
+  height: 4px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1626 {
+  height: 2px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1623 {
+  height: 8px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 1028px;
+  width: 6px;
+}
+
+.about-the-showcase-1 .path-1627 {
+  height: 1px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1010px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1628 {
+  height: 1px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 1010px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1629 {
+  height: 46px;
+  left: 398px;
+  object-fit: cover;
+  position: absolute;
+  top: 656px;
+  width: 20px;
+}
+
+.about-the-showcase-1 .path-1630 {
+  height: 12px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 1128px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1631 {
+  height: 14px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 1119px;
+  width: 10px;
+}
+
+.about-the-showcase-1 .path-container-23 {
+  height: 10px;
+  left: 68px;
+  position: absolute;
+  top: 1101px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1632 {
+  height: 8px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1633 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1634 {
+  height: 3px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1639 {
+  height: 3px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1635 {
+  height: 2px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1117px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1636 {
+  height: 1px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1113px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-24 {
+  height: 3px;
+  left: 82px;
+  position: absolute;
+  top: 1121px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1637 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1640 {
+  height: 1px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 1092px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1641 {
+  height: 13px;
+  left: 428px;
+  object-fit: cover;
+  position: absolute;
+  top: 1280px;
+  width: 18px;
+}
+
+.about-the-showcase-1 .path-container-25 {
+  height: 24px;
+  left: 45px;
+  position: absolute;
+  top: 1070px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1642 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.about-the-showcase-1 .path-1644 {
+  height: 11px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 10px;
+}
+
+.about-the-showcase-1 .path-1643 {
+  height: 12px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 1096px;
+  width: 12px;
+}
+
+.about-the-showcase-1 .path-1645 {
+  height: 10px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 1075px;
+  width: 13px;
+}
+
+.about-the-showcase-1 .path-container-26 {
+  height: 4px;
+  left: 65px;
+  position: absolute;
+  top: 1092px;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-1646 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.about-the-showcase-1 .path-1648 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1647 {
+  height: 1px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1066px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1649 {
+  height: 1px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 1070px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1650 {
+  height: 1px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 1070px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-container-27 {
+  height: 7px;
+  left: 143px;
+  position: absolute;
+  top: 967px;
+  width: 2px;
+}
+
+.about-the-showcase-1 .path-1651 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1652 {
+  height: 5px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1653 {
+  height: 1px;
+  left: 172px;
+  object-fit: cover;
+  position: absolute;
+  top: 988px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1654 {
+  height: 17px;
+  left: 266px;
+  object-fit: cover;
+  position: absolute;
+  top: 1121px;
+  width: 16px;
+}
+
+.about-the-showcase-1 .path-1655 {
+  height: 10px;
+  left: 586px;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1656 {
+  height: 9px;
+  left: 589px;
+  object-fit: cover;
+  position: absolute;
+  top: 553px;
+  width: 15px;
+}
+
+.about-the-showcase-1 .path-1657 {
+  height: 3px;
+  left: 217px;
+  object-fit: cover;
+  position: absolute;
+  top: 478px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1658 {
+  height: 1px;
+  left: 256px;
+  object-fit: cover;
+  position: absolute;
+  top: 517px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1659 {
+  height: 34px;
+  left: 243px;
+  object-fit: cover;
+  position: absolute;
+  top: 1232px;
+  width: 18px;
+}
+
+.about-the-showcase-1 .path-1660 {
+  height: 1px;
+  left: 456px;
+  object-fit: cover;
+  position: absolute;
+  top: 1317px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1661 {
+  height: 37px;
+  left: 436px;
+  object-fit: cover;
+  position: absolute;
+  top: 617px;
+  width: 17px;
+}
+
+.about-the-showcase-1 .path-1662 {
+  height: 13px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 937px;
+  width: 11px;
+}
+
+.about-the-showcase-1 .path-1663 {
+  height: 1px;
+  left: 406px;
+  object-fit: cover;
+  position: absolute;
+  top: 945px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1664 {
+  height: 9px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 1033px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1665 {
+  height: 10px;
+  left: 419px;
+  object-fit: cover;
+  position: absolute;
+  top: 1045px;
+  width: 6px;
+}
+
+.about-the-showcase-1 .path-1666 {
+  height: 2px;
+  left: 397px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 5px;
+}
+
+.about-the-showcase-1 .path-1667 {
+  height: 17px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 980px;
+  width: 8px;
+}
+
+.about-the-showcase-1 .path-1668 {
+  height: 10px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 998px;
+  width: 9px;
+}
+
+.about-the-showcase-1 .path-1669 {
+  height: 1px;
+  left: 536px;
+  object-fit: cover;
+  position: absolute;
+  top: 912px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1670 {
+  height: 1px;
+  left: 621px;
+  object-fit: cover;
+  position: absolute;
+  top: 707px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .path-1671 {
+  height: 2px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 977px;
+  width: 3px;
+}
+
+.about-the-showcase-1 .path-1672 {
+  height: 8px;
+  left: 204px;
+  object-fit: cover;
+  position: absolute;
+  top: 282px;
+  width: 19px;
+}
+
+.about-the-showcase-1 .path-1673 {
+  height: 1px;
+  left: 593px;
+  object-fit: cover;
+  position: absolute;
+  top: 693px;
+  width: 1px;
+}
+
+.about-the-showcase-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 1607px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.about-the-showcase-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.about-the-showcase-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.about-the-showcase-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.about-the-showcase-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.about-the-showcase-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.about-the-showcase-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.about-the-showcase-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.about-the-showcase-1 .group-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.about-the-showcase-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 169px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.about-the-showcase-1 .overlap-group31 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.about-the-showcase-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about-the-showcase-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.about-the-showcase-1 .component-7-149 {
+  display: flex;
+  height: 45px;
+  left: 47px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.about-the-showcase-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.about-the-showcase-1 .component-8-183 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 585px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.about-the-showcase-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.about-the-showcase-1 .component-9-148 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 435px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.about-the-showcase-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.about-the-showcase-1 .component-3-147 {
+  display: flex;
+  height: 46px;
+  left: 295px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.about-the-showcase-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+/* screen - about-the-showcase-2 */
+
+.about-the-showcase-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 800px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.about-the-showcase-2 .overlap-group33 {
+  height: 1221px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 1572px;
+}
+
+.about-the-showcase-2 .rectangle-10-1 {
+  background-color: var(--hopbush);
+  height: 803px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 1284px;
+}
+
+.about-the-showcase-2 .ellipse-15-1 {
+  background-color: var(--yellow-green);
+  border-radius: 431px/378.5px;
+  height: 757px;
+  left: 710px;
+  position: absolute;
+  top: 87px;
+  width: 862px;
+}
+
+.about-the-showcase-2 .about-the-showcase-3 {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 50px;
+  font-weight: 400;
+  height: 81px;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+  width: 606px;
+}
+
+.about-the-showcase-2 .group-89-1 {
+  display: flex;
+  height: 1117px;
+  left: 738px;
+  position: absolute;
+  top: 104px;
+  width: 479px;
+}
+
+.about-the-showcase-2 .group-88-1 {
+  background-image: url(../img/path-1483-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  position: relative;
+  width: 479.3px;
+}
+
+.about-the-showcase-2 .path-1484-1 {
+  height: 1px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 740px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1485-1 {
+  height: 2px;
+  left: 172px;
+  object-fit: cover;
+  position: absolute;
+  top: 848px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-28 {
+  height: 16px;
+  left: 196px;
+  position: absolute;
+  top: 860px;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-1486-1 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-1488-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1487-1 {
+  height: 1px;
+  left: 418px;
+  object-fit: cover;
+  position: absolute;
+  top: 776px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1489-1 {
+  height: 1px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 849px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1490-1 {
+  height: 1px;
+  left: 309px;
+  object-fit: cover;
+  position: absolute;
+  top: 782px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-29 {
+  height: 3px;
+  left: 229px;
+  position: absolute;
+  top: 412px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1-2 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1495-1 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/path-1492-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  left: 227px;
+  min-width: 1px;
+  position: absolute;
+  top: 406px;
+}
+
+.about-the-showcase-2 .path-1493 {
+  height: 1px;
+  margin-bottom: -0.01px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1496-1 {
+  height: 12px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 434px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-1497-1 {
+  height: 8px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-1498-1 {
+  height: 7px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 470px;
+  width: 9px;
+}
+
+.about-the-showcase-2 .path-1499-1 {
+  height: 6px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1500-1 {
+  height: 1px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-30 {
+  height: 15px;
+  left: 46px;
+  position: absolute;
+  top: 698px;
+  width: 41px;
+}
+
+.about-the-showcase-2 .path-1501-1 {
+  height: 13px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.about-the-showcase-2 .path-1502-1 {
+  height: 3px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1503-1 {
+  height: 3px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1504-1 {
+  height: 2px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 706px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1505-1 {
+  height: 2px;
+  left: 368px;
+  object-fit: cover;
+  position: absolute;
+  top: 504px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1506-1 {
+  height: 3px;
+  left: 372px;
+  object-fit: cover;
+  position: absolute;
+  top: 486px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1507-1 {
+  height: 1px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 508px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1508-1 {
+  height: 12px;
+  left: 236px;
+  object-fit: cover;
+  position: absolute;
+  top: 284px;
+  width: 26px;
+}
+
+.about-the-showcase-2 .path-1509-1 {
+  height: 6px;
+  left: 260px;
+  object-fit: cover;
+  position: absolute;
+  top: 333px;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-1510-1 {
+  height: 1px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .overlap-group22 {
+  align-items: flex-start;
+  background-image: url(../img/path-1494-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  left: 176px;
+  min-width: 1px;
+  position: absolute;
+  top: 323px;
+}
+
+.about-the-showcase-2 .path-15 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-31 {
+  height: 17px;
+  left: 71px;
+  position: absolute;
+  top: 846px;
+  width: 26px;
+}
+
+.about-the-showcase-2 .path-1513-1 {
+  height: 12px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.about-the-showcase-2 .path-1514-1 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1515-1 {
+  height: 9px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 9px;
+}
+
+.about-the-showcase-2 .path-1521-1 {
+  height: 2px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1516-1 {
+  height: 8px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 846px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-container-32 {
+  height: 6px;
+  left: 85px;
+  position: absolute;
+  top: 862px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-1517-1 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1518-1 {
+  height: 5px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-container-33 {
+  height: 5px;
+  left: 83px;
+  position: absolute;
+  top: 866px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1519-1 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1520-1 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1522-1 {
+  height: 1px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 861px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1523-1 {
+  height: 1px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 872px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1524-1 {
+  height: 13px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 917px;
+  width: 17px;
+}
+
+.about-the-showcase-2 .path-1525-1 {
+  height: 13px;
+  left: 168px;
+  object-fit: cover;
+  position: absolute;
+  top: 928px;
+  width: 11px;
+}
+
+.about-the-showcase-2 .path-1526-1 {
+  height: 11px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 970px;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-1527-1 {
+  height: 12px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 977px;
+  width: 7px;
+}
+
+.about-the-showcase-2 .path-1528-1 {
+  height: 9px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 965px;
+  width: 7px;
+}
+
+.about-the-showcase-2 .path-1529-1 {
+  height: 7px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 956px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1530-1 {
+  height: 5px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 956px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1531-1 {
+  height: 4px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 964px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1532-1 {
+  height: 2px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 967px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1533-1 {
+  height: 1px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 973px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1534-1 {
+  height: 4px;
+  left: 327px;
+  object-fit: cover;
+  position: absolute;
+  top: 876px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-container-34 {
+  height: 10px;
+  left: 113px;
+  position: absolute;
+  top: 849px;
+  width: 18px;
+}
+
+.about-the-showcase-2 .path-1535-1 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-1536-1 {
+  height: 7px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1537-1 {
+  height: 6px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 858px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1538-1 {
+  height: 5px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 870px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-35 {
+  height: 3px;
+  left: 126px;
+  position: absolute;
+  top: 869px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1542-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1540-1 {
+  height: 2px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 867px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1541-1 {
+  height: 1px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 861px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1543-1 {
+  height: 1px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 869px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-36 {
+  height: 12px;
+  left: 125px;
+  position: absolute;
+  top: 698px;
+  width: 18px;
+}
+
+.about-the-showcase-2 .path-1544-1 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.about-the-showcase-2 .path-1546-1 {
+  height: 1px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1547-1 {
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1545-1 {
+  height: 1px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 697px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .overlap-group23 {
+  align-items: flex-start;
+  background-image: url(../img/path-1489-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  left: 146px;
+  min-width: 1px;
+  position: absolute;
+  top: 696px;
+}
+
+.about-the-showcase-2 .path-container-37 {
+  height: 13px;
+  left: 153px;
+  position: absolute;
+  top: 724px;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-1550-1 {
+  height: 13px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-1551-1 {
+  height: 6px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 700px;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-1552-1 {
+  height: 6px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 708px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1553-1 {
+  height: 5px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 716px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-container-38 {
+  height: 3px;
+  left: 149px;
+  position: absolute;
+  top: 720px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1554-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1557-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(../img/path-1555-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 3px;
+  justify-content: flex-end;
+  left: 141px;
+  min-width: 5px;
+  padding: 0.5px 0;
+  position: absolute;
+  top: 724px;
+}
+
+.about-the-showcase-2 .path-container-39 {
+  height: 3px;
+  left: 148px;
+  position: absolute;
+  top: 728px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-1556-1 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1558-1 {
+  height: 1px;
+  left: 151px;
+  object-fit: cover;
+  position: absolute;
+  top: 702px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-40 {
+  height: 1px;
+  left: 138px;
+  position: absolute;
+  top: 722px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1-4 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-41 {
+  height: 11px;
+  left: 302px;
+  position: absolute;
+  top: 313px;
+  width: 34px;
+}
+
+.about-the-showcase-2 .path-1564-1 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.about-the-showcase-2 .path-1565-1 {
+  height: 11px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.about-the-showcase-2 .path-1566-1 {
+  height: 3px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-container-42 {
+  height: 20px;
+  left: 348px;
+  position: absolute;
+  top: 324px;
+  width: 41px;
+}
+
+.about-the-showcase-2 .path-1567-1 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.about-the-showcase-2 .path-1568-1 {
+  height: 7px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.about-the-showcase-2 .path-1569-1 {
+  height: 8px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-container-43 {
+  height: 27px;
+  left: 81px;
+  position: absolute;
+  top: 886px;
+  width: 36px;
+}
+
+.about-the-showcase-2 .path-1570-1 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.about-the-showcase-2 .path-1571-1 {
+  height: 3px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1572-1 {
+  height: 1px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-container-44 {
+  height: 55px;
+  left: 99px;
+  position: absolute;
+  top: 730px;
+  width: 36px;
+}
+
+.about-the-showcase-2 .path-1573-1 {
+  height: 16px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 33px;
+}
+
+.about-the-showcase-2 .path-1574-1 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1575-1 {
+  height: 10px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 11px;
+}
+
+.about-the-showcase-2 .path-1576-1 {
+  height: 9px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1577-1 {
+  height: 9px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1578-1 {
+  height: 2px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1579-1 {
+  height: 2px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1580-1 {
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1581-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1593-1 {
+  height: 33px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.about-the-showcase-2 .path-1594-1 {
+  height: 23px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.about-the-showcase-2 .path-1595-1 {
+  height: 2px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1582-1 {
+  height: 9px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 936px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1583-1 {
+  height: 8px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 925px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1584-1 {
+  height: 10px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 945px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1585-1 {
+  height: 8px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 916px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1586-1 {
+  height: 4px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 923px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1587-1 {
+  height: 1px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 913px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1588-1 {
+  height: 1px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 913px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .ellipse-14-1 {
+  background-color: var(--black);
+  border-radius: 0.82px/0.08px;
+  height: 1px;
+  left: 78px;
+  position: absolute;
+  top: 913px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1589-1 {
+  height: 14px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 23px;
+}
+
+.about-the-showcase-2 .path-1590-1 {
+  height: 5px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 670px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1591-1 {
+  height: 3px;
+  left: 128px;
+  object-fit: cover;
+  position: absolute;
+  top: 661px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1592-1 {
+  height: 4px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 670px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-container-45 {
+  height: 20px;
+  left: 57px;
+  position: absolute;
+  top: 649px;
+  width: 21px;
+}
+
+.about-the-showcase-2 .path-1596-1 {
+  height: 16px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.about-the-showcase-2 .path-1597-1 {
+  height: 13px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1598-1 {
+  height: 3px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 671px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1599-1 {
+  height: 1px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 657px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1600-1 {
+  height: 1px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 676px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1601-1 {
+  height: 9px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 773px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1602-1 {
+  height: 9px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 771px;
+  width: 7px;
+}
+
+.about-the-showcase-2 .path-container-46 {
+  height: 11px;
+  left: 64px;
+  position: absolute;
+  top: 764px;
+  width: 11px;
+}
+
+.about-the-showcase-2 .path-1603-1 {
+  height: 8px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1604-1 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1605-1 {
+  height: 5px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 766px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1606-1 {
+  height: 5px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 763px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-container-47 {
+  height: 6px;
+  left: 80px;
+  position: absolute;
+  top: 761px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1607-1 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1608-1 {
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1609-1 {
+  height: 7px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 885px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1610-1 {
+  height: 5px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 894px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1611-1 {
+  height: 5px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 902px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1612-1 {
+  height: 8px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 874px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-container-48 {
+  height: 17px;
+  left: 143px;
+  position: absolute;
+  top: 742px;
+  width: 14px;
+}
+
+.about-the-showcase-2 .path-1613-1 {
+  height: 9px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+
+.about-the-showcase-2 .path-1614-1 {
+  height: 9px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.about-the-showcase-2 .path-1615-1 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .overlap-group31-1 {
+  align-items: flex-start;
+  background-image: url(../img/path-1616-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  justify-content: flex-end;
+  left: 139px;
+  min-width: 7px;
+  padding: 0.5px 1.6px;
+  position: absolute;
+  top: 731px;
+}
+
+.about-the-showcase-2 .path-1617-1 {
+  height: 1px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1618-1 {
+  height: 1px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 743px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1619-1 {
+  height: 1px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1620-1 {
+  height: 1px;
+  left: 315px;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-49 {
+  height: 14px;
+  left: 36px;
+  position: absolute;
+  top: 677px;
+  width: 17px;
+}
+
+.about-the-showcase-2 .path-1621-1 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-1622-1 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 11px;
+}
+
+.about-the-showcase-2 .path-1624-1 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-1625-1 {
+  height: 2px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1626-1 {
+  height: 1px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1623-1 {
+  height: 5px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 687px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-1627-1 {
+  height: 1px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1628-1 {
+  height: 1px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1629-1 {
+  height: 31px;
+  left: 266px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 13px;
+}
+
+.about-the-showcase-2 .path-1630-1 {
+  height: 8px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 754px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1631-1 {
+  height: 10px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 748px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-container-50 {
+  height: 6px;
+  left: 46px;
+  position: absolute;
+  top: 736px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1632-1 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1633-1 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1634-1 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1639-1 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1635-1 {
+  height: 1px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 747px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1636-1 {
+  height: 1px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 744px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-51 {
+  height: 2px;
+  left: 55px;
+  position: absolute;
+  top: 749px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1637-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1640-1 {
+  height: 1px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1641-1 {
+  height: 9px;
+  left: 286px;
+  object-fit: cover;
+  position: absolute;
+  top: 856px;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-container-52 {
+  height: 16px;
+  left: 30px;
+  position: absolute;
+  top: 715px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1642-1 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-1644-1 {
+  height: 7px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1643-1 {
+  height: 8px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 732px;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-1645-1 {
+  height: 7px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 719px;
+  width: 8px;
+}
+
+.about-the-showcase-2 .path-container-53 {
+  height: 3px;
+  left: 44px;
+  position: absolute;
+  top: 730px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-1646-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1648-1 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1647-1 {
+  height: 1px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1649-1 {
+  height: 1px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 715px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1650-1 {
+  height: 1px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 715px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-container-54 {
+  height: 5px;
+  left: 95px;
+  position: absolute;
+  top: 647px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1651-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1652-1 {
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1653-1 {
+  height: 1px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 660px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1654-1 {
+  height: 11px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 749px;
+  width: 11px;
+}
+
+.about-the-showcase-2 .path-1655-1 {
+  height: 6px;
+  left: 392px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1656-1 {
+  height: 6px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 10px;
+}
+
+.about-the-showcase-2 .path-1657-1 {
+  height: 2px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 320px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1658-1 {
+  height: 1px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 346px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1659-1 {
+  height: 23px;
+  left: 162px;
+  object-fit: cover;
+  position: absolute;
+  top: 824px;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-1660-1 {
+  height: 1px;
+  left: 305px;
+  object-fit: cover;
+  position: absolute;
+  top: 880px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1661-1 {
+  height: 25px;
+  left: 291px;
+  object-fit: cover;
+  position: absolute;
+  top: 412px;
+  width: 11px;
+}
+
+.about-the-showcase-2 .path-1662-1 {
+  height: 8px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 626px;
+  width: 7px;
+}
+
+.about-the-showcase-2 .path-1663-1 {
+  height: 1px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 632px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1664-1 {
+  height: 6px;
+  left: 277px;
+  object-fit: cover;
+  position: absolute;
+  top: 691px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1665-1 {
+  height: 7px;
+  left: 280px;
+  object-fit: cover;
+  position: absolute;
+  top: 698px;
+  width: 4px;
+}
+
+.about-the-showcase-2 .path-1666-1 {
+  height: 2px;
+  left: 265px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 3px;
+}
+
+.about-the-showcase-2 .path-1667-1 {
+  height: 11px;
+  left: 282px;
+  object-fit: cover;
+  position: absolute;
+  top: 655px;
+  width: 5px;
+}
+
+.about-the-showcase-2 .path-1668-1 {
+  height: 6px;
+  left: 281px;
+  object-fit: cover;
+  position: absolute;
+  top: 667px;
+  width: 6px;
+}
+
+.about-the-showcase-2 .path-1669-1 {
+  height: 1px;
+  left: 358px;
+  object-fit: cover;
+  position: absolute;
+  top: 609px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1670-1 {
+  height: 1px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 473px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .path-1671-1 {
+  height: 2px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 653px;
+  width: 2px;
+}
+
+.about-the-showcase-2 .path-1672-1 {
+  height: 5px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 189px;
+  width: 12px;
+}
+
+.about-the-showcase-2 .path-1673-1 {
+  height: 1px;
+  left: 396px;
+  object-fit: cover;
+  position: absolute;
+  top: 463px;
+  width: 1px;
+}
+
+.about-the-showcase-2 .the-xr-wordsmiths-so-1 {
+  color: var(--black);
+  font-family: var(--font-family-crimson_text);
+  font-size: 23px;
+  font-weight: 400;
+  height: 775px;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 271px;
+  width: 630px;
+}
+
+.about-the-showcase-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1072px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.about-the-showcase-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.about-the-showcase-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.about-the-showcase-2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.about-the-showcase-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.about-the-showcase-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.about-the-showcase-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.about-the-showcase-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.about-the-showcase-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-40@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.about-the-showcase-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 167px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.about-the-showcase-2 .overlap-group32-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.about-the-showcase-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about-the-showcase-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.about-the-showcase-2 .component-7-150 {
+  display: flex;
+  height: 45px;
+  left: 45px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.about-the-showcase-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.about-the-showcase-2 .component-8-184 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 583px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.about-the-showcase-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.about-the-showcase-2 .component-9-149 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 433px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.about-the-showcase-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.about-the-showcase-2 .component-3-148 {
+  display: flex;
+  height: 46px;
+  left: 293px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.about-the-showcase-2 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+/* screen - about-the-showcase-3 */
+
+.about-the-showcase-3-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 931px;
+  overflow: hidden;
+  width: 834px;
+}
+
+.about-the-showcase-3-1 .overlap-group33-1 {
+  height: 1003px;
+  margin-top: -25.0px;
+  position: relative;
+  width: 1041px;
+}
+
+.about-the-showcase-3-1 .rectangle-10-2 {
+  background-color: var(--hopbush);
+  height: 936px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 839px;
+}
+
+.about-the-showcase-3-1 .ellipse-15-2 {
+  background-color: var(--yellow-green);
+  border-radius: 281.5px/352.5px;
+  height: 705px;
+  left: 478px;
+  position: absolute;
+  top: 179px;
+  width: 563px;
+}
+
+.about-the-showcase-3-1 .about-the-showcase-4 {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-fucxedcaps-regular);
+  font-size: 50px;
+  font-weight: 400;
+  height: 81px;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 74px;
+  white-space: nowrap;
+  width: 606px;
+}
+
+.about-the-showcase-3-1 .group-89-2 {
+  display: flex;
+  height: 730px;
+  left: 521px;
+  position: absolute;
+  top: 226px;
+  width: 313px;
+}
+
+.about-the-showcase-3-1 .group-88-2 {
+  background-image: url(../img/path-1483-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  position: relative;
+  width: 313.15px;
+}
+
+.about-the-showcase-3-1 .path-1484-2 {
+  height: 1px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 483px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1485-2 {
+  height: 1px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 554px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-55 {
+  height: 11px;
+  left: 128px;
+  position: absolute;
+  top: 562px;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1486-2 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1488-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1487-2 {
+  height: 1px;
+  left: 273px;
+  object-fit: cover;
+  position: absolute;
+  top: 507px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1489-2 {
+  height: 1px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 555px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1490-2 {
+  height: 1px;
+  left: 202px;
+  object-fit: cover;
+  position: absolute;
+  top: 511px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-56 {
+  height: 2px;
+  left: 150px;
+  position: absolute;
+  top: 269px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1-5 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1495-2 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .overlap-group18 {
+  align-items: flex-end;
+  background-image: url(../img/path-1489-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  left: 148px;
+  min-width: 1px;
+  position: absolute;
+  top: 265px;
+}
+
+.about-the-showcase-3-1 .path-1493-1 {
+  height: 1px;
+  margin-bottom: -0.01px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1496-2 {
+  height: 8px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 283px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1497-2 {
+  height: 6px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1498-2 {
+  height: 5px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 6px;
+}
+
+.about-the-showcase-3-1 .path-1499-2 {
+  height: 4px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1500-2 {
+  height: 1px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 301px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-57 {
+  height: 10px;
+  left: 30px;
+  position: absolute;
+  top: 456px;
+  width: 27px;
+}
+
+.about-the-showcase-3-1 .path-1501-2 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.about-the-showcase-3-1 .path-1502-2 {
+  height: 2px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1503-2 {
+  height: 2px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1504-2 {
+  height: 1px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1505-2 {
+  height: 1px;
+  left: 240px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1506-2 {
+  height: 2px;
+  left: 243px;
+  object-fit: cover;
+  position: absolute;
+  top: 317px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1507-2 {
+  height: 1px;
+  left: 240px;
+  object-fit: cover;
+  position: absolute;
+  top: 332px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1508-2 {
+  height: 8px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 17px;
+}
+
+.about-the-showcase-3-1 .path-1509-2 {
+  height: 4px;
+  left: 170px;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 8px;
+}
+
+.about-the-showcase-3-1 .path-1510-2 {
+  height: 1px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 230px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .overlap-group10 {
+  align-items: flex-start;
+  background-image: url(../img/path-1494-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  left: 115px;
+  min-width: 1px;
+  position: absolute;
+  top: 211px;
+}
+
+.about-the-showcase-3-1 .path-1-6 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-58 {
+  height: 11px;
+  left: 46px;
+  position: absolute;
+  top: 553px;
+  width: 17px;
+}
+
+.about-the-showcase-3-1 .path-1513-2 {
+  height: 8px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1514-2 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1515-2 {
+  height: 6px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.about-the-showcase-3-1 .path-1521-2 {
+  height: 2px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1516-2 {
+  height: 5px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 553px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-container-59 {
+  height: 4px;
+  left: 56px;
+  position: absolute;
+  top: 563px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1517-2 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1518-2 {
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-60 {
+  height: 3px;
+  left: 54px;
+  position: absolute;
+  top: 566px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1519-2 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-15-1 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1522-2 {
+  height: 1px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 563px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1523-2 {
+  height: 1px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1524-2 {
+  height: 9px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 599px;
+  width: 11px;
+}
+
+.about-the-showcase-3-1 .path-1525-2 {
+  height: 8px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 607px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1526-2 {
+  height: 7px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 634px;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1527-2 {
+  height: 8px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 638px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1528-2 {
+  height: 6px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1529-2 {
+  height: 5px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 625px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1530-2 {
+  height: 3px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 625px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1531-2 {
+  height: 3px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 630px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1532-2 {
+  height: 1px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 632px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1533-2 {
+  height: 1px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 636px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1534-2 {
+  height: 3px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 572px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-container-61 {
+  height: 7px;
+  left: 74px;
+  position: absolute;
+  top: 555px;
+  width: 12px;
+}
+
+.about-the-showcase-3-1 .path-1535-2 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.about-the-showcase-3-1 .path-1536-2 {
+  height: 5px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1537-2 {
+  height: 4px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 561px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1538-2 {
+  height: 3px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 569px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-62 {
+  height: 3px;
+  left: 81px;
+  position: absolute;
+  top: 568px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1539-1 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1540-2 {
+  height: 1px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 567px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1541-2 {
+  height: 1px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 562px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-63 {
+  height: 8px;
+  left: 81px;
+  position: absolute;
+  top: 456px;
+  width: 11px;
+}
+
+.about-the-showcase-3-1 .path-1544-2 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}
+
+.about-the-showcase-3-1 .path-1546-2 {
+  height: 1px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1547-2 {
+  height: 1px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1545-2 {
+  height: 1px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 455px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .overlap-group27 {
+  align-items: flex-start;
+  background-image: url(../img/path-1489-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  left: 96px;
+  min-width: 1px;
+  position: absolute;
+  top: 455px;
+}
+
+.about-the-showcase-3-1 .overlap-group29 {
+  align-items: flex-start;
+  background-image: url(../img/path-1550-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 8px;
+  left: 101px;
+  min-width: 8px;
+  padding: 0.2px 0;
+  position: absolute;
+  top: 473px;
+}
+
+.about-the-showcase-3-1 .path-1551-2 {
+  height: 4px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 457px;
+  width: 8px;
+}
+
+.about-the-showcase-3-1 .path-1552-2 {
+  height: 4px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 463px;
+  width: 6px;
+}
+
+.about-the-showcase-3-1 .path-1553-2 {
+  height: 3px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 468px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-container-64 {
+  height: 2px;
+  left: 97px;
+  position: absolute;
+  top: 470px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1554-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1557-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .overlap-group28 {
+  align-items: flex-start;
+  background-image: url(../img/path-1555-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 2px;
+  justify-content: flex-end;
+  left: 92px;
+  min-width: 3px;
+  padding: 0.3px 0;
+  position: absolute;
+  top: 473px;
+}
+
+.about-the-showcase-3-1 .overlap-group1-1 {
+  align-items: flex-start;
+  background-image: url(../img/path-1556-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 2px;
+  left: 97px;
+  min-width: 2px;
+  position: absolute;
+  top: 476px;
+}
+
+.about-the-showcase-3-1 .path-1558-2 {
+  height: 1px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-65 {
+  height: 1px;
+  left: 90px;
+  position: absolute;
+  top: 472px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1-7 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-66 {
+  height: 7px;
+  left: 197px;
+  position: absolute;
+  top: 205px;
+  width: 22px;
+}
+
+.about-the-showcase-3-1 .path-1564-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.about-the-showcase-3-1 .path-1565-2 {
+  height: 7px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.about-the-showcase-3-1 .path-1566-2 {
+  height: 2px;
+  left: 212px;
+  object-fit: cover;
+  position: absolute;
+  top: 216px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-67 {
+  height: 13px;
+  left: 227px;
+  position: absolute;
+  top: 212px;
+  width: 27px;
+}
+
+.about-the-showcase-3-1 .path-1567-2 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.about-the-showcase-3-1 .path-1568-2 {
+  height: 5px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.about-the-showcase-3-1 .path-1569-2 {
+  height: 5px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.about-the-showcase-3-1 .path-container-68 {
+  height: 18px;
+  left: 53px;
+  position: absolute;
+  top: 579px;
+  width: 23px;
+}
+
+.about-the-showcase-3-1 .path-1570-2 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.about-the-showcase-3-1 .path-1571-2 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1572-2 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-69 {
+  height: 36px;
+  left: 65px;
+  position: absolute;
+  top: 477px;
+  width: 24px;
+}
+
+.about-the-showcase-3-1 .path-1573-2 {
+  height: 10px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 22px;
+}
+
+.about-the-showcase-3-1 .path-1574-2 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1575-2 {
+  height: 7px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1576-2 {
+  height: 6px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1577-2 {
+  height: 6px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1578-2 {
+  height: 1px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1579-2 {
+  height: 1px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1580-2 {
+  height: 1px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1581-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1593-2 {
+  height: 22px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.about-the-showcase-3-1 .path-1594-2 {
+  height: 15px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 13px;
+}
+
+.about-the-showcase-3-1 .path-1595-2 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1582-2 {
+  height: 6px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1583-2 {
+  height: 5px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 604px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1584-2 {
+  height: 7px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 618px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1585-2 {
+  height: 5px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 598px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1586-2 {
+  height: 2px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1587-2 {
+  height: 1px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 597px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1588-2 {
+  height: 1px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 596px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .ellipse-14-2 {
+  background-color: var(--black);
+  border-radius: 0.53px/0.05px;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 596px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1589-2 {
+  height: 9px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 15px;
+}
+
+.about-the-showcase-3-1 .path-1590-2 {
+  height: 3px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 438px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1591-2 {
+  height: 2px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 432px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1592-2 {
+  height: 2px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 438px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-70 {
+  height: 13px;
+  left: 37px;
+  position: absolute;
+  top: 424px;
+  width: 14px;
+}
+
+.about-the-showcase-3-1 .path-1596-2 {
+  height: 11px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.about-the-showcase-3-1 .path-1597-2 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.about-the-showcase-3-1 .path-1598-2 {
+  height: 2px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1599-2 {
+  height: 1px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 429px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1600-2 {
+  height: 1px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 442px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1601-2 {
+  height: 6px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 505px;
+  width: 6px;
+}
+
+.about-the-showcase-3-1 .path-1602-2 {
+  height: 6px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 504px;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-container-71 {
+  height: 7px;
+  left: 42px;
+  position: absolute;
+  top: 499px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1603-2 {
+  height: 5px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1604-2 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1605-2 {
+  height: 3px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 500px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1606-2 {
+  height: 3px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 499px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-72 {
+  height: 4px;
+  left: 52px;
+  position: absolute;
+  top: 497px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1607-2 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1609-2 {
+  height: 4px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 578px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1610-2 {
+  height: 4px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 584px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1611-2 {
+  height: 3px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 589px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1612-2 {
+  height: 5px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 571px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-container-73 {
+  height: 11px;
+  left: 93px;
+  position: absolute;
+  top: 485px;
+  width: 9px;
+}
+
+.about-the-showcase-3-1 .path-1613-2 {
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1614-2 {
+  height: 6px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1615-2 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-container-74 {
+  height: 5px;
+  left: 91px;
+  position: absolute;
+  top: 477px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1616 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1617-2 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1618-2 {
+  height: 1px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 485px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1620-2 {
+  height: 1px;
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-75 {
+  height: 9px;
+  left: 24px;
+  position: absolute;
+  top: 442px;
+  width: 11px;
+}
+
+.about-the-showcase-3-1 .path-1621-2 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1622-2 {
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1624-2 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1625-2 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1626-2 {
+  height: 1px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1623-2 {
+  height: 3px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 449px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1627-2 {
+  height: 1px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 441px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1628-2 {
+  height: 1px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 441px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1629-2 {
+  height: 20px;
+  left: 174px;
+  object-fit: cover;
+  position: absolute;
+  top: 287px;
+  width: 9px;
+}
+
+.about-the-showcase-3-1 .path-1630-2 {
+  height: 5px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 493px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1631-2 {
+  height: 6px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-container-76 {
+  height: 4px;
+  left: 30px;
+  position: absolute;
+  top: 481px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1632-2 {
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1633-2 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1634-2 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1639-2 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1635-2 {
+  height: 1px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 488px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1636-2 {
+  height: 1px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 486px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/path-1637-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  left: 36px;
+  min-width: 1px;
+  position: absolute;
+  top: 490px;
+}
+
+.about-the-showcase-3-1 .path-1640-2 {
+  height: 1px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 477px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1641-2 {
+  height: 6px;
+  left: 187px;
+  object-fit: cover;
+  position: absolute;
+  top: 559px;
+  width: 8px;
+}
+
+.about-the-showcase-3-1 .path-container-77 {
+  height: 10px;
+  left: 20px;
+  position: absolute;
+  top: 467px;
+  width: 6px;
+}
+
+.about-the-showcase-3-1 .path-1642-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1644-2 {
+  height: 5px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1643-2 {
+  height: 5px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 478px;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1645-2 {
+  height: 4px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 470px;
+  width: 6px;
+}
+
+.about-the-showcase-3-1 .path-container-78 {
+  height: 2px;
+  left: 29px;
+  position: absolute;
+  top: 477px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1646-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1648-2 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1647-2 {
+  height: 1px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 466px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1649-2 {
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 467px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1650-2 {
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 467px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-container-79 {
+  height: 3px;
+  left: 62px;
+  position: absolute;
+  top: 422px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1652-2 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1653-2 {
+  height: 1px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1654-2 {
+  height: 8px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 489px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1655-2 {
+  height: 4px;
+  left: 256px;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1656-2 {
+  height: 4px;
+  left: 257px;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1657-2 {
+  height: 1px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 209px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1658-2 {
+  height: 1px;
+  left: 112px;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1659-2 {
+  height: 15px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 8px;
+}
+
+.about-the-showcase-3-1 .path-1660-2 {
+  height: 1px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1661-2 {
+  height: 16px;
+  left: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 7px;
+}
+
+.about-the-showcase-3-1 .path-1662-2 {
+  height: 5px;
+  left: 181px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 5px;
+}
+
+.about-the-showcase-3-1 .path-1663-2 {
+  height: 1px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1664-2 {
+  height: 4px;
+  left: 181px;
+  object-fit: cover;
+  position: absolute;
+  top: 451px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1665-2 {
+  height: 4px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 456px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1666-2 {
+  height: 1px;
+  left: 173px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 2px;
+}
+
+.about-the-showcase-3-1 .path-1667-2 {
+  height: 7px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 3px;
+}
+
+.about-the-showcase-3-1 .path-1668-2 {
+  height: 4px;
+  left: 184px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 4px;
+}
+
+.about-the-showcase-3-1 .path-1669-2 {
+  height: 1px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1670-2 {
+  height: 1px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1671-2 {
+  height: 1px;
+  left: 181px;
+  object-fit: cover;
+  position: absolute;
+  top: 427px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .path-1672-2 {
+  height: 3px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 8px;
+}
+
+.about-the-showcase-3-1 .path-1673-2 {
+  height: 1px;
+  left: 259px;
+  object-fit: cover;
+  position: absolute;
+  top: 303px;
+  width: 1px;
+}
+
+.about-the-showcase-3-1 .the-xr-wordsmiths-so-2 {
+  color: var(--black);
+  font-family: var(--font-family-crimson_text);
+  font-size: 23px;
+  font-weight: 400;
+  height: 775px;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 228px;
+  width: 383px;
+}
+
+.about-the-showcase-3-1 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-101@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  justify-content: flex-end;
+  left: 689px;
+  min-width: 159px;
+  padding: 13.7px 40.8px;
+  position: absolute;
+  top: 0;
+}
+
+.about-the-showcase-3-1 .group-42-2 {
+  display: flex;
+  height: 66px;
+  width: 66px;
+}
+
+.about-the-showcase-3-1 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.52px;
+}
+
+.about-the-showcase-3-1 .overlap-group-2 {
+  height: 66px;
+  position: relative;
+  width: 66px;
+}
+
+.about-the-showcase-3-1 .path-4-2 {
+  height: 17px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 61px;
+}
+
+.about-the-showcase-3-1 .group-38-4 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.about-the-showcase-3-1 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65.52px;
+}
+
+.about-the-showcase-3-1 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.1px 0;
+  width: 65.52px;
+}
+
+.about-the-showcase-3-1 .group-2-2-2 {
+  background-image: url(../img/path-5-2-78@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  width: 61px;
+}
+
+.about-the-showcase-3-1 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 167px;
+  min-width: 132px;
+  position: absolute;
+  top: 51px;
+}
+
+.about-the-showcase-3-1 .overlap-group32-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.about-the-showcase-3-1 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about-the-showcase-3-1 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.about-the-showcase-3-1 .component-7-151 {
+  display: flex;
+  height: 45px;
+  left: 45px;
+  position: absolute;
+  top: 55px;
+  width: 86px;
+}
+
+.about-the-showcase-3-1 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.about-the-showcase-3-1 .component-8-185 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 583px;
+  position: absolute;
+  top: 56px;
+  width: 103px;
+}
+
+.about-the-showcase-3-1 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+
+.about-the-showcase-3-1 .component-9-150 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 433px;
+  position: absolute;
+  top: 56px;
+  width: 110px;
+}
+
+.about-the-showcase-3-1 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.about-the-showcase-3-1 .component-3-149 {
+  display: flex;
+  height: 46px;
+  left: 293px;
+  position: absolute;
+  top: 55px;
+  width: 172px;
+}
+
+.about-the-showcase-3-1 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.about-the-showcase-1 { 
+    display: none;
+   }
+  .screen.about-the-showcase-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.about-the-showcase-1 { 
+    display: none;
+   }
+  .screen.about-the-showcase-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.about-the-showcase-2 { 
+    display: none;
+   }
+  .screen.about-the-showcase-3 { 
+    display: none;
+   }
+}

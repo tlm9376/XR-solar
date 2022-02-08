@@ -1,0 +1,849 @@
+/* screen - where-giants-1 */
+
+.where-giants-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 9963px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.where-giants-1 .overlap-group2 {
+  height: 10038px;
+  margin-left: -665px;
+  margin-top: -75.0px;
+  position: relative;
+  width: 3250px;
+}
+
+.where-giants-1 .rectangle-42 {
+  background-color: var(--sky-blue);
+  height: 5771px;
+  left: 665px;
+  position: absolute;
+  top: 75px;
+  width: 1920px;
+}
+
+.where-giants-1 .ellipse-21 {
+  background-color: var(--white);
+  border-radius: 1625.18px/813.5px;
+  height: 1627px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 344px;
+  width: 3250px;
+}
+
+.where-giants-1 .rectangle-54 {
+  background-color: var(--onahau);
+  height: 8809px;
+  left: 665px;
+  position: absolute;
+  top: 1229px;
+  width: 1920px;
+}
+
+.where-giants-1 .where-giants-will-stand {
+  height: 121px;
+  left: 913px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 148px;
+  white-space: nowrap;
+  width: 1132px;
+}
+
+.where-giants-1 .by-spencer-r-scott-california-us {
+  height: 49px;
+  left: 1697px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 297px;
+  width: 575px;
+}
+
+.where-giants-1 .rectangle-43 {
+  height: 60px;
+  left: 1224px;
+  object-fit: cover;
+  position: absolute;
+  top: 386px;
+  width: 802px;
+}
+
+.where-giants-1 .cora-and-rosa-caugh {
+  left: 913px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 446px;
+  width: 1345px;
+}
+
+.where-giants-1 .group-68 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2270px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.where-giants-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.where-giants-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.where-giants-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.where-giants-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.where-giants-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.where-giants-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.where-giants-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.where-giants-1 .group-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.where-giants-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 832px;
+  min-width: 132px;
+  position: absolute;
+  top: 101px;
+}
+
+.where-giants-1 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.where-giants-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.where-giants-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.where-giants-1 .component-7-253 {
+  display: flex;
+  height: 45px;
+  left: 710px;
+  position: absolute;
+  top: 105px;
+  width: 86px;
+}
+
+.where-giants-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.where-giants-1 .component-9-252 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1098px;
+  position: absolute;
+  top: 106px;
+  width: 110px;
+}
+
+.where-giants-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.where-giants-1 .component-3-251 {
+  display: flex;
+  height: 46px;
+  left: 958px;
+  position: absolute;
+  top: 105px;
+  width: 172px;
+}
+
+.where-giants-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.where-giants-1 .component-8-287 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1248px;
+  position: absolute;
+  top: 106px;
+  width: 103px;
+}
+
+.where-giants-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - where-giants-2 */
+
+.where-giants-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6427px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.where-giants-2 .overlap-group2-1 {
+  height: 6723px;
+  margin-left: -448px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 2176px;
+}
+
+.where-giants-2 .rectangle-42-1 {
+  background-color: var(--sky-blue);
+  height: 3865px;
+  left: 449px;
+  position: absolute;
+  top: 51px;
+  width: 1280px;
+}
+
+.where-giants-2 .ellipse-21-1 {
+  background-color: var(--white);
+  border-radius: 1088.16px/738.86px;
+  height: 1478px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 276px;
+  width: 2176px;
+}
+
+.where-giants-2 .rectangle-54-1 {
+  background-color: var(--onahau);
+  height: 5695px;
+  left: 446px;
+  position: absolute;
+  top: 1028px;
+  width: 1285px;
+}
+
+.where-giants-2 .where-giants-will-stand-1 {
+  height: 81px;
+  left: 588px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+  width: 840px;
+}
+
+.where-giants-2 .by-spencer-r-scott-california-us-1 {
+  height: 34px;
+  left: 1149px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 244px;
+  width: 353px;
+}
+
+.where-giants-2 .rectangle-43-1 {
+  height: 40px;
+  left: 820px;
+  object-fit: cover;
+  position: absolute;
+  top: 315px;
+  width: 536px;
+}
+
+.where-giants-2 .cora-and-rosa-caugh-1 {
+  left: 639px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 355px;
+  width: 901px;
+}
+
+.where-giants-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1520px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.where-giants-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.where-giants-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.where-giants-2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.where-giants-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.where-giants-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.where-giants-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.where-giants-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 16.9px 0.0px;
+  width: 99.47px;
+}
+
+.where-giants-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-40@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.where-giants-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 615px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.where-giants-2 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.where-giants-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.where-giants-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.where-giants-2 .component-7-254 {
+  display: flex;
+  height: 45px;
+  left: 493px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.where-giants-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.where-giants-2 .component-9-253 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 881px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.where-giants-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.where-giants-2 .component-3-252 {
+  display: flex;
+  height: 46px;
+  left: 741px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.where-giants-2 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.where-giants-2 .component-8-288 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1031px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.where-giants-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - where-giants-3 */
+
+.where-giants-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 5036px;
+  justify-content: center;
+  overflow: hidden;
+  width: 834px;
+}
+
+.where-giants-3 .overlap-group2-2 {
+  height: 5061px;
+  margin-top: -25.2px;
+  position: relative;
+  width: 1438px;
+}
+
+.where-giants-3 .rectangle-42-2 {
+  background-color: var(--sky-blue);
+  height: 2555px;
+  left: 302px;
+  position: absolute;
+  top: 25px;
+  width: 834px;
+}
+
+.where-giants-3 .ellipse-21-2 {
+  background-color: var(--white);
+  border-radius: 719.14px/232.85px;
+  height: 466px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 245px;
+  width: 1438px;
+}
+
+.where-giants-3 .rectangle-54-2 {
+  background-color: var(--onahau);
+  height: 4725px;
+  left: 302px;
+  position: absolute;
+  top: 336px;
+  width: 834px;
+}
+
+.where-giants-3 .where-giants-will-stand-2 {
+  height: 54px;
+  left: 416px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+  width: 596px;
+}
+
+.where-giants-3 .by-spencer-r-scott-california-us-2 {
+  height: 23px;
+  left: 791px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.where-giants-3 .cora-and-rosa-caugh-2 {
+  left: 430px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 260px;
+  width: 595px;
+}
+
+.where-giants-3 .group-90 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-105@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 121px;
+  justify-content: flex-end;
+  left: 1003px;
+  min-width: 160px;
+  padding: 14.9px 40.8px;
+  position: absolute;
+  top: 0;
+}
+
+.where-giants-3 .group-42-2 {
+  display: flex;
+  height: 67px;
+  width: 66px;
+}
+
+.where-giants-3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.98px;
+}
+
+.where-giants-3 .overlap-group-2 {
+  height: 67px;
+  position: relative;
+  width: 66px;
+}
+
+.where-giants-3 .path-4-2 {
+  height: 17px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 61px;
+}
+
+.where-giants-3 .group-38-4 {
+  display: flex;
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.where-giants-3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65.98px;
+}
+
+.where-giants-3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 11.2px 0.0px;
+  width: 65.98px;
+}
+
+.where-giants-3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-105@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  width: 61px;
+}
+
+.where-giants-3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 469px;
+  min-width: 132px;
+  position: absolute;
+  top: 51px;
+}
+
+.where-giants-3 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.where-giants-3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.where-giants-3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.where-giants-3 .component-7-255 {
+  display: flex;
+  height: 45px;
+  left: 347px;
+  position: absolute;
+  top: 55px;
+  width: 86px;
+}
+
+.where-giants-3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.where-giants-3 .component-9-254 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 735px;
+  position: absolute;
+  top: 56px;
+  width: 110px;
+}
+
+.where-giants-3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.where-giants-3 .component-3-253 {
+  display: flex;
+  height: 46px;
+  left: 595px;
+  position: absolute;
+  top: 55px;
+  width: 172px;
+}
+
+.where-giants-3 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.where-giants-3 .component-8-289 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 885px;
+  position: absolute;
+  top: 56px;
+  width: 103px;
+}
+
+.where-giants-3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.where-giants-1 { 
+    display: none;
+   }
+  .screen.where-giants-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.where-giants-1 { 
+    display: none;
+   }
+  .screen.where-giants-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.where-giants-2 { 
+    display: none;
+   }
+  .screen.where-giants-3 { 
+    display: none;
+   }
+}
