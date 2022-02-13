@@ -1,0 +1,38 @@
+{{ define "main" }}
+	<main>
+		<article>
+			<div id="storylinks-container">
+				<h1 class="storylinksh">{{ .Title }}</h1>
+
+				<div class="left">	
+					<div>
+						<img src={{ .Params.image }} class="title-page-img">		
+				
+					</div>
+				</div>
+				<div class="right">	
+					{{ .Content }}
+				</div>
+			</div>
+		</article>
+	</main>
+	<style>
+		body {
+			background-color: var(--{{ .Params.backgroundColor }});
+			background-image: url({{ .Params.ellipse }});
+			background-repeat: no-repeat;
+			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
+			background-size: 100%;
+}
+		}
+		#titles-container h1 {
+			color: var(--{{ .Params.titleColor }});
+		}
+
+		.dropdown-content {
+ 			display: none;
+  			position: absolute;
+  			background-color: var(--{{ .Params.backgroundColor }});
+
+	</style>
+{{ end }}

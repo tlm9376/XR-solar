@@ -1,0 +1,84 @@
+<div class="topnav">
+    <a href="/">Home</a>
+
+    <div class="dropdown">
+      <button class="dropbtn">About
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="/about/solarpunk">Solarpunk</a>
+        <a href="/about/judges">The Judges</a>
+        <a href="/about/showcase">The Showcase</a>
+        <a href="/about/xr-wordsmiths">The XR Wordsmiths</a>
+        <a href="/about/artwork">The Artwork</a>
+        <a href="/about/prizes">The Prizes</a>
+      </div>
+    </div> 
+    <div class="dropdown">
+      <button class="dropbtn">Stories
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="/stories/11-and-under">Winners: Children's Category</a>
+        <a href="/stories/12-18-winners">Winners: Teenager's Category</a>
+        <a href="/stories/18-ov-1">Winners: Adult's Category</a>
+        <a href="/stories/xr-top-1">XR Wordsmith's Top Picks</a>
+        <a href="/stories/runners-up">Runners Up</a>
+        <a href="/stories/honorable">Honourable Mentions</a>
+      </div>
+    </div> 
+    <a href="/contact">Contact</a>
+    <a href="/donate">Donate</a>
+  </div>
+
+
+  <img src="/images/logo.png" class="logo"> 
+
+
+
+<!-- {{- if .Site.Menus.main }}
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">{{ T "menu_label" }}</span>
+	</button>
+	<ul class="menu__list">
+		{{- $currentNode := . }}
+		{{- range .Site.Menus.main }}
+		{{- if .Name }}
+		{{- if .HasChildren }}
+		<li class="menu__item menu__dropdown{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+			<a class="menu__link" href="{{ .URL }}">
+				{{ .Pre }}
+				<span class="menu__text">{{ .Name }}</span>
+				<label class="drop-icon" for="{{ .Name }}">▾</label>
+				{{ .Post }}
+			</a>
+			<input type="checkbox" id="{{ .Name }}">
+			<ul class="submenu__list">
+				{{ range .Children }}
+					<li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+					<a class="menu__link" href="{{ .URL }}">
+						{{ .Pre }}
+						<span class="menu__text">{{ .Name }}</span>
+						{{ .Post }}
+					</a>
+					</li>
+				{{ end }}
+			</ul>
+		</li>
+		{{- else }}
+		<li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+			<a class="menu__link" href="{{ .URL }}">
+				{{ .Pre }}
+				<span class="menu__text">{{ .Name }}</span>
+				{{ .Post }}
+			</a>
+		</li>
+		{{- end }}
+		{{- end }}
+		{{- end }}
+	</ul>
+</nav>
+{{ else -}}
+<div class="divider"></div>
+{{- end }} -->

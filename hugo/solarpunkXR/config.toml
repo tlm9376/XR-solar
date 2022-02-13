@@ -1,0 +1,104 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'XR Wordsmiths Solarpunk Storytelling Showcase'
+theme = "blank"
+[markup.goldmark.renderer]
+unsafe= true
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
+    identifier = "solarpunk"
+    name = "Solarpunk"
+    url = "/about/solarpunk"
+    parent = "about"
+    weight = 1
+  [[menu.main]]
+    identifier = "judges"
+    name = "The Judges"
+    url = "/about/thejudges"
+    parent = "about"
+    weight = 2
+  [[menu.main]]
+    identifier = "showcase"
+    name = "The Showcase"
+    url = "/about/theshowcase"
+    parent = "about"
+    weight = 3
+  [[menu.main]]
+    identifier = "xrwordsmiths"
+    name = "The XR Wordsmiths"
+    url = "/about/xrwordsmiths"
+    parent = "about"
+    weight = 4
+  [[menu.main]]
+    identifier = "artwork"
+    name = "The Artwork"
+    url = "/about/artwork"
+    parent = "about"
+    weight = 5
+  [[menu.main]]
+    identifier = "prizes"
+    name = "The Prizes"
+    url = "/about/theprizes"
+    parent = "about"
+    weight = 6
+  [[menu.main]]
+    identifier = "stories"
+    name = "Stories"
+    url = "/stories"
+    weight = 3
+  [[menu.main]]
+    identifier = "11-and-under-1"
+    name = "Winners: Children's Category"
+    url = "/stories/11-and-under-1"
+    parent = "stories"
+    weight = 1
+  [[menu.main]]
+    identifier = "12-18-winners1"
+    name = "Winners: Teenager's Category"
+    url = "/stories/12-18-winners1"
+    parent = "stories"
+    weight = 2
+  [[menu.main]]
+    identifier = "18-ov-1"
+    name = "Winners: Adult's Category"
+    url = "/stories/18-ov-1"
+    parent = "stories"
+    weight = 3
+  [[menu.main]]
+    identifier = "xr-top-1"
+    name = "XR Wordsmith's Top Picks"
+    url = "/stories/xr-top-1"
+    parent = "stories"
+    weight = 4
+  [[menu.main]]
+    identifier = "runners-up1"
+    name = "Runners Up"
+    url = "/stories/runners-up1"
+    parent = "stories"
+    weight = 5
+  [[menu.main]]
+    identifier = "honorable-1"
+    name = "Honourable Mentions"
+    url = "/stories/honorable-1"
+    parent = "stories"
+    weight = 6
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+  [[menu.main]]
+    identifier = "donate"
+    name = "Donate"
+    url = "/donate/"
+    weight = 5

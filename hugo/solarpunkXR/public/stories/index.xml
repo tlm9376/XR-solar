@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on XR Wordsmiths Solarpunk Storytelling Showcase</title>
+    <link>http://example.org/stories/</link>
+    <description>Recent content in Stories on XR Wordsmiths Solarpunk Storytelling Showcase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Well-Trodden Path</title>
+      <link>http://example.org/stories/well-trodden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/well-trodden/</guid>
+      <description>“Where are they?” asked Blue, transferring into the cockpit. “How worried are we?”
+“They’re post-nuclear, pre-Universal,” replied Grey, projecting a zoomed-in view of the industrial complexes which studded the blue/beige planet they were orbiting.
+Blue performed the guttural vibrations which in their culture meant frustration, and complained: “Just once, I’d like to find a people we can talk with who don’t yet have the means and inclination to incinerate everything.”</description>
+    </item>
+    
+  </channel>
+</rss>

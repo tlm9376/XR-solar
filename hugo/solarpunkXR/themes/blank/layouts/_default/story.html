@@ -1,0 +1,33 @@
+{{ define "main" }}
+	<main>
+		<div class="ellipse-content"></div>
+		<article>
+			<div id="content-container">
+			<h1>{{ .Title }}</h1>
+			<h2>{{ .Params.Author }}</h2>
+			<img src={{ .Params.image }} class={{ .Params.imageType}}>
+
+			<div class="story-text">
+				{{ .Content }}
+			</div>
+	
+			</div>
+		</article>
+	</main>
+
+	<style>
+		body {
+			background-color: var(--{{ .Params.backgroundColor }});
+		}
+		.ellipse-content {
+    		background-color: var(--{{ .Params.ellipseColor }});
+		}
+		h1{
+			color: var(--{{ .Params.titleColor }});
+		}
+		.dropdown-content {
+  			background-color: var(--{{ .Params.backgroundColor }});
+		}
+
+	</style>
+{{ end }}

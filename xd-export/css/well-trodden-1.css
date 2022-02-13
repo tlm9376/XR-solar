@@ -1,0 +1,850 @@
+/* screen - well-trodden-1 */
+
+.well-trodden-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 12471px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.well-trodden-1 .overlap-group2 {
+  height: 12530px;
+  margin-left: -685px;
+  margin-top: -52px;
+  position: relative;
+  width: 3250px;
+}
+
+.well-trodden-1 .rectangle-42 {
+  background-color: var(--yellow-green);
+  height: 1080px;
+  left: 685px;
+  position: absolute;
+  top: 52px;
+  width: 100%;
+}
+
+.well-trodden-1 .ellipse-21 {
+  background-color: var(--white);
+  border-radius: 1625.18px/1233.5px;
+  height: 2467px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 261px;
+  width: 3250px;
+}
+
+.well-trodden-1 .rectangle-56 {
+  background-color: var(--aths-special);
+  height: 11398px;
+  left: 685px;
+  position: absolute;
+  top: 1132px;
+  width: 100%;
+}
+
+.well-trodden-1 .the-well-trodden-path {
+  height: 121px;
+  left: 997px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+  width: 1002px;
+}
+
+.well-trodden-1 .rectangle-43 {
+  height: 60px;
+  left: 1209px;
+  object-fit: cover;
+  position: absolute;
+  top: 328px;
+  width: 802px;
+}
+
+.well-trodden-1 .where-are-they-as {
+  left: 974px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 406px;
+  width: 1345px;
+}
+
+.well-trodden-1 .group-123 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 2272px;
+  min-width: 364px;
+  padding: 34.5px 94.9px;
+  position: absolute;
+  top: 0;
+}
+
+.well-trodden-1 .group-42 {
+  display: flex;
+  height: 151px;
+  width: 149px;
+}
+
+.well-trodden-1 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 149.11px;
+}
+
+.well-trodden-1 .overlap-group {
+  height: 151px;
+  position: relative;
+  width: 149px;
+}
+
+.well-trodden-1 .path-4 {
+  height: 38px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 138px;
+}
+
+.well-trodden-1 .group-38 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.well-trodden-1 .group-39 {
+  display: flex;
+  flex: 1;
+  width: 149.11px;
+}
+
+.well-trodden-1 .group-38-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 25.3px 0.0px;
+  width: 149.11px;
+}
+
+.well-trodden-1 .group-2-2 {
+  background-image: url(../img/path-5-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  width: 138px;
+}
+
+.well-trodden-1 .by-tom-jubert {
+  height: 49px;
+  left: 2030px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 191px;
+  width: 289px;
+}
+
+.well-trodden-1 .about {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 852px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.well-trodden-1 .overlap-group1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.well-trodden-1 .about-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.well-trodden-1 .the-judges {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.well-trodden-1 .component-7-235 {
+  display: flex;
+  height: 45px;
+  left: 730px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.well-trodden-1 .place {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.well-trodden-1 .component-9-234 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1118px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.well-trodden-1 .place-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.well-trodden-1 .component-3-233 {
+  display: flex;
+  height: 46px;
+  left: 978px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.well-trodden-1 .stories {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.well-trodden-1 .component-8-269 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1268px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.well-trodden-1 .donate {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - well-trodden-2 */
+
+.well-trodden-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 7851px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.well-trodden-2 .overlap-group2-1 {
+  height: 7903px;
+  margin-left: -444px;
+  margin-top: -52.0px;
+  position: relative;
+  width: 2167px;
+}
+
+.well-trodden-2 .rectangle-42-1 {
+  background-color: var(--yellow-green);
+  height: 720px;
+  left: 444px;
+  position: absolute;
+  top: 50px;
+  width: 100%;
+}
+
+.well-trodden-2 .ellipse-21-1 {
+  background-color: var(--white);
+  border-radius: 1083.66px/794.06px;
+  height: 1588px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 251px;
+  width: 2167px;
+}
+
+.well-trodden-2 .rectangle-56-1 {
+  background-color: var(--aths-special);
+  height: 7133px;
+  left: 444px;
+  position: absolute;
+  top: 770px;
+  width: 100%;
+}
+
+.well-trodden-2 .the-well-trodden-path-1 {
+  height: 81px;
+  left: 665px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+  width: 776px;
+}
+
+.well-trodden-2 .rectangle-43-1 {
+  height: 40px;
+  left: 817px;
+  object-fit: cover;
+  position: absolute;
+  top: 291px;
+  width: 535px;
+}
+
+.well-trodden-2 .where-are-they-as-1 {
+  left: 650px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 364px;
+  width: 898px;
+}
+
+.well-trodden-2 .by-tom-jubert-1 {
+  height: 34px;
+  left: 1355px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 219px;
+  width: 193px;
+}
+
+.well-trodden-2 .group-132 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-39@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 183px;
+  justify-content: flex-end;
+  left: 1516px;
+  min-width: 242px;
+  padding: 23.2px 62.8px;
+  position: absolute;
+  top: 0;
+}
+
+.well-trodden-2 .group-42-1 {
+  display: flex;
+  height: 101px;
+  width: 99px;
+}
+
+.well-trodden-2 .group-28-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-left: 0;
+  min-width: 99.47px;
+}
+
+.well-trodden-2 .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 99px;
+}
+
+.well-trodden-2 .path-4-1 {
+  height: 25px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 92px;
+}
+
+.well-trodden-2 .group-38-2 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.well-trodden-2 .group-39-1 {
+  display: flex;
+  flex: 1;
+  width: 99.47px;
+}
+
+.well-trodden-2 .group-38-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 16.9px 0;
+  width: 99.47px;
+}
+
+.well-trodden-2 .group-2-2-1 {
+  background-image: url(../img/path-5-2-58@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 92px;
+}
+
+.well-trodden-2 .about-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 611px;
+  min-width: 132px;
+  position: absolute;
+  top: 78px;
+}
+
+.well-trodden-2 .overlap-group1-1 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.well-trodden-2 .about-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.well-trodden-2 .the-judges-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.well-trodden-2 .component-7-236 {
+  display: flex;
+  height: 45px;
+  left: 489px;
+  position: absolute;
+  top: 82px;
+  width: 86px;
+}
+
+.well-trodden-2 .place-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.well-trodden-2 .component-9-235 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 877px;
+  position: absolute;
+  top: 83px;
+  width: 110px;
+}
+
+.well-trodden-2 .place-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.well-trodden-2 .component-3-234 {
+  display: flex;
+  height: 46px;
+  left: 737px;
+  position: absolute;
+  top: 82px;
+  width: 172px;
+}
+
+.well-trodden-2 .stories-1 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.well-trodden-2 .component-8-270 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 1027px;
+  position: absolute;
+  top: 83px;
+  width: 103px;
+}
+
+.well-trodden-2 .donate-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+/* screen - well-trodden-3 */
+
+.well-trodden-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6486px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.well-trodden-3 .overlap-group2-2 {
+  height: 6511px;
+  margin-left: -292px;
+  margin-top: -25.0px;
+  position: relative;
+  width: 1418px;
+}
+
+.well-trodden-3 .rectangle-42-2 {
+  background-color: var(--yellow-green);
+  height: 471px;
+  left: 291px;
+  position: absolute;
+  top: 23px;
+  width: 100%;
+}
+
+.well-trodden-3 .ellipse-21-2 {
+  background-color: var(--white);
+  border-radius: 709.07px/334.11px;
+  height: 668px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 193px;
+  width: 1418px;
+}
+
+.well-trodden-3 .rectangle-56-2 {
+  background-color: var(--aths-special);
+  height: 6017px;
+  left: 291px;
+  position: absolute;
+  top: 494px;
+  width: 100%;
+}
+
+.well-trodden-3 .the-well-trodden-path-2 {
+  height: 54px;
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+  width: 578px;
+}
+
+.well-trodden-3 .where-are-they-as-2 {
+  left: 416px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 242px;
+  width: 589px;
+}
+
+.well-trodden-3 .group-123-1 {
+  align-items: flex-end;
+  background-image: url(../img/xr-logob-112@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 119px;
+  justify-content: flex-end;
+  left: 983px;
+  min-width: 158px;
+  padding: 14.4px 40.1px;
+  position: absolute;
+  top: 0;
+}
+
+.well-trodden-3 .group-42-2 {
+  display: flex;
+  height: 66px;
+  width: 65px;
+}
+
+.well-trodden-3 .group-28-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 65.06px;
+}
+
+.well-trodden-3 .overlap-group-2 {
+  height: 66px;
+  position: relative;
+  width: 65px;
+}
+
+.well-trodden-3 .path-4-2 {
+  height: 16px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 60px;
+}
+
+.well-trodden-3 .group-38-4 {
+  display: flex;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.well-trodden-3 .group-39-2 {
+  display: flex;
+  flex: 1;
+  width: 65.06px;
+}
+
+.well-trodden-3 .group-38-5 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 11.1px 0;
+  width: 65.06px;
+}
+
+.well-trodden-3 .group-2-2-2 {
+  background-image: url(../img/path-5-2-112@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 60px;
+}
+
+.well-trodden-3 .by-tom-jubert-2 {
+  height: 24px;
+  left: 878px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 171px;
+  width: 126px;
+}
+
+.well-trodden-3 .about-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  left: 459px;
+  min-width: 132px;
+  position: absolute;
+  top: 51px;
+}
+
+.well-trodden-3 .overlap-group1-2 {
+  height: 47px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 96px;
+}
+
+.well-trodden-3 .about-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.well-trodden-3 .the-judges-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.0;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.well-trodden-3 .component-7-237 {
+  display: flex;
+  height: 45px;
+  left: 337px;
+  position: absolute;
+  top: 55px;
+  width: 86px;
+}
+
+.well-trodden-3 .place-4 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -17px;
+  margin-right: -2px;
+  margin-top: 15px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.well-trodden-3 .component-9-236 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 725px;
+  position: absolute;
+  top: 56px;
+  width: 110px;
+}
+
+.well-trodden-3 .place-5 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.well-trodden-3 .component-3-235 {
+  display: flex;
+  height: 46px;
+  left: 585px;
+  position: absolute;
+  top: 55px;
+  width: 172px;
+}
+
+.well-trodden-3 .stories-2 {
+  height: 47px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.well-trodden-3 .component-8-271 {
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  left: 875px;
+  position: absolute;
+  top: 56px;
+  width: 103px;
+}
+
+.well-trodden-3 .donate-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: -2px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 103px;
+}
+@media screen and (max-width: 1279px) {
+  .screen.well-trodden-1 { 
+    display: none;
+   }
+  .screen.well-trodden-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.well-trodden-1 { 
+    display: none;
+   }
+  .screen.well-trodden-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.well-trodden-2 { 
+    display: none;
+   }
+  .screen.well-trodden-3 { 
+    display: none;
+   }
+}
