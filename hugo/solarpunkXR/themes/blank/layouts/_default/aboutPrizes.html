@@ -1,0 +1,51 @@
+{{ define "main" }}
+	<main>
+		<article>
+			<div id="about-container">
+				<h1 class="abouth">{{ .Title }}</h1>
+
+				<div class="text">	
+					<div>
+						{{ .Content }}
+					</div>
+				</div>
+				<div class="picture">	
+					<img src={{ .Params.image }} class="title-page-img">		
+				</div>
+			</div>
+		</article>
+		<div class="prizesContainer">
+			<div class="a"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="b"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="c"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="s"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="e"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="f"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="g"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="h"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="i"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="j"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="k"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="l"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="m"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="n"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="o"><img src="/images/prizes/prizes-1-06.png"></div>
+			<div class="p"><img src="/images/prizes/prizes-1-06.png"></div>
+		  </div>
+	</main>
+	<style>
+		body {
+			background-color: var(--{{ .Params.backgroundColor }});
+			background-image: url({{ .Params.ellipse }});
+			background-repeat: no-repeat;
+			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
+		}
+		#titles-container h1 {
+			color: var(--{{ .Params.titleColor }});
+		}
+
+		.dropdown-content {
+  			background-color: var(--{{ .Params.backgroundColor }});
+		}
+	</style>
+{{ end }}

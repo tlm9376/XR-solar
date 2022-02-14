@@ -414,6 +414,61 @@ p {
   text-decoration: underline;
 }
 
+/* PRIZES */
+
+.prizesContainer {  
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  gap: 5% 5%;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "a b c s"
+    "e f g h"
+    "i j k l"
+    "m n o p";
+
+  padding: 7% 7%;
+}
+
+.prizesContainer img{
+  width: 100%;
+} 
+
+.a { grid-area: a; }
+
+.b { grid-area: b; }
+
+.c { grid-area: c; }
+
+.s { grid-area: s; }
+
+.e { grid-area: e; }
+
+.f { grid-area: f; }
+
+.g { grid-area: g; }
+
+.h { grid-area: h; }
+
+.i { grid-area: i; }
+
+.j { grid-area: j; }
+
+.k { grid-area: k; }
+
+.l { grid-area: l; }
+
+.m { grid-area: m; }
+
+.n { grid-area: n; }
+
+.o { grid-area: o; }
+
+.p { grid-area: p; }
+
+
 
 @media screen and (min-width: 1980px) {
   .logo{ 
