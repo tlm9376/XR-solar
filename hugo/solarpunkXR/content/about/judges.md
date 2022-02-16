@@ -1,5 +1,5 @@
 ---
-layout: "judges"
+layout: "aboutJudges"
 menu: about
 title: About the Judges
 comments: false

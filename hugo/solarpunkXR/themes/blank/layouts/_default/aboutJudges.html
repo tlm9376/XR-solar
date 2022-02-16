@@ -1,0 +1,33 @@
+{{ define "main" }}
+	<main>
+		<article>
+			<div id="about-container">
+				<h1 class="abouth">{{ .Title }}</h1>
+
+				<div class="text">	
+					<div>
+						{{ .Content }}
+					</div>
+				</div>
+				<div class="picture">	
+					<img src={{ .Params.image }} class="title-page-img">		
+				</div>
+			</div>
+		</article>
+	</main>
+	<style>
+		body {
+			background-color: var(--{{ .Params.backgroundColor }});
+			background-image: url({{ .Params.ellipse }});
+			background-repeat: no-repeat;
+			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
+		}
+		#titles-container h1 {
+			color: var(--{{ .Params.titleColor }});
+		}
+
+		.dropdown-content {
+  			background-color: var(--{{ .Params.backgroundColor }});
+		}
+	</style>
+{{ end }}
