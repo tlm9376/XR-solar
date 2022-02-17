@@ -327,9 +327,17 @@ h4{
   line-height: 1.1;
 }
 
+h5 {
+  font-size: 35px;
+  margin:0px;
+
+}
+
 p {
     font-size: var(--font-size-xxs);
   }
+
+
 
 /* 
   FRONT PAGE  */
@@ -467,6 +475,53 @@ p {
 .o { grid-area: o; }
 
 .p { grid-area: p; }
+
+
+/* JUDGES PAGE */
+
+.judgesContainer {  
+  padding-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  gap: 10px 10px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "head1 bio1 bio1 bio1"
+    "bio2 bio2 bio2 head2"
+    "head3 bio3 bio3 bio3"
+    "bio4 bio4 bio4 head4"
+    "head5 bio5 bio5 bio5";
+}
+
+.judgesContainer img{
+  width: 100%;
+} 
+
+.judgesContainer p{
+  margin: 0px;
+}
+
+.head1 { grid-area: head1; }
+
+.bio1 { grid-area: bio1; }
+
+.bio2 { grid-area: bio2; }
+
+.head2 { grid-area: head2; }
+
+.head3 { grid-area: head3; }
+
+.bio3 { grid-area: bio3; }
+
+.bio4 { grid-area: bio4; }
+
+.head4 { grid-area: head4; }
+
+.head5 { grid-area: head5; }
+
+.bio5 { grid-area: bio5; }
+
 
 
 
