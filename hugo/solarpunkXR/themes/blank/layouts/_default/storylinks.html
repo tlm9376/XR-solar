@@ -17,22 +17,24 @@
 		</article>
 	</main>
 	<style>
-		body {
-			background-color: var(--{{ .Params.backgroundColor }});
-			background-image: url({{ .Params.ellipse }});
-			background-repeat: no-repeat;
-			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
-			background-size: 100%;
-}
-		}
-		#titles-container h1 {
-			color: var(--{{ .Params.titleColor }});
-		}
-
-		.dropdown-content {
- 			display: none;
-  			position: absolute;
-  			background-color: var(--{{ .Params.backgroundColor }});
+body {
+            background-color: var(--{{ .Params.backgroundColor }});
+            background-image: url({{ .Params.ellipse }});
+            background-repeat: no-repeat;
+            background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
+            background-size: 100%;
+        }
+        #titles-container h1 {
+            color: var(--{{ .Params.titleColor }});
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: var(--{{ .Params.backgroundColor }});
+        }
+        #storylinks-container h1 {
+            color: var(--{{ .Params.titleColor }});
+        }
 
 	</style>
 {{ end }}

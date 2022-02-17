@@ -6,9 +6,9 @@ menu: about
 title: About the Artwork
 comments: false
 image: "/images/showcasevine.png"
-ellipse: "/images/appleEllipse.png"
-backgroundColor: banana-mania
-titleColor: goldenrod
+ellipse: "/images/nikunj-artist-page.png"
+backgroundColor: cape-cod
+titleColor: jordy-blue
 ---
 
 Artwork

@@ -3,23 +3,20 @@ layout: "storylinks"
 menu: stories
 title: WINNERS 12 - 18 
 comments: false
-image: "/images/showcasevine.png"
-ellipse: "/images/appleEllipse.png"
-ellipsexpos: 70vh 
-ellipseypos: -22vh
-backgroundColor: cream-brulee
+image: "/images/butterfly.png"
+ellipse: "/images/jordy-blue-ellipse-2.png"
+ellipsexpos: 30vh 
+ellipseypos: -90vh
+backgroundColor: azure
 titleColor: goldenrod
 ---
-<p><a class=storylink href="/stories/well-trodden">The Well-Trodden Path </a><br>
-by Karl Marx, age 6. London, England</p>
+<p><a class=storylink href="/stories/city-starlight-cemetary">City Starlight & The Cemetary</a><br>
+by Katrina Eilender. New Jersey, U.S.A.</p>
 
-<p><a class=storylink href="/stories/well-trodden">The Well-Trodden Path </a><br>
-by Karl Marx, age 6. London, England</p>
+<p><a class=storylink href="/stories/old-man-bird">The Old Man and the Bird </a><br>
+by Aël Magnard. Paris, France.</p>
 
-<p><a class=storylink href="/stories/well-trodden">The Well-Trodden Path </a><br>
-by Karl Marx, age 6. London, England</p>
-
-<p><a class=storylink href="/stories/well-trodden">The Well-Trodden Path </a><br>
-by Karl Marx, age 6. London, England</p>
+<p><a class=storylink href="/stories/blood-oil">Blood Oil</a><br>
+by Rebecca Spring. Washington DC, U.S.A</p>
 
 

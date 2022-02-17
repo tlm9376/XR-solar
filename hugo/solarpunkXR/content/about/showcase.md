@@ -1,14 +1,13 @@
 ---
 layout: "about"
-menu: about
 title: About the Showcase
 comments: false
 image: "/images/showcasevine.png"
-ellipse: "/images/appleEllipse.png"
+ellipse: "/images/light-green-ellispe-big.png"
 ellipsexpos: 100vh 
 ellipseypos: -22vh
-background-color: glossy-grape
-title-color: goldenrod
+backgroundColor: hopbush
+titleColor: yellow-green
 ---
 The XR Wordsmiths Solarpunk Storytelling Showcase is Extinction Rebellion’s first global short story contest for all ages.
 
@@ -16,4 +15,5 @@ The project rides the wave of the Solarpunk movement and aims to use the power o
 
 2021’s Showcase was this project’s first iteration. The idea was seeded by activists Lottie Emily Dodd and Alex Dickinson and given wings by XR Wordsmiths, with Lottie steering the way. The winning entries were announced in December 2021 after being selected by a diverse panel of judges including eco-authors, scientists, teachers, and a UK Green Party politician. 
 
-This website was built by Theresa Merchant and Tega Brain of SolarProtocol.net using solar-powered servers. 
+This website was built by Theresa Merchant and Tega Brain of [Solar Protocol](SolarProtocol.net) using solar-powered servers. 
+

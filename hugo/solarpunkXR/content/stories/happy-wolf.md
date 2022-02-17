@@ -2,26 +2,18 @@
 layout: "story"
 menu: story
 title: The Happy Wolf
-author: Tega Brain
-image: "/images/rectangle-43-19@1x.png"
+author: by Mikhayel Malouf, age 6. London, England
+image: "/images/goodwives-warriors.png"
 imageType: pencil
-backgroundColor: festival-2
-ellipseColor: chicago
-titleColor: lightning-yellow
+backgroundColor: goldenrod
+ellipseColor: banana-mania
+titleColor: hopbush
 
 ---
+I like being a wolf because I have a lovely forest with Evergreen trees. Like Christmas trees. And it is very cold because I am in the Arctic. I like the Evergreen trees because they keep us healthy.
 
-“Where are they?” asked Blue, transferring into the cockpit. “How worried are we?”
+One day me and Alex asked my dad if we could go to the North Pole and see if theyhave any kinds of trees like ours. He said yes, but we need a special airplane. But then when we were about to go we saw an ocean that had a whale and we asked if we could go on it to travel to the North Pole. So we traveled through stormy seas and huge whirlpools and we finally got to the land and we wanted to see some trees that looked like ours. But there was a snowstorm and it covered all the trees and it looked like a mountain of snow. We felt happy because we have all this thick white snow to make snow angels and snowballs. And then we found a map that showed us where to find the trees. We were in the wrong spot! The map told us to run from east to west and when we stopped we started digging and finally found the trees and then we told all the animals in the Arctic to come to the North Pole riding six whales from the ocean. Then all the kids played and the grown ups talked together and then had a party.
 
-“They’re post-nuclear, pre-Universal,” replied Grey, projecting a zoomed-in view of the industrial complexes which studded the blue/beige planet they were orbiting.
+There was a lot of cookies and cupcakes and mince pies. There was music and balloons with confetti. There were a lot of grey clouds filled with snow. We all felt excited because we were going to play musical chairs with 94 chairs. Because there were 95 animals.
 
-Blue performed the guttural vibrations which in their culture meant frustration, and complained: “Just once, I’d like to find a people we can talk with who don’t yet have the means and inclination to incinerate everything.”
-
-Blue and Grey’s vessel was literally light-years more advanced than the nuclear-powered rockets of the civilisation they were observing. The aliens below them could hardly reach the edge of their own solar system in the span of one of their lifetimes, let alone visit others. Still, the pulse from a nuclear detonation was quite sufficient to interrupt their zero-point gravity drive, and the only thing worse than crashing into an alien planet was crashing into a freshly-grown radioactive hellscape.
-
-“No need to worry,” replied Grey, “it’s been a while since they shot at anyone.” “At least they have radio,” said Blue, tuning in to the frequencies.
-  
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The End.

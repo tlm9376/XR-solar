@@ -4,14 +4,14 @@ menu: about
 title: About the XR Wordsmiths
 comments: false
 image: "/images/typewritter.png"
-ellipse: "/images/appleEllipse.png"
+ellipse: "/images/light-green-ellipse-big.png"
 ellipsexpos: 100vh 
 ellipseypos: -22vh
 backgroundColor: yellow-green
-titleColor: goldenrod
+titleColor: festival-3
 ---
-We are a band/collective of writers who are deeply concerned with the climate and ecological emergency facing us all. We are a part of Extinction Rebellion, and hail from all over the world.
+We are a band/collective of writers who are deeply concerned with the climate and ecological emergency facing us all. We are a part of [Extinction Rebellion](https://rebellion.global/), and hail from all over the world.
 
 Our writing is one way we battle against this emergency— we hope it spurs curiosity, concern, inspiration, reflection, love, rage, and also action. 
 
-Check out the XR Wordsmiths blog, where you’ll find all kinds of writing and a diversity of voices and styles, to remind us of the diversity of humankind and our beautiful living earth. We are always looking for new voices.
+Check out the [XR Wordsmiths blog](https://xrwordsmiths.wordpress.com/blog/), where you’ll find all kinds of writing and a diversity of voices and styles, to remind us of the diversity of humankind and our beautiful living earth. We are always looking for new voices.
