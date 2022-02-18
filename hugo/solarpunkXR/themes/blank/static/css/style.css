@@ -342,8 +342,11 @@ p {
 /* 
   FRONT PAGE  */
 #front-container {
+  background-color: var(--sky-blue);
     margin-left: 5%;
     margin-right: auto;
+    color: var(--festival)
+  
 
   }
 
@@ -483,15 +486,17 @@ p {
   padding-top: 30px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  gap: 10px 10px;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 1px 1px;
   grid-auto-flow: row;
   grid-template-areas:
     "head1 bio1 bio1 bio1"
     "bio2 bio2 bio2 head2"
     "head3 bio3 bio3 bio3"
     "bio4 bio4 bio4 head4"
-    "head5 bio5 bio5 bio5";
+    "head5 bio5 bio5 bio5"
+    "bio6 bio6 bio6 head6"
+    "head7 bio7 bio7 bio7";
 }
 
 .judgesContainer img{
@@ -522,7 +527,13 @@ p {
 
 .bio5 { grid-area: bio5; }
 
+.bio6 { grid-area: bio6; }
 
+.head6 { grid-area: head6; }
+
+.head7 { grid-area: head7; }
+
+.bio7 { grid-area: bio7; }
 
 
 @media screen and (min-width: 1980px) {
@@ -574,3 +585,38 @@ p {
 
 }
  
+/* ART PAGE */
+
+
+.artContainer {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+  gap: 10px 0px; 
+}
+.greyEllipse1 { grid-area: 2 / 3 / 3 / 7; }
+.greyEllipse2 { grid-area: 3 / 1 / 4 / 5; }
+.feiArt { grid-area: 2 / 5 / 3 / 7; }
+.feiBio { grid-area: 2 / 3 / 3 / 5; }
+.moriArt { grid-area: 3 / 1 / 4 / 3; }
+.moriBio { grid-area: 3 / 3 / 4 / 5; }
+.greyEllipse3 { grid-area: 4 / 3 / 5 / 7; }
+.joaoArt { grid-area: 4 / 5 / 5 / 7; }
+.joaoBio { grid-area: 4 / 3 / 5 / 5; }
+.greyEllipse4 { grid-area: 5 / 1 / 6 / 5; }
+.gwArt { grid-area: 5 / 1 / 6 / 3; }
+.gwBio { grid-area: 5 / 3 / 6 / 5; }
+.greyEllipse5 { grid-area: 6 / 2 / 7 / 6; }
+.hefArt1 { grid-area: 6 / 1 / 7 / 3; }
+.hefArt2 { grid-area: 6 / 5 / 7 / 7; }
+.hefBio { grid-area: 6 / 3 / 7 / 5; }
+.greyEllipse6 { grid-area: 7 / 2 / 10 / 6; }
+.jacobusArt1 { grid-area: 7 / 3 / 8 / 5; }
+.jacobusBio { grid-area: 8 / 3 / 9 / 5; }
+.jacobusArt2 { grid-area: 9 / 1 / 11 / 7; }
+.greyEllipse7 { grid-area: 11 / 1 / 12 / 5; }
+.nicoBio { grid-area: 11 / 3 / 12 / 5; }
+.nicoArt { grid-area: 11 / 1 / 12 / 3; }
+.nikunjTurtleEllipse { grid-area: 1 / 1 / 2 / 6; }
+.nikunjBio { grid-area: 1 / 2 / 2 / 4; }
+.NikunjGear { grid-area: 1 / 1 / 2 / 2; }

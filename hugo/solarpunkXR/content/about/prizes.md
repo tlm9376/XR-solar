@@ -3,8 +3,8 @@ layout: "aboutPrizes"
 menu: about
 title: About the Prizes
 comments: false
-image: "/images/flower2.png"
-ellipse: "/images/jordy-blue-ellipse-2.png"
+image: "/images/flower.png"
+ellipse: "/images/golden-ellipse-big.png"
 ellipsexpos: 70vh 
 ellipseypos: -199vh
 backgroundColor: hopbush

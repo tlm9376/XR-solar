@@ -7,7 +7,7 @@ ellipse: "/images/light-green-ellispe-big.png"
 ellipsexpos: 100vh 
 ellipseypos: -22vh
 backgroundColor: hopbush
-titleColor: yellow-green
+titleColor: cream-brulee
 ---
 The XR Wordsmiths Solarpunk Storytelling Showcase is Extinction Rebellion’s first global short story contest for all ages.
 

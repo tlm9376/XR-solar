@@ -7,7 +7,7 @@ ellipse: "/images/jordy-blue-ellipse.png"
 ellipsexpos: 66vw
 ellipseypos: 90%
 backgroundColor: yellow-green
-titleColor: peach-yellow
+titleColor: azure
 ---
 
 When you think about the future you want for the planet, what visions does your imagination conjure up? How would human societies interact with nature? How do you think a plant or an animal would describe its place in the world, and how it came to be so? What changes (from the smallest detail to large structural changes or technological innovations) would transform today’s world into the world you imagine? If we can imagine it, we can work towards it.

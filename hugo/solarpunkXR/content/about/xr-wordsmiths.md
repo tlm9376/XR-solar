@@ -5,10 +5,10 @@ title: About the XR Wordsmiths
 comments: false
 image: "/images/typewritter.png"
 ellipse: "/images/light-green-ellipse-big.png"
-ellipsexpos: 100vh 
+ellipsexpos: 60vh 
 ellipseypos: -22vh
 backgroundColor: yellow-green
-titleColor: festival-3
+titleColor: azure
 ---
 We are a band/collective of writers who are deeply concerned with the climate and ecological emergency facing us all. We are a part of [Extinction Rebellion](https://rebellion.global/), and hail from all over the world.
 
