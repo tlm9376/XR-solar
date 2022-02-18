@@ -7,8 +7,8 @@ image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: azure
 ellipseColor: jordy-blue
-titleColor: cream-brulee
-ellipseYPos: 20%
+titleColor: banana-mania
+ellipseYPos: 10vh
 
 ---
 ### City Starlight 

@@ -8,6 +8,8 @@ imageType: pencil
 backgroundColor: picton-blue
 ellipseColor: jagged-ice
 titleColor: mandy
+ellipseYPos: 12vh
+
 
 ---
 The tides rolled in. The tides rolled out. It was as simple as that. And in that simplicity there was power. Enough to light entire cities, even, not that Afton knew personally. Her little village did just fine, roaming the waves, but in her thirteen years she’d never seen the capital of the Floating Republic. She’d never walked on sidewalks so steady it was said you couldn’t even feel the rocking of the waves. For Afton, sea legs were the only legs she’d ever known. But today, that would change. 

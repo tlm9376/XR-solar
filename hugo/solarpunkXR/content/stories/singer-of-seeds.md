@@ -6,8 +6,10 @@ author: by Leda Baöl. Torino, Italy / Amsterdam, The Netherlands.
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: hopbush
-ellipseColor: jordy-blue
-titleColor: peach-yellow
+ellipseColor: banana-mania
+titleColor: perano-2
+ellipseYPos: 12vh
+
 
 ---
 Maïa climbs up the ladder and tries to sit next to me with as little noise as possible.

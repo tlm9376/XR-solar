@@ -6,8 +6,9 @@ author: by Jeremy Parker
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
-ellipseColor: cream-brulee
+ellipseColor: banana-mania
 titleColor: hopbush
+ellipseYPos: 12vh
 ---
 Lisa Kendrick brushed down her smart, grey skirt suit, then smoothed her perfectly styled hair. Pausing, she checked her makeup and gave her hair a second glance, then she nodded, satisfied that she still looked like she’d just stepped out of a salon. Then she stopped and thought. Then she sat down. 
 

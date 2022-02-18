@@ -8,6 +8,7 @@ imageType: pencil
 backgroundColor: picton-blue
 ellipseColor: jagged-ice
 titleColor: mandy
+ellipseYPos: 12vh
 
 ---
 

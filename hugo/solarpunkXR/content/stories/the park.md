@@ -6,8 +6,9 @@ author: by Adam Marx, Borehamwood, England.
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: hopbush
-ellipseColor: jordy-blue
-titleColor: peach-yellow
+ellipseColor: banana-mania
+titleColor: jordy-blue
+ellipseYPos: 12vh
 
 ---
 The child’s face was cold, with a coating of frost and an icicle hanging off the end of her chin.

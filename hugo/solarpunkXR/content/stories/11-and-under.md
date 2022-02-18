@@ -7,7 +7,7 @@ image: "/images/bee-b.png"
 ellipse: "/images/hopbush-ellipse-2.png"
 ellipsexpos: -68vh 
 ellipseypos: 33vh
-backgroundColor: lightning-yellow
+backgroundColor: peach-yellow
 titleColor: razzmatazz
 ---
 <p><a class=storylink href="/stories/happy-wolf">The Happy Wolf </a><br>

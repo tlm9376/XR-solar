@@ -6,8 +6,9 @@ author: by Hazel Morfett
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
-ellipseColor: cream-brulee
+ellipseColor: banana-mania
 titleColor: hopbush
+ellipseYPos: 12vh
 ---
 The dark eye of the whale focused contemplatively on the thick clumps of seaweed streaming past. The fronds brushed up against her skin, which like her eye, took in the colour and shape of the fresh green plants. Blinking slowly, she rolled towards the surface, pulled a deep gasp of empty air into her lungs, turned her fins, and directed the movement and power of her body downwards. 
 

@@ -7,7 +7,8 @@ image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: mandy
 ellipseColor: peach-yellow
-titleColor: goldenrod
+titleColor: hopbush-2
+ellipseYPos: 12vh
 ---
 Between sunset and starlight spans the twilight, and that is when we witches gather to dance in the garden. Live by the sun, love by the moon, so goes the old saying. A catchy soundbite, a t-shirt slogan, but truer now than ever before, as the solar panels swallow greedily the last peach-red-golden rays on the horizon, as the city sighs its relief and prepares to settle into slumber. The suburbs come alive with a patchwork of lights. Music and laughter spill from open doorways with the smell of cooking onions.
 

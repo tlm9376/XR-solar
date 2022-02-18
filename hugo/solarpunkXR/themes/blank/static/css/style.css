@@ -38,7 +38,7 @@
     --glossy-grape: #b991bc;
     --goldenrod: #ffdc7e;
     --hopbush: #cf6297;
-    --hopbush-2: #ce6296;
+    --hopbush-2: #7d0202;
     --hopbush-3: #d176a2;
     --jagged-ice: #c5e6f2;
     --jordy-blue: #81acf8;
@@ -48,11 +48,11 @@
     --onahau: #d0f0fc;
     --peach-yellow: #f7e3ae;
     --perano: #adc9fc;
-    --perano-2: #a8c8ff;
+    --perano-2: #4b4d9a;
     --picton-blue: #3fb3dd;
     --razzmatazz: #e32682;
     --red-violet: #c80a82;
-    --sky-blue: #76d0f1;
+    --sky-blue: #769df1;
     --sonic-silver: #777676;
     --tango: #f0712a;
     --thistle: #d6bfd8;
@@ -287,7 +287,7 @@ h1 {
     font-family: var(--font-family-fucxedcaps-regular);
     color: var(--hopbush);
     font-size: var(--font-size-l);
-    margin-top:0px;
+    margin-top:50px;
     letter-spacing: -0.1rem;
     line-height: 1;
     word-wrap: break-word;

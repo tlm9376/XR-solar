@@ -2,7 +2,7 @@
 layout: "about"
 title: Donate
 comments: false
-image: "/images/acorn.png"
+image: "/images/leaf.png"
 ellipse: "/images/creme-ellipse-3.png"
 ellipsexpos: 110% 
 ellipseypos: 60%
