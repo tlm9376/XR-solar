@@ -1,10 +1,7 @@
 {{ define "main" }}
 	<main>
 		<article>
-			<div id="about-container">
-				<h1 class="abouth">{{ .Title }}</h1>
-
-	
+				<h1 class="judgeh">{{ .Title }}</h1>
 						<!-- grid here -->
 						<div class="judgesContainer">
 							<div class="head1"><img src="/images/judges/aasiya.png"></div>
@@ -63,9 +60,6 @@
 									and legislation - society also needs its creatives and visionaries who can connect dots and see alternative and better ways.</p>
 							</div>
 						  </div>
-
-						  
-			</div>
 		</article>
 	</main>
 	<style>
@@ -75,6 +69,10 @@
 			background-repeat: no-repeat;
 			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
 		}
+		a {
+			color: var(--{{ .Params.titleColor }});
+		}
+
 		#titles-container h1 {
 			color: var(--{{ .Params.titleColor }});
 		}
