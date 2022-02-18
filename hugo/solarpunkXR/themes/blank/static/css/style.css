@@ -86,12 +86,11 @@
     --font-family-fucxedcaps-regular: "FUCXEDCAPS-Regular", Helvetica;
   }
 
-
-body {
-    margin: 0;
+  html, body {
+    height: 100%; width: 100%;
+    padding: 0; margin: 0;
     font-family: var(--font-family-crimson_text);
-    background-color: var(--sky-blue);
-  }
+}
 
 
 main {
@@ -344,10 +343,11 @@ p {
 /* 
   FRONT PAGE  */
 #front-container {
-  background-color: var(--sky-blue);
-    margin-left: 5%;
-    margin-right: auto;
-    color: var(--festival)
+  /* background-color: var(--sky-blue); */
+
+  margin-left: 5%;
+  margin-right: auto;
+  color: var(--festival)
   
 
   }
