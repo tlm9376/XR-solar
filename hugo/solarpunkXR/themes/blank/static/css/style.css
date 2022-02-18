@@ -90,7 +90,7 @@
 body {
     margin: 0;
     font-family: var(--font-family-crimson_text);
-    background-color: var(--yellow-green);
+    background-color: var(--sky-blue);
   }
 
 main {
@@ -156,7 +156,7 @@ main {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: var(--yellow-green);
+  background-color: var(--sky-blue);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -278,7 +278,7 @@ main {
     left: -50%;
     /* opacity: 0.67; */
     position: absolute;
-    top: 22%;
+    top: 50%;
     width: 200%;
     z-index: -1;
   }
@@ -300,7 +300,7 @@ h1 {
 
 h2 {
     float:right;
-    /* padding-left:400px; */
+    /* text-align: center;*/  /*Put author name in the center  */
     margin-top:-8%;
     color: var(--black);
     font-size: var(--font-size-xxs);

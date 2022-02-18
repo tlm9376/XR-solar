@@ -1,7 +1,5 @@
 ---
-# layout: "about"
-# menu: about
-layout: "artwork"
+layout: "aboutArtwork"
 menu: about
 title: About the Artwork
 comments: false

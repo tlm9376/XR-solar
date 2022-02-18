@@ -8,6 +8,7 @@ imageType: pencil
 backgroundColor: azure
 ellipseColor: jordy-blue
 titleColor: cream-brulee
+ellipseYPos: 20%
 
 ---
 ### City Starlight 

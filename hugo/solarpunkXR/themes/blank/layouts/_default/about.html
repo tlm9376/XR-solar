@@ -22,6 +22,11 @@
 			background-repeat: no-repeat;
 			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
 		}
+
+		a {
+			color: var(--{{ .Params.titleColor }});
+		}
+
 		#titles-container h1 {
 			color: var(--{{ .Params.titleColor }});
 		}
