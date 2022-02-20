@@ -329,7 +329,9 @@ h4{
 
 h5 {
   text-align: left;
-  font-size: 35px;
+  font-family: var(--font-family-fucxedcaps-regular);
+
+  font-size: 45px;
   margin:0px;
 
 }
@@ -568,38 +570,42 @@ p {
 }
 
 .artContainer {
+
   display: grid; 
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
-  gap: 2vh 2vh; 
+  gap: 5vh 5vh; 
   padding: 2vh;
+  color: white
+
 }
 .greyEllipse1 { grid-area: 2 / 3 / 3 / 7; }
 .greyEllipse2 { grid-area: 3 / 1 / 4 / 5; }
 .feiArt { grid-area: 2 / 5 / 3 / 7; }
-.feiBio { grid-area: 2 / 3 / 3 / 5; }
+.feiBio { grid-area: 2 / 2 / 3 / 5; }
 .moriArt { grid-area: 3 / 1 / 4 / 3; }
-.moriBio { grid-area: 3 / 3 / 4 / 5; }
+.moriBio { grid-area: 3 / 3 / 4 / 6; }
 .greyEllipse3 { grid-area: 4 / 3 / 5 / 7; }
-.joaoArt { grid-area: 4 / 5 / 5 / 7; }
-.joaoBio { grid-area: 4 / 3 / 5 / 5; }
+.joaoArt { grid-area: 4 / 5 / 5 / 7; }  
+.joaoBio { grid-area: 4 / 2 / 5 / 5; }
 .greyEllipse4 { grid-area: 5 / 1 / 6 / 5; }
 .gwArt { grid-area: 5 / 1 / 6 / 3; }
-.gwBio { grid-area: 5 / 3 / 6 / 5; }
+.gwBio { grid-area: 5 / 3 / 6 / 7; }
 .greyEllipse5 { grid-area: 6 / 2 / 7 / 6; }
-.hefArt1 { grid-area: 6 / 1 / 7 / 3; }
-.hefArt2 { grid-area: 6 / 5 / 7 / 7; }
-.hefBio { grid-area: 6 / 3 / 7 / 5; }
-.greyEllipse6 { grid-area: 7 / 2 / 10 / 6; }
+.hefArt1 { grid-area: 6 / 1 / 7 / 4; }
+.hefArt2 { grid-area: 7 / 1 / 8 / 3; }
+.hefBio { grid-area: 6 / 4 / 7 / 7; }
+.greyEllipse6 { grid-area: 7/ 2 / 11 / 6 }
 .jacobusArt1 { grid-area: 7 / 3 / 8 / 5; }
-.jacobusBio { grid-area: 8 / 3 / 9 / 5; }
-.jacobusArt2 { grid-area: 9 / 1 / 11 / 7; }
+.jacobusBio { grid-area: 7 / 1 / 8 / 7; }
+.jacobusArt2 { grid-area: 8 / 1 / 11 / 7; }
 .greyEllipse7 { grid-area: 11 / 1 / 12 / 5; }
 .nicoBio { grid-area: 11 / 3 / 12 / 5; }
 .nicoArt { grid-area: 11 / 1 / 12 / 3; }
-.nikunjTurtleEllipse { grid-area: 1 / 1 / 2 / 6; }
-.nikunjBio { grid-area: 1 / 2 / 2 / 4; }
-.NikunjGear { grid-area: 1 / 1 / 2 / 2; }
+.nikunjTurtleEllipse { grid-area: 1 / 1 / 2 / 7; }
+.nikunjBio { grid-area: 1/ 2 / 2 / 5; 
+  width: 550px; }
+
 
 
 

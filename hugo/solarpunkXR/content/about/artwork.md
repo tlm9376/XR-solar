@@ -6,7 +6,7 @@ comments: false
 image: "/images/showcasevine.png"
 ellipse: "/images/nikunj-artist-page.png"
 backgroundColor: cape-cod
-titleColor: azure
+titleColor: jagged-ice
 ---
 
 Artwork
