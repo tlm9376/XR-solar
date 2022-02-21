@@ -156,7 +156,7 @@ main {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: var(--sky-blue);
+  background-color: var(--picton-blue);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -196,8 +196,8 @@ main {
 
 .logo{ 
     position:absolute; 
-    top:0; 
-    right:0; 
+    top:2px; 
+    right:2px; 
     width:12%;
 
   } 
@@ -575,6 +575,7 @@ p {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
   gap: 5vh 5vh; 
+  /* gap: 10px 10px; */
   padding: 2vh;
   color: white
 
@@ -596,8 +597,8 @@ p {
 .hefArt2 { grid-area: 7 / 1 / 8 / 3; }
 .hefBio { grid-area: 6 / 4 / 7 / 7; }
 .greyEllipse6 { grid-area: 7/ 2 / 11 / 6 }
-.jacobusArt1 { grid-area: 7 / 3 / 8 / 5; }
-.jacobusBio { grid-area: 7 / 1 / 8 / 7; }
+.jacobusArt1 { grid-area: 7 / 5 / 8 / 8; }
+.jacobusBio { grid-area: 7 / 2 / 8 / 5; }
 .jacobusArt2 { grid-area: 8 / 1 / 11 / 7; }
 .greyEllipse7 { grid-area: 11 / 1 / 12 / 5; }
 .nicoBio { grid-area: 11 / 3 / 12 / 5; }
@@ -620,22 +621,27 @@ p {
 
 @media (max-width: 800px) {
   .topnav a {
-    font-size: 15px;
+    font-size: 17px;
+    padding: 14px 6px;
   }
 
   .dropdown .dropbtn {
-    font-size: 15px;
+    font-size: 17px;
+    padding: 14px 6px;
+  }
+
+  #content-container {
+    width: 80%;
   }
   
   #content-container h1 {
-    font-size: 40px;
+    font-size: var(--font-size-l);
+    margin-top: 10px;
   }
 
   #content-container h2 {
     font-size: 20px;
     margin-top: -37px;
-
-
   }
 
   #content-container img{
@@ -643,20 +649,68 @@ p {
   }
 
   .ellipse-content {
-
     top: 20%;
+  }
+  h1{
+    margin-top: 26px;
   }
   h3{
     font-size:20px;
   }
   h4{
-    font-size:60px;
+    font-size:50px;
   }
+  #about-container img{
+    display: none;
+  }
+  #about-container {
+    padding: 5px 14px;
+    grid-template-columns: 2fr 0fr;
+    /* grid-template-rows: 1fr 2fr; */
+    grid-template-areas:
+      "title title"
+      "text picture";
+  }
+  .prizesContainer {  
+    
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  
+    grid-template-areas:
+      "a b"
+      "c s"
+      "e f" 
+      "g h"
+      "i j" 
+      "k l"
+      "m n" 
+      "o p";
+  
+    padding: 7% 7%;
+  }
+  .logo{ 
+
+    width:18%;
+
+  } 
+  .column {
+    width: 95%;
+    text-align: center;
+  }
+  .front-page-img{
+    padding-left:0vw;
+
 }
 
 @media (max-width: 670px) {
   .column {
-    width: 100%;
+    width: 95%;
+    text-align: center;
   }
+  .logo{ 
+
+    width:18%;
+
+  } 
 
 }

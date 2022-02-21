@@ -6,9 +6,9 @@ author: by Rebekah Neuberger
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
-ellipseColor: banana-mania
 titleColor: hopbush
-ellipseYPos: 12vh
+ellipse: "/images/creme-ellipse-2.png"
+ellipseYPos: -4%
 ---
 “What we’re looking at here,” he pulled the map down slightly, “is the only man-made wonder of the world to exist twice. Every other thing on this old list has been destroyed.” 
 

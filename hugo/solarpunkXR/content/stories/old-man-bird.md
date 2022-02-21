@@ -6,9 +6,9 @@ author: Katrina Eilender. New Jersey, United States
 image: "/images/jacobus-old-man.png"
 imageType: pencil
 backgroundColor: azure
-ellipseColor: jordy-blue
 titleColor: cream-brulee
-ellipseYPos: 12vh
+ellipse: "/images/jordy-blue-ellipse-1.png"
+ellipseYPos: -4%
 ---
 It had been years since the bird heard the last trucks, saws, and men cutting down the trees,  killing its friends, and destroying its home. The colorful bird was singing on its tree, waiting for the Old Man to tell him stories. The Old Man told him about men’s cities: lush forests of blue, green, and gold, far away from the bird’s home. The stories were so different from the tales of the bird’s grandfather, who told him about dark, grey places of fear and misery.  
 

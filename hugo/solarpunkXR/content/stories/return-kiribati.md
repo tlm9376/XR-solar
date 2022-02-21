@@ -6,9 +6,9 @@ author: by Alexandra Porter
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: mandy
-ellipseColor: peach-yellow
 titleColor: hopbush-2
-ellipseYPos: 12vh
+ellipse: "/images/peach-yellow-ellipse.png"
+ellipseYPos: -4%
 ---
 Only the cold, untwinkling speck of a space station pierced the darkness between the thinning
 cumulus and the churning ink black sea.

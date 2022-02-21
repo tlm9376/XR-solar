@@ -6,9 +6,9 @@ author: by Leda Baöl. Torino, Italy / Amsterdam, The Netherlands.
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: hopbush
-ellipseColor: banana-mania
 titleColor: perano-2
-ellipseYPos: 12vh
+ellipse: "/images/jordy-blue-ellipse-1.png"
+ellipseYPos: -4%
 
 
 ---

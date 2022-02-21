@@ -6,7 +6,8 @@ author: Liz Liu, age 10. Taipei, Taiwan
 image: "/images/hal-hef-future-school.jpeg"
 imageType: pencil
 backgroundColor: goldenrod
-ellipseColor: banana-mania
+ellipse: "/images/creme-ellipse-2.png"
+ellipseypos: -5%
 titleColor: hopbush
 
 ---

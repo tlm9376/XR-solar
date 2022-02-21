@@ -6,9 +6,9 @@ author: by Clare Harvey
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
-ellipseColor: banana-mania
 titleColor: hopbush
-ellipseYPos: 12vh
+ellipse: "/images/creme-ellipse-2.png"
+ellipseYPos: -4%
 ---
 The light from the tall window glinted on the pincers.  Between their finely-engineered points, Lin held a tiny, red-leaved oxalis.  With a purposeful prod, she inserted it into the wad of sphagnum moss where the other red-leaved species were already taking root.  Further back along the wall, where she had first begun, tides of green tendrils lapped against jade fractals. Glossy weeping figs sheltered verdant ferns, whose close-held scent reminded Lin of woodland streams.  
 

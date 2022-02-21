@@ -6,9 +6,9 @@ author: by Tom Jubert
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
-ellipseColor: banana-mania
 titleColor: hopbush
-ellipseYPos: 12vh
+ellipse: "/images/creme-ellipse-2.png"
+ellipseYPos: -4%
 ---
 “Where are they?” asked Blue, transferring into the cockpit. “How worried are we?” 
 “They’re post-nuclear, pre-Universal,” replied Grey, projecting a zoomed-in view of the industrial complexes which studded the blue/beige planet they were orbiting. 
