@@ -6,9 +6,9 @@ author: by Charlie McKay
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
-ellipseColor: banana-mania
 titleColor: hopbush
-ellipseYPos: 12vh
+ellipse: "/images/creme-ellipse-2.png"
+ellipseYPos: -4%
 ---
 Paulo awoke to the sound of sizzling tomatoes being cooked by his grandmother in the kitchen of their two-bedroom apartment. Several seconds of serene silence passed before she sweetly  beckoned him for breakfast.
 

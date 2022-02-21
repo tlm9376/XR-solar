@@ -6,7 +6,8 @@ author: by Mikhayel Malouf, age 6. London, England
 image: "/images/goodwives-warriors.png"
 imageType: pencil
 backgroundColor: goldenrod
-ellipseColor: banana-mania
+ellipse: "/images/creme-ellipse-2.png"
+ellipseypos: -5%
 titleColor: hopbush
 
 ---

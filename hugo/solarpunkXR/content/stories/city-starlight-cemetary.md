@@ -6,9 +6,9 @@ author: Liz Liu, age 10. Taipei, Taiwan
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: azure
-ellipseColor: jordy-blue
 titleColor: banana-mania
-ellipseYPos: 10vh
+ellipse: "/images/jordy-blue-ellipse-1.png"
+ellipseYPos: -4%
 
 ---
 ### City Starlight 

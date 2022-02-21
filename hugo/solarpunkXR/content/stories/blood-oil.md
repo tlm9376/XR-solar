@@ -6,9 +6,9 @@ author: by Rebecca Spring. Washington DC, United States
 image: "/images/blood-oil.png"
 imageType: pencil
 backgroundColor: azure
-ellipseColor: jordy-blue
 titleColor: banana-mania
-ellipseYPos: 10vh
+ellipse: "/images/jordy-blue-ellipse-1.png"
+ellipseYPos: -4%
 
 ---
 I walk through the tall grass, it whispers against my legs. My bare feet press against the soft soil and I hear Mother Earth calling out to me, crying for help. Along the horizon, I see the oil pipeline cutting across the forest, swaths of trees chopped down in its wake. A scar cutting across Mother Earth, drawing the blood from within her to the surface. Blood flowing forth, a torrent of blood. Crude oil. Blood oil. They keep cutting her. They don’t bother to put on a band-aid. They don’t care. They just want her blood. Fossil fuel vampires. 

@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<main>
-		<div class="ellipse-content"></div>
+		<!-- <div class="ellipse-content"></div> -->
 		<article>
 			<div id="content-container">
 			<h1>{{ .Title }}</h1>
@@ -18,6 +18,10 @@
 	<style>
 		body {
 			background-color: var(--{{ .Params.backgroundColor }});
+			background-image: url({{ .Params.ellipse }});
+			background-repeat: no-repeat;
+			background-position: 50% {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
+			background-size: 200% auto;
 		}
 		.ellipse-content {
     		background-color: var(--{{ .Params.ellipseColor }});

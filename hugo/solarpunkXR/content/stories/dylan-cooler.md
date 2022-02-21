@@ -6,7 +6,8 @@ author: by Dylan Liu, age 9. Taipei, Taiwan
 image: "/images/hal-hef-dylan.jpeg"
 imageType: pencil
 backgroundColor: goldenrod
-ellipseColor: banana-mania
+ellipse: "/images/creme-ellipse-2.png"
+ellipseypos: -5%
 titleColor: hopbush
 
 ---

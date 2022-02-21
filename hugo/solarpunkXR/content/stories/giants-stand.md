@@ -6,9 +6,9 @@ author: by Spencer R. Scott. California, U.S.A.
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: picton-blue
-ellipseColor: jagged-ice
 titleColor: mandy
-ellipseYPos: 12vh
+ellipse: "/images/jagged-ice-ellipse.png"
+ellipseYPos: -4%
 
 
 ---
