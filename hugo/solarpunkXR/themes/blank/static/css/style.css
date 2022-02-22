@@ -28,7 +28,7 @@
     --cape-cod: #434343;
     --carnation-pink: #ffa5d1;
     --chicago: #61acf2;
-    --cream-brulee: #ffe49d;
+    --cream-brulee: #f7e3ae;
     --dove-gray: #707070;
     --dust-storm: #f4c8c8;
     --festival: #fce86a;
@@ -292,6 +292,8 @@ h1 {
     line-height: 1;
     word-wrap: break-word;
     /* white-space: nowrap; */
+    padding-left:20px;
+    padding-right:20px;
   }
 
 #content-container h1{
@@ -306,10 +308,14 @@ h2 {
     font-size: var(--font-size-xxs);
     font-style: normal;
     font-weight: 400;
+    padding-left:20px;
+    padding-right:20px;
   }
 
 .story-text{
   margin-top:60px;
+  padding-left:20px;
+  padding-right:20px;
 }
 
 /* Front page */
@@ -333,6 +339,14 @@ h5 {
 
   font-size: 45px;
   margin:0px;
+
+}
+h6 {
+  text-align: left;
+
+  font-size: 30px;
+
+  font-style: italic;
 
 }
 
@@ -563,49 +577,50 @@ p {
   margin-top: 10px !important;
   text-align: right;
   padding: 5vh;
+  max-width: 100%;
   
 }
 .artContainer img{
   max-width:100%;
+  padding-top:0px;
+  padding-bottom:30px;
 }
 
 .artContainer {
 
   display: grid; 
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
-  gap: 5vh 5vh; 
-  /* gap: 10px 10px; */
+  grid-template-rows: 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%;
+  gap: 10vh 5vh; 
   padding: 2vh;
-  color: white
+  color: white;
+  justify-content: center;
 
 }
-.greyEllipse1 { grid-area: 2 / 3 / 3 / 7; }
-.greyEllipse2 { grid-area: 3 / 1 / 4 / 5; }
-.feiArt { grid-area: 2 / 5 / 3 / 7; }
-.feiBio { grid-area: 2 / 2 / 3 / 5; }
+
+
+.nikunjTurtleEllipse { grid-area: 1 / 4 / 2 / 6; }
+.nikunjBio { grid-area: 1/ 1 / 2 / 4;}
+.feiArt { grid-area: 2 / 3 / 3 / 5; }
+.feiBio { grid-area: 2 / 5 / 3 / 7; }
 .moriArt { grid-area: 3 / 1 / 4 / 3; }
 .moriBio { grid-area: 3 / 3 / 4 / 6; }
-.greyEllipse3 { grid-area: 4 / 3 / 5 / 7; }
-.joaoArt { grid-area: 4 / 5 / 5 / 7; }  
-.joaoBio { grid-area: 4 / 2 / 5 / 5; }
-.greyEllipse4 { grid-area: 5 / 1 / 6 / 5; }
+
+.joaoArt { grid-area: 4 / 4 / 5 / 7; }  
+.joaoBio { grid-area: 4 / 2 / 5 / 4; }
+
 .gwArt { grid-area: 5 / 1 / 6 / 3; }
-.gwBio { grid-area: 5 / 3 / 6 / 7; }
-.greyEllipse5 { grid-area: 6 / 2 / 7 / 6; }
-.hefArt1 { grid-area: 6 / 1 / 7 / 4; }
-.hefArt2 { grid-area: 7 / 1 / 8 / 3; }
-.hefBio { grid-area: 6 / 4 / 7 / 7; }
-.greyEllipse6 { grid-area: 7/ 2 / 11 / 6 }
-.jacobusArt1 { grid-area: 7 / 5 / 8 / 8; }
-.jacobusBio { grid-area: 7 / 2 / 8 / 5; }
-.jacobusArt2 { grid-area: 8 / 1 / 11 / 7; }
-.greyEllipse7 { grid-area: 11 / 1 / 12 / 5; }
-.nicoBio { grid-area: 11 / 3 / 12 / 5; }
-.nicoArt { grid-area: 11 / 1 / 12 / 3; }
-.nikunjTurtleEllipse { grid-area: 1 / 1 / 2 / 7; }
-.nikunjBio { grid-area: 1/ 2 / 2 / 5; 
-  width: 550px; }
+.gwBio { grid-area: 5 / 3 / 6 / 6; }
+
+.hefArt1 { grid-area: 6 / 2 / 7 / 4; }
+.hefArt2 { grid-area: 7 / 2 / 7 / 3; }
+.hefBio { grid-area: 6 / 4 / 7 / 6; }
+.jacobusArt1 { grid-area: 7 / 4 / 8 / 6; }
+.jacobusBio { grid-area: 7 / 1 / 8 / 4; }
+.jacobusArt2 { grid-area: 8 / 1 / 11 / 6; }
+.nicoBio { grid-area: 11 / 5 / 12 / 7; }
+.nicoArt { grid-area: 11 / 3 / 12 / 5; } 
+
 
 
 
@@ -631,7 +646,7 @@ p {
   }
 
   #content-container {
-    width: 80%;
+    width: 100%;
   }
   
   #content-container h1 {
@@ -642,6 +657,7 @@ p {
   #content-container h2 {
     font-size: 20px;
     margin-top: -37px;
+
   }
 
   #content-container img{
@@ -725,6 +741,64 @@ p {
   font-size: 15px;
 }
 
+.artContainer img{
+  max-width:100%;
+  margin-top:-50px;
+  margin-bottom: 50px;
+}
+
+.artContainer {
+  grid-template-columns: 1fr !important;
+  grid-template-rows: 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%;
+
+  width: 90%;
+  grid-template-areas:
+  "nikunjBio"
+  "nikunjTurtleEllipse"
+  "feiBio"
+  "feiArt"
+  "moriBio"
+  "moriArt"
+  "joaoBio"
+  "joaoArt"
+
+  "gwBio"
+  "gwArt "
+  "hefBio"
+  "hefArt1"  
+  "jacobusBio"
+  "jacobusArt1"
+  "jacobusArt2"
+
+  "nicoBio"
+  "nicoArt";
+   /* fix: minimum width of 0 */
+   grid-template-columns: minmax(0, 1fr);
+}
+
+.nikunjBio { grid-area: nikunjBio; }
+.nikunjTurtleEllipse { grid-area: nikunjTurtleEllipse; }
+/* .greyEllipse1 { grid-area: ; }
+.greyEllipse2 { grid-area: ; } */
+.feiBio { grid-area:feiBio ; }
+.feiArt { grid-area: feiArt; }
+.moriBio { grid-area:moriBio ; }
+.moriArt { grid-area:moriArt ; }
+
+/* .greyEllipse3 { grid-area: ; } */
+.joaoBio { grid-area:joaoBio ; }
+
+.joaoArt { grid-area:joaoArt ; }  
+/* .greyEllipse4 { grid-area: ; } */
+.gwBio { grid-area:gwBio ; }
+.gwArt { grid-area: gwArt ; }
+.hefArt1 {grid-area:hefArt1}
+.hefBio {grid-area:hefBio}
+.jacobusArt1 {grid-area:jacobusArt1}
+.jacobusArt2 {grid-area:jacobusArt2}
+.jacobusBio {grid-area: jacobusBio}
+.nicoBio { grid-area: nicoBio; }
+.nicoArt { grid-area: nicoArt; }
 }
 
 @media (max-width: 670px) {
