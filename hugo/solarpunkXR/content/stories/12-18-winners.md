@@ -8,7 +8,7 @@ ellipse: "/images/jordy-blue-ellipse-2.png"
 ellipsexpos: 30vh 
 ellipseypos: -90vh
 backgroundColor: azure
-titleColor: goldenrod
+titleColor: banana-mania
 ---
 <p><a class=storylink href="/stories/city-starlight-cemetary">City Starlight & The Cemetary</a><br>
 by Katrina Eilender. New Jersey, U.S.A.</p>
