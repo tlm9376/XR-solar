@@ -9,6 +9,7 @@ backgroundColor: yellow-green
 titleColor: hopbush
 ellipse: "/images/creme-ellipse-2.png"
 ellipseYPos: -4%
+textBackgroundColor: cream-brulee
 ---
 Paulo awoke to the sound of sizzling tomatoes being cooked by his grandmother in the kitchen of their two-bedroom apartment. Several seconds of serene silence passed before she sweetly  beckoned him for breakfast.
 

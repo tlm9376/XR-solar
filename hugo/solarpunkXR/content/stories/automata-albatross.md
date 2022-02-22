@@ -10,6 +10,7 @@ backgroundColor: mandy
 titleColor: hopbush-2
 ellipse: "/images/peach-yellow-ellipse.png"
 ellipseYPos: -4%
+textBackgroundColor: peach-yellow
 ---
 The albatross almost struck Akila as it fell. With a metallic shriek, it plummeted from the empty gray sky to shatter at her feet, wires spilling onto the slick cement of the sidewalk. She stood frozen in shock as tendrils of steam coolant curled through her braids, its beak chattering eerily as it shuddered into stillness. A dead albatross was very bad luck, her offshore studies professor had told her. Perhaps he would know what to do with it. Cradling it in her scarf, she carried the metal carcass past the hissing evapo-pods of the water purification plants, winding her way to the center of CR-8, the U.N.’s designated seventh largest floating city, founded after the Bengal floods of 2047 and affectionately known to its residents as the Floating Landfill, Rust Bucket, and, most commonly, Crate.
 

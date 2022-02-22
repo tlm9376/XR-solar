@@ -9,6 +9,7 @@ backgroundColor: yellow-green
 titleColor: hopbush
 ellipse: "/images/creme-ellipse-2.png"
 ellipseYPos: -4%
+textBackgroundColor: cream-brulee
 ---
 September 28th, Daylight. They have overtaken the surface for quite some time now. Their calendars say the year is 2089, ours 58. I do not know which one’s true. We are safe underground in a place the surface people call Esenyurt. They don’t come down, we don’t go up. Sewers run deep. They don’t allow us at the surface of the city. They send their nuclear waste and garbage down here. We reprocess all of them into useful everyday items. 
 

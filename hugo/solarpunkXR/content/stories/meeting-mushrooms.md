@@ -9,6 +9,7 @@ backgroundColor: yellow-green
 titleColor: hopbush
 ellipse: "/images/creme-ellipse-2.png"
 ellipseYPos: -4%
+textBackgroundColor: cream-brulee
 ---
 Lisa Kendrick brushed down her smart, grey skirt suit, then smoothed her perfectly styled hair. Pausing, she checked her makeup and gave her hair a second glance, then she nodded, satisfied that she still looked like she’d just stepped out of a salon. Then she stopped and thought. Then she sat down. 
 

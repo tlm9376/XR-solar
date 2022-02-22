@@ -9,7 +9,7 @@ backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.png"
 ellipseYPos: -4%
-
+textBackgroundColor: jordy-blue
 ---
 ### City Starlight 
 

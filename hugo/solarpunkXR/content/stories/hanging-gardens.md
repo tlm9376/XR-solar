@@ -9,6 +9,7 @@ backgroundColor: yellow-green
 titleColor: hopbush
 ellipse: "/images/creme-ellipse-2.png"
 ellipseYPos: -4%
+textBackgroundColor: cream-brulee
 ---
 “What we’re looking at here,” he pulled the map down slightly, “is the only man-made wonder of the world to exist twice. Every other thing on this old list has been destroyed.” 
 

@@ -9,6 +9,7 @@ backgroundColor: picton-blue
 titleColor: mandy
 ellipse: "/images/jagged-ice-ellipse.png"
 ellipseYPos: -4%
+textBackgroundColor: jagged-ice
 
 ---
 

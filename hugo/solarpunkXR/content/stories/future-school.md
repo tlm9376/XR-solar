@@ -9,7 +9,7 @@ backgroundColor: goldenrod
 ellipse: "/images/creme-ellipse-2.png"
 ellipseypos: -5%
 titleColor: hopbush
-
+textBackgroundColor: peach-yellow
 ---
 Nowadays, students do not enjoy school much because it is boring. So a lot of teachers are determined to make the school a fun place, while keeping it safe and eco-friendly. But how? We’ll find out!
 

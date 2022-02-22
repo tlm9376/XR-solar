@@ -635,7 +635,7 @@ p {
   }
   
   #content-container h1 {
-    font-size: var(--font-size-l);
+
     margin-top: 10px;
   }
 
@@ -648,10 +648,29 @@ p {
     display: none;
   }
 
+  .judgesContainer {  
+
+    grid-template-columns: 1fr;
+    /* grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
+    grid-template-rows: auto auto auto auto auto auto auto;
+    gap: 20vh 5vh;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "bio1"
+      "bio2"
+      "bio3"
+      "bio4"
+      "bio5"
+      "bio6"
+      "bio7";
+   
+  }
+
   .ellipse-content {
     top: 20%;
   }
   h1{
+    font-size:50px;
     margin-top: 26px;
   }
   h3{
@@ -684,14 +703,11 @@ p {
       "i j" 
       "k l"
       "m n" 
-      "o p";
-  
+      "o p"; 
     padding: 7% 7%;
   }
   .logo{ 
-
     width:18%;
-
   } 
   .column {
     width: 95%;
@@ -699,6 +715,15 @@ p {
   }
   .front-page-img{
     padding-left:0vw;
+  }
+  .storylink{
+    /* font-size:90%; */
+    font-size: 20px;
+  }
+#storylinks-container p{
+  /* font-size:90%; */
+  font-size: 15px;
+}
 
 }
 

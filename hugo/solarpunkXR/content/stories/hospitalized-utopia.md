@@ -8,7 +8,8 @@ imageType: pencil
 backgroundColor: mandy
 titleColor: hopbush-2
 ellipse: "/images/peach-yellow-ellipse.png"
-ellipseYPos: -4%
+ellipseYPos: 100px
+textBackgroundColor: peach-yellow
 
 ---
 Diana looked out the window at the sky. It was a good sky, she liked looking at it, but she couldn’t look at much else. If she turned her head the other way she could see only pale blue walls, medical equipment, and a glimpse of that machine in the hallway that went beep! beep! beep! She couldn’t imagine what it did—and she had tried.

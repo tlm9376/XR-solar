@@ -9,6 +9,7 @@ backgroundColor: goldenrod
 ellipse: "/images/creme-ellipse-2.png"
 ellipseypos: -5%
 titleColor: hopbush
+textBackgroundColor: peach-yellow
 
 ---
 I like being a wolf because I have a lovely forest with Evergreen trees. Like Christmas trees. And it is very cold because I am in the Arctic. I like the Evergreen trees because they keep us healthy.

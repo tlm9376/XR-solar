@@ -9,7 +9,7 @@ backgroundColor: hopbush
 titleColor: perano-2
 ellipse: "/images/jordy-blue-ellipse-1.png"
 ellipseYPos: -4%
-
+textBackgroundColor: jordy-blue
 
 ---
 Maïa climbs up the ladder and tries to sit next to me with as little noise as possible.

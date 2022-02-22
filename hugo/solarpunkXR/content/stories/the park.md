@@ -9,6 +9,7 @@ backgroundColor: hopbush
 titleColor: perano-2
 ellipse: "/images/jordy-blue-ellipse-1.png"
 ellipseYPos: -4%
+textBackgroundColor: jordy-blue
 
 ---
 The child’s face was cold, with a coating of frost and an icicle hanging off the end of her chin.

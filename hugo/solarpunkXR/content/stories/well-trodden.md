@@ -9,6 +9,7 @@ backgroundColor: yellow-green
 titleColor: hopbush
 ellipse: "/images/creme-ellipse-2.png"
 ellipseYPos: -4%
+textBackgroundColor: cream-brulee
 ---
 “Where are they?” asked Blue, transferring into the cockpit. “How worried are we?” 
 “They’re post-nuclear, pre-Universal,” replied Grey, projecting a zoomed-in view of the industrial complexes which studded the blue/beige planet they were orbiting. 

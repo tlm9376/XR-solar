@@ -9,6 +9,7 @@ backgroundColor: mandy
 titleColor: hopbush-2
 ellipse: "/images/peach-yellow-ellipse.png"
 ellipseYPos: -4%
+textBackgroundColor: peach-yellow
 ---
 Only the cold, untwinkling speck of a space station pierced the darkness between the thinning
 cumulus and the churning ink black sea.

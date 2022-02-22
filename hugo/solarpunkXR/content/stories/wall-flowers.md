@@ -9,6 +9,7 @@ backgroundColor: mandy
 titleColor: hopbush-2
 ellipse: "/images/peach-yellow-ellipse.png"
 ellipseYPos: -4%
+textBackgroundColor: peach-yellow
 
 ---
 Never do this. I’m not the most outdoorsy person, but even I know that if you’re lost and alone in the woods, it’s a bad idea to scoff a bunch of unidentified mushrooms. The thing is, I just couldn’t help myself. The afternoon sun slanting through the trees was so golden, the colours of the autumn leaves so alluring, that I had wandered further and further from the trail; and when I came to a clearing filled with shifting, dappled light and saw the clump of small, pale blue mushrooms gleaming like strange gemstones, it seemed the most natural thing in the world to nibble one. It tasted so rich, so strange—like a taste half-remembered from a dream—that before I knew it I had wolfed down half-a-dozen. If this was my last meal, so be it. I could think of worse places to kick the bucket. So I sat down with my back against a tree and tried to prepare myself for whatever came next, be it killer stomach cramps or weird hallucinations. But the only thing I felt, after a few minutes, was a strange tingling like electricity all through my body.
