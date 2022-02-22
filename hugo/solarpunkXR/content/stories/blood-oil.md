@@ -7,7 +7,7 @@ image: "/images/blood-oil.png"
 imageType: pencil
 backgroundColor: azure
 titleColor: banana-mania
-ellipse: "/images/jordy-blue-ellipse-1.png"
+ellipse: "/images/jordy-blue-ellipse-1.svg"
 ellipseYPos: -4%
 textBackgroundColor: jordy-blue
 

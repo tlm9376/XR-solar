@@ -4,7 +4,7 @@ menu: stories
 title: Honourable Mentions
 comments: false
 image: "/images/bird3.png"
-ellipse: "/images/creme-ellipse-2.png"
+ellipse: "/images/creme-ellipse-2.svg"
 ellipsexpos: -60vh 
 ellipseypos: 30%
 backgroundColor: yellow-green

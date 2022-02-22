@@ -7,7 +7,7 @@ image: "/images/jacobus-old-man.png"
 imageType: pencil
 backgroundColor: azure
 titleColor: cream-brulee
-ellipse: "/images/jordy-blue-ellipse-1.png"
+ellipse: "/images/jordy-blue-ellipse-1.svg"
 ellipseYPos: -4%
 textBackgroundColor: jordy-blue
 ---

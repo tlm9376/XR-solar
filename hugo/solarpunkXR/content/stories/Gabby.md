@@ -7,7 +7,7 @@ image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: picton-blue
 titleColor: mandy
-ellipse: "/images/jagged-ice-ellipse.png"
+ellipse: "/images/jagged-ice-ellipse.svg"
 ellipseYPos: -4%
 textBackgroundColor: jagged-ice
 

@@ -8,7 +8,7 @@ imageType: pencil
 backgroundColor: mandy
 
 titleColor: hopbush-2
-ellipse: "/images/peach-yellow-ellipse.png"
+ellipse: "/images/peach-yellow-ellipse.svg"
 ellipseYPos: -4%
 textBackgroundColor: peach-yellow
 ---

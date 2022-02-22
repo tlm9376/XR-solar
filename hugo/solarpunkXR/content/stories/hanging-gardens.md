@@ -7,7 +7,7 @@ image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
 titleColor: hopbush
-ellipse: "/images/creme-ellipse-2.png"
+ellipse: "/images/creme-ellipse-2.svg"
 ellipseYPos: -4%
 textBackgroundColor: cream-brulee
 ---

@@ -4,7 +4,7 @@ menu: stories
 title: Runners Up
 comments: false
 image: "/images/bird2.png"
-ellipse: "/images/creme-ellipse-2.png"
+ellipse: "/images/creme-ellipse-2.svg"
 ellipsexpos: -65vh 
 ellipseypos: 110%
 backgroundColor: mandy

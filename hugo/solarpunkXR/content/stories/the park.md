@@ -7,7 +7,7 @@ image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: hopbush
 titleColor: perano-2
-ellipse: "/images/jordy-blue-ellipse-1.png"
+ellipse: "/images/jordy-blue-ellipse-1.svg"
 ellipseYPos: -4%
 textBackgroundColor: jordy-blue
 
