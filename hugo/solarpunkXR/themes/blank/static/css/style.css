@@ -196,7 +196,7 @@ main {
 
 .logo{ 
     position:absolute; 
-    top:2px; 
+    top:4px; 
     right:3%; 
     width:12%;
 
@@ -636,13 +636,13 @@ banner a{
   
 
   .topnav a {
-    font-size: 17px;
-    padding: 14px 6px;
+    font-size: 16px;
+    padding: 14px 4px;
   }
 
   .dropdown .dropbtn {
-    font-size: 17px;
-    padding: 14px 6px;
+    font-size: 16px;
+    padding: 14px 4px;
   }
 
   #content-container {
@@ -758,21 +758,8 @@ banner a{
 
 banner {
   width:  30px;
-  /* height: 100%;
-  bottom: 0;
-  color: white;
-  padding: 10px 0px;
-  display: flex;
-  align-content: flex-start;
-  justify-content: right;
-  align-items: center;
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-  position: fixed;
-  z-index: 999;
-  right: 0px;
-  background-color: black;
-  font-size: calc(1.125rem * 1.2); */
+
+  font-size: 17px;
 }
 
 
