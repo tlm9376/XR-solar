@@ -23,7 +23,7 @@ Jules always cut through the park on her way to work, but she liked it best this
 The centrepiece of the park was the statue. The statue of the little girl. Violent hunks of metal jutting out in different directions as if it had burst through the ground, as if the earth itself had lashed out in anger.
 
 
-And in the middle: the girl. The girl with the pleading look and the outstretched hand begging for it to stop. It. All of it.
+And in the middle: the girl. The girl with the pleading look and the outstretched hand begging for it to stop. All of it.
 
 The statue had been installed in the dark of night nearly two decades earlier, placed by a group of parents who’d lost children. Lost them to floods. Lost them to fires. Lost them to asthma attacks. Lost them to bad water, bad storms, bad drivers who didn’t see the children playing.
 

@@ -1,7 +1,7 @@
 ---
 layout: "story"
 menu: story
-title: Meeting at the Giant Mushrooms
+title: Meeting at the Giant Mushroom
 author: by Jeremy Parker
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil

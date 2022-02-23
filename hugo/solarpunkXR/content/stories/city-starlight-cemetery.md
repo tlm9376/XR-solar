@@ -1,8 +1,8 @@
 ---
 layout: "story"
 menu: story
-title: City Starlight & The Cemetary
-author: Liz Liu, age 10. Taipei, Taiwan
+title: City Starlight & The Cemetery
+author: Katrina Eilender. New Jersey, United States.
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: azure
@@ -337,6 +337,3 @@ hasn’t for a long time. If you listen carefully, you might even hear the trees
 
 
 
-
-Thank you for reading my submissions :)
- 

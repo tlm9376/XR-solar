@@ -2,7 +2,7 @@
 layout: "story"
 menu: story
 title: Green Witch
-author: by Alexandra Porter
+author: by Katrina Townsend
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: mandy

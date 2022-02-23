@@ -28,5 +28,5 @@ by Hazel Morfett</p>
 <p><a class=storylink href="/stories/hanging-gardens">The Hanging Gardens of Babylon</a><br>
 by Rebekah Neuberger</p>
 
-<p><a class=storylink href="/stories/meeting-mushrooms">Meeting at the Giant Musrooms</a><br>
+<p><a class=storylink href="/stories/meeting-mushrooms">Meeting at the Giant Musroom</a><br>
 by Jeremy Parker</p>

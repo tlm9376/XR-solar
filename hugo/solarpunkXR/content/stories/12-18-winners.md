@@ -10,7 +10,7 @@ ellipseypos: -90vh
 backgroundColor: azure
 titleColor: banana-mania
 ---
-<p><a class=storylink href="/stories/city-starlight-cemetary">City Starlight & The Cemetary</a><br>
+<p><a class=storylink href="/stories/city-starlight-cemetery">City Starlight & The Cemetery</a><br>
 by Katrina Eilender. New Jersey, U.S.A.</p>
 
 <p><a class=storylink href="/stories/old-man-bird">The Old Man and the Bird </a><br>

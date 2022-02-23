@@ -45,7 +45,7 @@ She unwrapped the cloth and opened the box, gingerly revealing an opalescent spi
 “It’s spikey!”
 
 
-“It’s called a radiolaria. It’s a teeny, tiny sea creature that lives inside a mineral skeleton,” he explained. It’s structure was somewhere between a Victorian chandelier and a gazebo made of sea urchins. 
+“It’s called a radiolaria. It’s a teeny, tiny sea creature that lives inside a mineral skeleton,” he explained. Its structure was somewhere between a Victorian chandelier and a gazebo made of sea urchins. 
 
 “Grandpa, how does it shine in all the colors?” Whit gave us abalone shells from his last harvest and we fed them into the bio-printer. 
 

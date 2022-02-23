@@ -187,6 +187,6 @@ The world leader returned triumphantly to the oblong office and anxiously reveal
 On it materialised two words: 
 
 'NURTURE NATURE' 
+
 From the world leader's perspective, it was so trite that it simply had to be a joke.
 
-THE END 

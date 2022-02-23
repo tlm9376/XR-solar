@@ -123,5 +123,3 @@ Des put his arms around her and squeezed.
 ‘You’re not scared a little rugrat will mess up the plants?’ he asked.
 
 ‘Bring it on,’ said Lin.
-
-ENDS

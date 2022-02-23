@@ -2,7 +2,7 @@
 layout: "story"
 menu: story
 title: The Old Man and the Bird
-author: Katrina Eilender. New Jersey, United States
+author:  Aël Magnard. Paris, France. 
 image: "/images/jacobus-old-man.png"
 imageType: pencil
 backgroundColor: azure
@@ -26,8 +26,10 @@ Little did they understand each other, but the bird could tell that the Old Man 
 
 ‘Don’t worry’ said the bird, ‘I’ll be back soon.’
 
-The Old Man let a tear roll down his cheek.  
+The Old Man let a tear roll down his cheek. 
+
 The bird flew across emeralds seas and sapphire skies, across mountain tops kissed  with snow. He flew across deserts of golden sands and blue waters of tranquility. The bird  learned that the world was a beautiful but fragile place, as the Earth showed him the scars man left on her. He flew through rains, storms, sandstorms, and even blizzards (the accelerated forces of natural selection had made him a very tough bird, almost a super bird) and learned that no matter how dark the sky could be at night, the day would eventually come. No matter how the sky was filled with black clouds of grey lighting, sandstorms, or freezing ice, the sun would shine again. Yes, the little bird learned that hope would exist as long as that beautiful yet fragile world would. He learned that preserving that beauty was the only way to preserve hope. And he was glad that the friends of the Old Man had helped preserve his forest.  
+
 A few weeks later, the bird arrived at his first human settlement. (He explored the wilderness for some time, even though the city was only a few hours away). Strangely, he almost mistook the city for some alien forest, all green and blue. It wasn’t the cities his grandfather told him about. It was merrier, greener, quieter. There, the bird met a young puppy, with white fur.
 
 ‘Hello, puppy’” he said. The non-humans animals could understand each other, while humans animals had lost that ability since they walked away from harmony with Mother  Nature.
