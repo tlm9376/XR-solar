@@ -302,7 +302,6 @@ h1 {
 
 h2 {
     float:right;
-    /* text-align: center;*/  /*Put author name in the center  */
     margin-top:-8%;
     color: var(--black);
     font-size: var(--font-size-xxs);
@@ -313,7 +312,8 @@ h2 {
   }
 
 .story-text{
-  margin-top:60px;
+  margin-top:40px;
+  padding-top:15px;
   padding-left:20px;
   padding-right:20px;
 }
@@ -589,42 +589,13 @@ p {
 .artContainer {
 
   display: grid; 
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
-  grid-template-rows: 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%;
+  grid-template-columns: 1fr 1fr;
   gap: 10vh 5vh; 
   padding: 2vh;
   color: white;
-  justify-content: center;
+  justify-items: end;
 
 }
-
-
-.nikunjTurtleEllipse { grid-area: 1 / 4 / 2 / 6; }
-.nikunjBio { grid-area: 1/ 1 / 2 / 4;}
-.feiArt { grid-area: 2 / 3 / 3 / 5; }
-.feiBio { grid-area: 2 / 5 / 3 / 7; }
-.moriArt { grid-area: 3 / 1 / 4 / 3; }
-.moriBio { grid-area: 3 / 3 / 4 / 6; }
-
-.joaoArt { grid-area: 4 / 4 / 5 / 7; }  
-.joaoBio { grid-area: 4 / 2 / 5 / 4; }
-
-.gwArt { grid-area: 5 / 1 / 6 / 3; }
-.gwBio { grid-area: 5 / 3 / 6 / 6; }
-
-.hefArt1 { grid-area: 6 / 2 / 7 / 4; }
-.hefArt2 { grid-area: 7 / 2 / 7 / 3; }
-.hefBio { grid-area: 6 / 4 / 7 / 6; }
-.jacobusArt1 { grid-area: 7 / 4 / 8 / 6; }
-.jacobusBio { grid-area: 7 / 1 / 8 / 4; }
-.jacobusArt2 { grid-area: 8 / 1 / 11 / 6; }
-.nicoBio { grid-area: 11 / 5 / 12 / 7; }
-.nicoArt { grid-area: 11 / 3 / 12 / 5; } 
-
-
-
-
-
 
 
 
@@ -635,6 +606,8 @@ p {
 }
 
 @media (max-width: 800px) {
+
+
   .topnav a {
     font-size: 17px;
     padding: 14px 6px;
@@ -655,14 +628,16 @@ p {
   }
 
   #content-container h2 {
+    float: none;
+    text-align: center;
     font-size: 20px;
     margin-top: -37px;
 
   }
-
-  #content-container img{
+  .pencil img{ 
     display: none;
   }
+
 
   .judgesContainer {  
 
@@ -686,7 +661,7 @@ p {
     top: 20%;
   }
   h1{
-    font-size:50px;
+    font-size:48px;
     margin-top: 26px;
   }
   h3{
@@ -749,56 +724,11 @@ p {
 
 .artContainer {
   grid-template-columns: 1fr !important;
-  grid-template-rows: 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%;
-
   width: 90%;
-  grid-template-areas:
-  "nikunjBio"
-  "nikunjTurtleEllipse"
-  "feiBio"
-  "feiArt"
-  "moriBio"
-  "moriArt"
-  "joaoBio"
-  "joaoArt"
-
-  "gwBio"
-  "gwArt "
-  "hefBio"
-  "hefArt1"  
-  "jacobusBio"
-  "jacobusArt1"
-  "jacobusArt2"
-
-  "nicoBio"
-  "nicoArt";
-   /* fix: minimum width of 0 */
-   grid-template-columns: minmax(0, 1fr);
+ 
 }
 
-.nikunjBio { grid-area: nikunjBio; }
-.nikunjTurtleEllipse { grid-area: nikunjTurtleEllipse; }
-/* .greyEllipse1 { grid-area: ; }
-.greyEllipse2 { grid-area: ; } */
-.feiBio { grid-area:feiBio ; }
-.feiArt { grid-area: feiArt; }
-.moriBio { grid-area:moriBio ; }
-.moriArt { grid-area:moriArt ; }
 
-/* .greyEllipse3 { grid-area: ; } */
-.joaoBio { grid-area:joaoBio ; }
-
-.joaoArt { grid-area:joaoArt ; }  
-/* .greyEllipse4 { grid-area: ; } */
-.gwBio { grid-area:gwBio ; }
-.gwArt { grid-area: gwArt ; }
-.hefArt1 {grid-area:hefArt1}
-.hefBio {grid-area:hefBio}
-.jacobusArt1 {grid-area:jacobusArt1}
-.jacobusArt2 {grid-area:jacobusArt2}
-.jacobusBio {grid-area: jacobusBio}
-.nicoBio { grid-area: nicoBio; }
-.nicoArt { grid-area: nicoArt; }
 }
 
 @media (max-width: 670px) {

@@ -292,6 +292,8 @@ h1 {
     line-height: 1;
     word-wrap: break-word;
     /* white-space: nowrap; */
+    padding-left:20px;
+    padding-right:20px;
   }
 
 #content-container h1{
@@ -300,16 +302,20 @@ h1 {
 
 h2 {
     float:right;
-    /* text-align: center;*/  /*Put author name in the center  */
     margin-top:-8%;
     color: var(--black);
     font-size: var(--font-size-xxs);
     font-style: normal;
     font-weight: 400;
+    padding-left:20px;
+    padding-right:20px;
   }
 
 .story-text{
-  margin-top:60px;
+  margin-top:40px;
+  padding-top:15px;
+  padding-left:20px;
+  padding-right:20px;
 }
 
 /* Front page */
@@ -333,6 +339,14 @@ h5 {
 
   font-size: 45px;
   margin:0px;
+
+}
+h6 {
+  text-align: left;
+
+  font-size: 30px;
+
+  font-style: italic;
 
 }
 
@@ -563,53 +577,25 @@ p {
   margin-top: 10px !important;
   text-align: right;
   padding: 5vh;
+  max-width: 100%;
   
 }
 .artContainer img{
   max-width:100%;
+  padding-top:0px;
+  padding-bottom:30px;
 }
 
 .artContainer {
 
   display: grid; 
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
-  gap: 5vh 5vh; 
-  /* gap: 10px 10px; */
+  grid-template-columns: 1fr 1fr;
+  gap: 10vh 5vh; 
   padding: 2vh;
-  color: white
+  color: white;
+  justify-items: end;
 
 }
-.greyEllipse1 { grid-area: 2 / 3 / 3 / 7; }
-.greyEllipse2 { grid-area: 3 / 1 / 4 / 5; }
-.feiArt { grid-area: 2 / 5 / 3 / 7; }
-.feiBio { grid-area: 2 / 2 / 3 / 5; }
-.moriArt { grid-area: 3 / 1 / 4 / 3; }
-.moriBio { grid-area: 3 / 3 / 4 / 6; }
-.greyEllipse3 { grid-area: 4 / 3 / 5 / 7; }
-.joaoArt { grid-area: 4 / 5 / 5 / 7; }  
-.joaoBio { grid-area: 4 / 2 / 5 / 5; }
-.greyEllipse4 { grid-area: 5 / 1 / 6 / 5; }
-.gwArt { grid-area: 5 / 1 / 6 / 3; }
-.gwBio { grid-area: 5 / 3 / 6 / 7; }
-.greyEllipse5 { grid-area: 6 / 2 / 7 / 6; }
-.hefArt1 { grid-area: 6 / 1 / 7 / 4; }
-.hefArt2 { grid-area: 7 / 1 / 8 / 3; }
-.hefBio { grid-area: 6 / 4 / 7 / 7; }
-.greyEllipse6 { grid-area: 7/ 2 / 11 / 6 }
-.jacobusArt1 { grid-area: 7 / 5 / 8 / 8; }
-.jacobusBio { grid-area: 7 / 2 / 8 / 5; }
-.jacobusArt2 { grid-area: 8 / 1 / 11 / 7; }
-.greyEllipse7 { grid-area: 11 / 1 / 12 / 5; }
-.nicoBio { grid-area: 11 / 3 / 12 / 5; }
-.nicoArt { grid-area: 11 / 1 / 12 / 3; }
-.nikunjTurtleEllipse { grid-area: 1 / 1 / 2 / 7; }
-.nikunjBio { grid-area: 1/ 2 / 2 / 5; 
-  width: 550px; }
-
-
-
-
 
 
 
@@ -620,6 +606,8 @@ p {
 }
 
 @media (max-width: 800px) {
+
+
   .topnav a {
     font-size: 17px;
     padding: 14px 6px;
@@ -631,7 +619,7 @@ p {
   }
 
   #content-container {
-    width: 80%;
+    width: 100%;
   }
   
   #content-container h1 {
@@ -640,13 +628,16 @@ p {
   }
 
   #content-container h2 {
+    float: none;
+    text-align: center;
     font-size: 20px;
     margin-top: -37px;
-  }
 
-  #content-container img{
+  }
+  .pencil img{ 
     display: none;
   }
+
 
   .judgesContainer {  
 
@@ -670,7 +661,7 @@ p {
     top: 20%;
   }
   h1{
-    font-size:50px;
+    font-size:48px;
     margin-top: 26px;
   }
   h3{
@@ -724,6 +715,19 @@ p {
   /* font-size:90%; */
   font-size: 15px;
 }
+
+.artContainer img{
+  max-width:100%;
+  margin-top:-50px;
+  margin-bottom: 50px;
+}
+
+.artContainer {
+  grid-template-columns: 1fr !important;
+  width: 90%;
+ 
+}
+
 
 }
 

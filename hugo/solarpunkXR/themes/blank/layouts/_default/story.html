@@ -26,6 +26,7 @@
 			background-position: 50% {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
 			background-size: 200% auto;
 		}
+
 		.ellipse-content {
     		background-color: var(--{{ .Params.ellipseColor }});
 		}
@@ -45,5 +46,11 @@
 
   		}
 
+		@media (max-width: 800px) {
+			body {
+    		background-position: -9999px -9999px;
+ 		 }
+		
+		}
 	</style>
 {{ end }}
