@@ -17,6 +17,6 @@ by Katrina Eilender. New Jersey, U.S.A.</p>
 by Aël Magnard. Paris, France.</p>
 
 <p><a class=storylink href="/stories/blood-oil">Blood Oil</a><br>
-by Rebecca Spring. Washington DC, U.S.A</p>
+by Reb Spring. Washington DC, U.S.A</p>
 
 
