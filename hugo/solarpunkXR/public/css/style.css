@@ -351,31 +351,20 @@ h6 {
 
 }
 h7 {
-
   text-align: right;
-  
   font-size: 19px;
-
   font-style: italic;
-
 }
-h8 {
-
+.artSubheading {
   margin-left:40%;
-  
+  margin-bottom:3%; 
+  text-align: right;
   font-size: 19px;
-
   font-style: italic;
-
 }
+
 h9 {
-
-  
-  
   font-size: 19px;
-
-;
-
 }
 
 p {
@@ -611,9 +600,19 @@ p {
 .artContainer img{
   max-width:100%;
   padding-top:0px;
-  padding-bottom:30px;
+  /* padding-bottom:30px; */
 }
 
+.caption{
+  font-size: 16px;
+  padding: 2vh;
+  color: white;
+  text-align: center;
+  margin:0;
+  padding:0;
+
+
+}
 .artCaption {
   padding: 2vh;
   color: white;
@@ -789,13 +788,20 @@ banner a{
 .artContainer img{
   max-width:100%;
   margin-top:-50px;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
+
+
 
 .artContainer {
   grid-template-columns: 1fr !important;
   width: 90%;
- 
+}
+.artSubheading {
+  margin-left:0%; 
+  text-align: right;
+  font-size: 19px;
+  font-style: italic;
 }
 .floatingVillage {
   width: 90%;
