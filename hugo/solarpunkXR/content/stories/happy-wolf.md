@@ -5,7 +5,7 @@ title: The Happy Wolf
 author: by Mikhayel Malouf, age 6. London, England
 image: "/images/goodwives-warriors.png" 
 imageType: pencil
-imageCredit: Illustration by Good Wives and Warriors
+imageCredit: Illustration by Good Wives and Warriors.
 backgroundColor: goldenrod
 ellipse: "/images/creme-ellipse-2.svg"
 ellipseypos: -5%

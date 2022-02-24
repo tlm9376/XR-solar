@@ -362,6 +362,10 @@ h7 {
   font-size: 19px;
   font-style: italic;
 }
+.storyCaption {
+  text-align: center;
+  font-size: 19px;
+}
 
 h9 {
   font-size: 19px;
