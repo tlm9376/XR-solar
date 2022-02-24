@@ -8,7 +8,3 @@ ellipse: "/images/nikunj-artist-page.png"
 backgroundColor: cape-cod
 titleColor: jagged-ice
 ---
-
-Artwork
-Artwork
-Artwork

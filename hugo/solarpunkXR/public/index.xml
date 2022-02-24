@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/about/solarpunk/</guid>
-      <description>A genre of art and literature that envisions a future in which humanity, nature, and technology co-exist in harmony. Solarpunk’s main ethos lies in finding solutions for a more sustainable and egalitarian world through rebellion against the status quo.
-Conversations around the climate and ecological emergency often centre on sacrifices needed to avoid a terrible future. Whilst fear can provide motivation for change, it may also lead to paralysis and despondency.</description>
+      <description>Solarpunk is all about envisioning a planetary future in which humanity, non-human nature, and technology co-exist in harmony. It can be described as a social movement and a lifestyle, as well as a genre of literature, art, fashion, music, and architecture.
+Solarpunk’s main ethos lies in finding solutions for a more sustainable and egalitarian world through rebellion against the status quo. Its distinctive aesthetics are bright, clean, and futuristic, often reminiscent of sci-fi themes and involving iconography such as vertical gardens, birds of paradise, waterfalls, futuristic architecture, and indigenous art.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@ Conversations around the climate and ecological emergency often centre on sacrif
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/about/artwork/</guid>
-      <description>Artwork Artwork Artwork</description>
+      <description></description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ The project rides the wave of the Solarpunk movement and aims to use the power o
     </item>
     
     <item>
-      <title>About the XR Wordsmiths</title>
+      <title>About XR Wordsmiths</title>
       <link>http://example.org/about/xr-wordsmiths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -85,11 +85,11 @@ Check out the XR Wordsmiths blog, where you’ll find all kinds of writing and a
     </item>
     
     <item>
-      <title>City Starlight &amp; The Cemetary</title>
-      <link>http://example.org/stories/city-starlight-cemetary/</link>
+      <title>City Starlight &amp; The Cemetery</title>
+      <link>http://example.org/stories/city-starlight-cemetery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stories/city-starlight-cemetary/</guid>
+      <guid>http://example.org/stories/city-starlight-cemetery/</guid>
       <description>City Starlight I can feel the anxiety radiating through me as I paddle the kayak with slow, wide motions. What am I anxious about, you ask? Nothing in particular. That’s what is so frustrating about it- I feel it all the time, even on perfectly nice, ordinary days. I take a deep breath and try to absorb some of the tranquility of the environment around me. The sun is almost done rising, the sky a fiery orange, with only the barest strokes of indigo around the edges alluding to the fact that it had been dark just a few minutes ago.</description>
     </item>
     
@@ -99,7 +99,7 @@ Check out the XR Wordsmiths blog, where you’ll find all kinds of writing and a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/contact/</guid>
-      <description>When you think about the future you want for the planet, what visions does your imagination conjure up? How would human societies interact with nature? How do you think a plant or an animal would describe its place in the world, and how it came to be so? What changes (from the smallest detail to large structural changes or technological innovations) would transform today’s world into the world you imagine? If we can imagine it, we can work towards it.</description>
+      <description>If you have any questions or ideas for collaboration, , please reach us at xr-writers@protonmail.com.</description>
     </item>
     
     <item>
@@ -109,7 +109,7 @@ Check out the XR Wordsmiths blog, where you’ll find all kinds of writing and a
       
       <guid>http://example.org/donate/</guid>
       <description>The 2021 Solarpunk Storytelling Showcase was only made possible through the incredible hard work and generosity of everyone involved: judges, illustrators, graphic designers, web developers, prize donors - the list goes on.
-Please click here to donate. Any amount is appreciated and welcome!</description>
+We were amazed to see how far this project went without any official fundraising, and are excited to see how much bigger and better it can get in later iterations. As such, we have set up a JustGivinging Page where you can donate to help fund the next Showcase - any amount appreciated and welcome!</description>
     </item>
     
     <item>
@@ -119,7 +119,7 @@ Please click here to donate. Any amount is appreciated and welcome!</description
       
       <guid>http://example.org/stories/dylan-cooler/</guid>
       <description>I’m Dylan, the greatest inventor of all time. One of my greatest Inventions is a giant water-powered air conditioner with a global warming detector, I named it- Dylan Cooler! So why did I invent this machine?
-I genuinely love animals, especially polar bears. They live in the North Pole where there is a lot of ice. They need this ice to feed, rest and rase families. However the ice is melting because of global warming.</description>
+I genuinely love animals, especially polar bears. They live in the North Pole where there is a lot of ice. They need this ice to feed, rest and raise families. However the ice is melting because of global warming.</description>
     </item>
     
     <item>
@@ -185,7 +185,7 @@ by Charlie McKay Seaweed
 by Hazel Morfett
 The Hanging Gardens of Babylon
 by Rebekah Neuberger
-Meeting at the Giant Musrooms
+Meeting at the Giant Musroom
 by Jeremy Parker</description>
     </item>
     
@@ -200,7 +200,7 @@ Supposedly her window actually had a lovely view of half the green city.</descri
     </item>
     
     <item>
-      <title>Meeting at the Giant Mushrooms</title>
+      <title>Meeting at the Giant Mushroom</title>
       <link>http://example.org/stories/meeting-mushrooms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -215,7 +215,8 @@ Supposedly her window actually had a lovely view of half the green city.</descri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/stories/return-kiribati/</guid>
-      <description>Only the cold, untwinkling speck of a space station pierced the darkness between the thinning cumulus and the churning ink black sea. The storm sail billowed and creaked, water thundered like rapids between the three hulls, and Kraken hydrofoiled a metre clear of the water, slicing through the detritus of coconuts and disintegrating plastic that had been whipped into a seething broth by the Pacific cyclone wind. My eyes combed the ebony veils for signs of pursuit, but the outcasts’ ramshackle vessel couldn’t have made it through.</description>
+      <description>Only the cold, untwinkling speck of a space station pierced the darkness between the thinning cumulus and the churning ink-black sea.
+The storm sail billowed and creaked, water thundered like rapids between the three hulls, and Kraken hydrofoiled a metre clear of the water, slicing through the detritus of coconuts and disintegrating plastic that had been whipped into a seething broth by the Pacific cyclone wind. My eyes combed the ebony veils for signs of pursuit, but the outcasts’ ramshackle vessel couldn’t have made it through.</description>
     </item>
     
     <item>
@@ -238,11 +239,11 @@ The air was crisp as beams of light filtered through the mosaic gaps of his slig
       <description>Hospitalized in Utopia
 by Caroline Anthus
 Wall of Flowers
-Septimus Crowe Automata Albatross
+by Septimus Crowe Automata Albatross
 by Robin Happel
 Return to Kiribati
 by Alexandra Porter Green Witch
-by Amy Townsend</description>
+by Katrina Townsend</description>
     </item>
     
     <item>
@@ -271,8 +272,8 @@ Outside there will be an invisible protection zone, when you want to go to the s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/stories/happy-wolf/</guid>
-      <description>I like being a wolf because I have a lovely forest with Evergreen trees. Like Christmas trees. And it is very cold because I am in the Arctic. I like the Evergreen trees because they keep us healthy.
-One day me and Alex asked my dad if we could go to the North Pole and see if theyhave any kinds of trees like ours. He said yes, but we need a special airplane.</description>
+      <description>My name is Axel. I like being a wolf because I have a lovely forest with Evergreen trees. Like Christmas trees. And it is very cold because I am in the Arctic. I like the Evergreen trees because they keep us healthy.
+Now that we’re not being hunted we get to run around and be more safe. The snow is thick and white and it feels rough. We get to play games.</description>
     </item>
     
     <item>
@@ -341,7 +342,7 @@ We stare at the landscape before us, a hand risen up to our faces, covering the 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/stories/wall-flowers/</guid>
-      <description>Never do this. I’m not the most outdoorsy person, but even I know that if you’re lost and alone in the woods, it’s a bad idea to scoff a bunch of unidentified mushrooms. The thing is, I just couldn’t help myself. The afternoon sun slanting through the trees was so golden, the colours of the autumn leaves so alluring, that I had wandered further and further from the trail; and when I came to a clearing filled with shifting, dappled light and saw the clump of small, pale blue mushrooms gleaming like strange gemstones, it seemed the most natural thing in the world to nibble one.</description>
+      <description>Never do this. I&amp;rsquo;m not the most outdoorsy person, but even I know that if you&amp;rsquo;re lost and alone in the woods, it&amp;rsquo;s a bad idea to scoff a bunch of unidentified mushrooms. The thing is, I just couldn&amp;rsquo;t help myself. The afternoon sun slanting through the trees was so golden, the colours of the autumn leaves so alluring, that I had wandered further and further from the trail; and when I came to a clearing filled with shifting, dappled light and saw the clump of small, pale blue mushrooms gleaming like strange gemstones, it seemed the most natural thing in the world to nibble one.</description>
     </item>
     
     <item>
@@ -376,12 +377,12 @@ by Liz, age 10. Taipei, Taiwan</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/stories/12-18-winners/</guid>
-      <description>City Starlight &amp; The Cemetary
+      <description>City Starlight &amp; The Cemetery
 by Katrina Eilender. New Jersey, U.S.A.
 The Old Man and the Bird 
 by Aël Magnard. Paris, France.
 Blood Oil
-by Rebecca Spring. Washington DC, U.S.A</description>
+by Reb Spring. Washington DC, U.S.A</description>
     </item>
     
     <item>

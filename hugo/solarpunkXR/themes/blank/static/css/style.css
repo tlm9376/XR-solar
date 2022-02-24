@@ -614,6 +614,12 @@ p {
   padding-bottom:30px;
 }
 
+.artCaption {
+  padding: 2vh;
+  color: white;
+  justify-items: end;
+}
+
 .artContainer {
 
   display: grid; 
@@ -623,6 +629,14 @@ p {
   color: white;
   justify-items: end;
 
+}
+.floatingVillageContainer {
+  padding: 2vh;
+  color: white;
+}
+
+.floatingVillageContainer img{
+  width: 100%;
 }
 
 banner {
