@@ -5,7 +5,7 @@ title: Blood Oil
 author: by Reb Spring. Washington DC, United States
 image: "/images/blood-oil.png"
 imageType: pencil
-imageCredit: Illustration by João Queiroz
+imageCredit: Illustration by João Queiroz.
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"

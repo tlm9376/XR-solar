@@ -4,7 +4,7 @@ menu: story
 title: The Old Man and the Bird
 author:  Aël Magnard. Paris, France. 
 image: "/images/jacobus-old-man.png"
-imageCredit: Illustration by Dustin Jacobus
+imageCredit: Illustration by Dustin Jacobus.
 imageType: pencil
 backgroundColor: azure
 titleColor: cream-brulee
