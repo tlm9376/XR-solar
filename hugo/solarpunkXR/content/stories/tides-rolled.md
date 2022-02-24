@@ -4,6 +4,7 @@ menu: story
 title: The Tides Rolled In
 author: by Chris Muscato. Colorado, U.S.A.
 image: "/images/jacobus-tides.png"
+imageCredit: Illustrated by Dustin Jacobus
 imageType: pencil
 backgroundColor: picton-blue
 titleColor: mandy

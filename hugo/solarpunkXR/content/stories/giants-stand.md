@@ -5,6 +5,7 @@ title: Where Giants Will Stand
 author: by Spencer R. Scott. California, U.S.A.
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
+imageCredit: 
 backgroundColor: picton-blue
 titleColor: mandy
 ellipse: "/images/jagged-ice-ellipse.svg"

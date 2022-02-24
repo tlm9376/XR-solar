@@ -5,6 +5,7 @@ title: Dylan Cooler
 author: by Dylan Liu, age 9. Taipei, Taiwan
 image: "/images/hal-hef-dylan.jpeg"
 imageType: pencil
+imageCredit: Illustration by Hal Hefner
 backgroundColor: goldenrod
 ellipse: "/images/creme-ellipse-2.svg"
 ellipseypos: -5%

@@ -324,6 +324,7 @@ h3 {
   font-family: var(--font-family-fucxedcaps-regular);
   font-size: var(--font-size-m);
 
+
 }
 
 h4{
@@ -347,6 +348,33 @@ h6 {
   font-size: 30px;
 
   font-style: italic;
+
+}
+h7 {
+
+  text-align: right;
+  
+  font-size: 19px;
+
+  font-style: italic;
+
+}
+h8 {
+
+  margin-left:40%;
+  
+  font-size: 19px;
+
+  font-style: italic;
+
+}
+h9 {
+
+  
+  
+  font-size: 19px;
+
+;
 
 }
 
@@ -755,7 +783,11 @@ banner a{
   width: 90%;
  
 }
-
+.floatingVillage {
+  width: 90%;
+  color: white
+ margin-left: 15vh
+}
 banner {
   width:  30px;
 

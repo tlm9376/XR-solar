@@ -2,7 +2,7 @@
 layout: "story"
 menu: story
 title: Gabby's First Kiss
-author: by Rebecca Spring. Washington DC, United States
+author: Joe Tankersley, Florida, United States.
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: picton-blue

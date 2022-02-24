@@ -1,7 +1,7 @@
 ---
 layout: "about"
 menu: about
-title: About the XR Wordsmiths
+title: About XR Wordsmiths
 comments: false
 image: "/images/typewritter.png"
 ellipse: "/images/light-green-ellipse-big.png"
