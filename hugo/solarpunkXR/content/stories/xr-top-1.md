@@ -14,7 +14,7 @@ titleColor: banana-mania
 by Leda Baöl. Torino, Italy / Amsterdam, The Netherlands.</p>
 
 <p><a class=storylink href="/stories/the-park">The Park</a><br>
-by Adam Marx, Borehamwood, England. </p>
+by Adam Marx. Borehamwood, England. </p>
 
 
 

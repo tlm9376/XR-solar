@@ -22,3 +22,6 @@ Going forward, we would like the Solarpunk Storytelling Showcase to be open to a
 
 This website was built by Theresa Merchant and Tega Brain of [Solar Protocol](SolarProtocol.net) using solar-powered servers. 
 
+
+
+
