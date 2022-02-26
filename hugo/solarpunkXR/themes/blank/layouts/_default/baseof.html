@@ -4,10 +4,21 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="The home of the XR Solarpunk Storytelling Competition">
+      <meta name="author" content="XR Wordsmiths">
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="XR Solarpunk Storytelling Showcase" />
+      <meta name="twitter:description" content="The home of the XR Solarpunk Storytelling Showcase" />
+      <meta name="twitter:image" content="/images/twitter-card.png" />
+	  <meta name="twitter:player" content="/images/twitter-player.png"><!-- required -->
+	<meta name="twitter:player:width" content="262"><!-- required -->
+	<meta name="twitter:player:height" content="262"><!-- required -->
+      <meta property="og:title" content="XR Solarpunk Storytelling Showcase" />
+      <meta property="og:image" content="/images/twitter-card.png" />
 	<title>{{ .Title }}</title>
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-	<link rel="stylesheet" href="{{ "css/style.css?v=14" | relURL }}">
+	<link rel="stylesheet" href="{{ "css/style.css?v=15" | relURL }}">
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
@@ -17,3 +28,4 @@
 	{{ block "main" . }}{{ end }}
 </body>
 </html>
+
