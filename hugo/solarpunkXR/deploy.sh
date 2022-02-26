@@ -1,0 +1,1 @@
+hugo && rsync -ahz --progress public/ pi@solarpunkstorytelling.com:/home/pi/local/www/solarpunk/
