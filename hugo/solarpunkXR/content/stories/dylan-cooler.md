@@ -2,8 +2,8 @@
 layout: "story"
 menu: story
 title: Dylan Cooler
-author: by Dylan Liu, age 9. Taipei, Taiwan
-image: "/images/hal-hef-dylan.jpeg"
+author: by Dylan Liu, age 9. Taipei, Taiwan.
+image: "/images/hal-hef-dylan.jpg"
 imageType: pencil
 imageCredit: Illustration by Hal Hefner.
 backgroundColor: goldenrod

@@ -2,8 +2,8 @@
 layout: "story"
 menu: story
 title: The Happy Wolf
-author: by Mikhayel Malouf, age 6. London, England
-image: "/images/goodwives-warriors.png" 
+author: by Mikhayel Malouf, age 6. London, England.
+image: "/images/goodwives-warriors.jpg" 
 imageType: pencil
 imageCredit: Illustration by Good Wives and Warriors.
 backgroundColor: goldenrod

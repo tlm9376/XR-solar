@@ -3,7 +3,7 @@ layout: "story"
 menu: story
 title: The Singer of Seeds
 author: by Leda Baöl. Torino, Italy / Amsterdam, The Netherlands.
-image: "/images/mori-artist-page.png"
+image: "/images/mori-singer.jpg"
 imageType: pencil
 imageCredit: Illustrion by Mori
 backgroundColor: hopbush

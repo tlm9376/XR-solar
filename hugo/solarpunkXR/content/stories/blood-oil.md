@@ -2,14 +2,14 @@
 layout: "story"
 menu: story
 title: Blood Oil
-author: by Rebecca "Reb" Spring. Washington DC, United States
-image: "/images/blood-oil.png"
+author: by Rebecca "Reb" Spring. Washington DC, United States.
+image: "/images/joao-blood-oil.jpg"
 imageType: pencil
 imageCredit: Illustration by João Queiroz.
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -4%
+ellipseYPos: -7%
 textBackgroundColor: jordy-blue
 
 ---
