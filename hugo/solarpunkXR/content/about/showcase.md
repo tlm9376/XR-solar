@@ -3,7 +3,7 @@ layout: "about"
 title: About the Showcase
 comments: false
 image: "/images/showcasevine.png"
-ellipse: "/images/light-green-ellispe-big.png"
+ellipse: "/images/light-green-ellipse-big.png"
 ellipsexpos: 100vh 
 ellipseypos: -22vh
 backgroundColor: hopbush
