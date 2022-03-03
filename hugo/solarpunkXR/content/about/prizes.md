@@ -4,7 +4,7 @@ menu: about
 title: About the Prizes
 comments: false
 image: "/images/flower.png"
-ellipse: "/images/golden-ellipse.png"
+ellipse: "/images/creme-ellipse.png"
 ellipsexpos: 70vh 
 ellipseypos: -199vh
 backgroundColor: hopbush
