@@ -5,7 +5,8 @@ title: About the Judges
 comments: false
 image: "/images/bird.png"
 ellipse: "/images/jordy-blue-ellipse.png"
+ellipseXPos: 22vh
 backgroundColor: glossy-grape
-titleColor: cream-brulee
+titleColor: aths-special
 
 ---

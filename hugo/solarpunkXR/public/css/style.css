@@ -18,12 +18,13 @@
 }
 
 :root { 
+    /* #0893DD      #2B90EE/#FEF1BE */
     --apple: #13aa38;
     --aths-special: #e7edcd;
     --azure: #3760aa;
     --banana-mania: #fce7ae;
     --black: #000000;
-    --black-2: #000102;
+    --black-2: #2B90EE;
     --black-3: #60c4fa;
     --cape-cod: #434343;
     --carnation-pink: #ffa5d1;
@@ -32,11 +33,11 @@
     --dove-gray: #707070;
     --dust-storm: #f4c8c8;
     --festival: #fce86a;
-    --festival-2: #f7ee6a;
-    --festival-3: #fbe86b;
+    --festival-2: #FEF1BE;
+    --festival-3: #feeaac;
     --fuscous-gray: #525252;
     --glossy-grape: #b991bc;
-    --goldenrod: #ffdc7e;
+    --goldenrod: #feeaac;
     --hopbush: #cf6297;
     --hopbush-2: #7d0202;
     --hopbush-3: #d176a2;
@@ -60,7 +61,6 @@
     --vivid-violet: #975c9b;
     --white: #ffffff;
     --yellow-green: #bed276;
-   
     /* --font-size-l: 70px;
     --font-size-m: 39px;
     --font-size-s: 35px;
