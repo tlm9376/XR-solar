@@ -4,9 +4,9 @@ menu: about
 title: About the Prizes
 comments: false
 image: "/images/flower.png"
-ellipse: "/images/creme-ellipse.png"
-ellipsexpos: 70vh 
-ellipseypos: -199vh
+ellipse: "/images/creme-ellipse-2.png"
+ellipseXPos: 129vh 
+ellipseYPos: -60vh
 backgroundColor: hopbush
 titleColor: perano-2
 ---
