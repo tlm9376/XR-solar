@@ -5,8 +5,8 @@ title: Honourable Mentions
 comments: false
 image: "/images/bird3.png"
 ellipse: "/images/creme-ellipse-2.svg"
-ellipsexpos: -50vh 
-ellipseypos: 30vh
+ellipsexpos: -75vh 
+ellipseypos: 5vh
 backgroundColor: yellow-green
 titleColor: hopbush
 ---

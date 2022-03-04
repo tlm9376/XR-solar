@@ -4,8 +4,8 @@ title: Donate
 comments: false
 image: "/images/leaf.png"
 ellipse: "/images/creme-ellipse-3.png"
-ellipsexpos: 110% 
-ellipseypos: 60%
+ellipsexpos: -110vh 
+ellipseypos: 110%
 backgroundColor: jordy-blue
 titleColor: hopbush
 ---
