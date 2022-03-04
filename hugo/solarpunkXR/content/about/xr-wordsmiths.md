@@ -5,7 +5,7 @@ title: About XR Wordsmiths
 comments: false
 image: "/images/type.png"
 ellipse: "/images/light-green-ellipse.png"
-ellipsexpos: 103vh 
+ellipsexpos: 63vw 
 ellipseypos: -92vh
 backgroundColor: yellow-green
 titleColor: azure

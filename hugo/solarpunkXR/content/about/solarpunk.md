@@ -5,7 +5,7 @@ title: About SolarPunk
 comments: false
 image: "/images/gear.png"
 ellipse: "/images/hopbush-ellipse-2.png"
-ellipsexpos: 103vh 
+ellipsexpos: 63vw 
 ellipseypos: -29vh
 backgroundColor: picton-blue
 titleColor: aths-special
