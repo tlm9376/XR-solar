@@ -14,6 +14,7 @@ textBackgroundColor: jagged-ice
 ---
 
 Gabby nearly knocked her mother over as she rushed through the kitchen and out the front door. Outside, she paused to look over the horizon. Her home, like all the homes in Bahía del Paraíso, sat high in the air; protected from the floods that were a regular part of life in their small coastal community. From her perch, she could easily see all the way to the bay. In the early morning sunlight, the mangroves along the water’s edge glowed as if they were on fire. Beyond them, the crystal-clear blue water sparkled.
+
 There had been a storm the night before. Not a very big one. The kind that Pipo dismissed as nothing more than a pequeño mosquito before going back to playing dominos with Uncle Eduardo. But even minor storms could leave behind unexpected treasures, so it was definitely worth checking out.
 
 She skipped along the boardwalk that connected all the houses in the village. Gabby’s Tía Maria, the community’s designer, had adamantly opposed the flying walkways. She argued that “flimsy bridges” would completely compromise the integrity of her carefully planned resilient design.
@@ -31,7 +32,6 @@ Standing on the deck that surrounded Danh’s house, she peered inside his open 
 “’Bout time, em gái,” his booming response came from behind.
 
 Startled, she spun around to see Danh, floating on his hoverboard, just above her head. 
-
 “Jerk,” she said, and swatted playfully at him.
 
 He deftly maneuvered the board out of reach and smiled.
@@ -93,7 +93,7 @@ Gabby tried to respond nonchalantly. “Whatever, it’s nice to have somebody m
 
 “With real beef? Last time your mom made that, I pigged out. Kinda surprised she’d invite me back.”
 
-        “Oh, she thinks you’re special.” Gabby smiled.
+“Oh, she thinks you’re special.” Gabby smiled.
 
 In fact, Sophia and Tía Maria had taken to referring to Danh as Gabby’s “special friend.” Gabby wasn’t sure how she felt about that. Oh, she knew their relationship was way different, but that didn’t mean she wanted her mother to be broadcasting it to everyone.
 They spent the next few minutes sitting in silence, something they often did. At first these pauses had felt awkward, but lately Gabby had realized that they were special moments—sharing the natural beauty of this place they were so lucky to call home.
@@ -115,6 +115,7 @@ She ran to catch up and took his hand as they walked toward the shore. Pipo bega
 “You know, Gabriela, we used to live right here on this very spot. Our home wasn’t fancy, but it had been in our family for seven generations, ever since our people first came here to fish. 
 
 “Then came the summer of the great storms. Six hurricanes in less than three months. It seemed like we spent all our time getting ready for a storm or cleaning up after one; sometimes doing both at the same time. The last storm, the biggest one of all, hit right here. The entire village washed away. Destruido. Your abuela cried and cried for days.”
+
 The thought of Gabby’s grandmother losing everything made her so sad every time she heard this story, even though she knew it had a happy ending.
 
 Over the years, life after the storms had developed into a predictable pattern. First came the clean-up, sometimes taking weeks or months, then the insurance companies and the government would help them rebuild. But this time the insurance companies didn’t come. They said there had been too many storms and they were out of money. The state’s catastrophe fund was empty, and there were no funds available from the federal government. For the first time, the residents didn’t know how they were going to rebuild.
@@ -133,39 +134,3 @@ Pipo stopped walking. Gabby knew they had reached his favorite spot on the beach
 Gabby thought it was pretty neat that something from her family’s past was now part of her future. What was even cooler to a thirteen-year-old was that the Remakers had rigged the dragon to use bio-gas to breathe real fire. Of course, Tía Maria only allowed them to light it on special occasions.
 
 Pipo’s birthday would be one of those special occasions. Gabby imagined the scene. The dragon that represented her family, breathing fire under a star-filled sky, moonlight reflecting off the water. It just might be the perfect time and place for a first kiss.
-
-
-
-
-I hear Mama clomping down the stairs and look up from my bowl of cereal. When she rounds the landing I see her dressed in a crisp forest green dress suit. A patch on her suit reads “Green New Deal.” 
-
-“Mama! Your suit looks beautiful! Where did you get it?” 
-
-“From my new job.” 
-
-“Oooh, what is it?” 
-
-“We finally got funds from the government to build renewable energy in our community and clean up the mess from the old oil pipeline. And I was selected as one of the coordinators for our community!” Her smile spreads wide and her eyes sparkle for the first time in what feels like forever. 
-
-
-
-
-
-Papa and I walk towards the creek, the slender fishing poles slung across our backs shining in the sunlight. Papa’s muscular, tired frame is outlined by the brutal rays of sun. The worms thrash about in the can I carry. I can feel their little bodies press up against the metal sides of the can, trying to break free. 
-
-I see the creek shimmering in the sunlight, and I dash towards it.
-
-“C’mon, Papa!” I smile back at him. 
-
-But when I reach the creek, my body goes stiff with shock. It wasn’t the water in the creek that was shimmering in the sunlight. It was the oil. The thick black ooze flowed with the creek, rivulets of darkness, as far as the eye could see. Its oily black tendrils spread over the width of the creek, curling around the roots of trees. A fish leaps out of the water, its once pink-and-white body now covered in black. 
-
-My heart squeezes. My heart feels pain for the Earth, like my heart has oil being squeezed out of it. My heart feels pain for the creek, like my own blood is mingled with oil. 
-
-Papa walks up behind me and gasps. “Oh no!” He falls to his knees and covers his mouth with his hands, staring in horror. I fall to my knees beside him and bury my head in his stained white shirt. We hold each other as our tears fall, our river of tears making its way down to the creek, joining the flow of water and oil. All we can do is hope that our tears will wash away some of the oil. That one fish in there could breathe in the water from our tears instead of that oil. 
-
-When the final school bell of the day rings, my friend Alicia and I run outside with the rest of the students. The blue sky is bright and clear. The sun glints off of the solar panels that workers are now installing on the roof of our middle school. We watch for a moment in awe as the solar panels are lifted and secured into place by strong people in green vests. 
-
-We walk down to the Green New Community Farm, where vast fields are lush with green plants of all kinds. We each grab a small wicker basket and walk over to the strawberry patch. We pluck the juicy berries off their stems, laughing to the sun’s sweet melody. When nobody’s looking, I take a bite, the telltale juice running down my chin and filling my mouth with heaven. 
-
-We run up to the table where they’re handing out bags of produce to a line of people with ragged clothes and weary eyes. A man at the front with wrinkled skin takes a bag of produce with shaking hands as he leans on his walker. I hand him my small basket of strawberries. He takes one, closes his eyes, and slowly and methodically takes a bite. 
-“Oh sweet heaven! How I have missed fresh strawberries! Thank you, girl.” He places the basket of strawberries in his walker. Leaning on his walker, he slowly walks away, all the while saying “Mm mm mm. Sweet heaven.”

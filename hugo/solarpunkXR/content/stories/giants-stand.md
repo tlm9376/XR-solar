@@ -17,7 +17,9 @@ textBackgroundColor: jagged-ice
 
 Cora and Rosa caught me in the garden. They rode their bikes under the arched passion fruit vines and into our driveway. I had just finished pruning the tomatoes, knees achy, I welcomed their timing. 
 
-“Hi grandpa!” Rosa yelled as she raced past the Olive guild and the perfumed Loquats. “Happy birthday my sweet child!” 
+“Hi grandpa!” Rosa yelled as she raced past the Olive guild and the perfumed Loquats. 
+
+ “Happy birthday my sweet child!” 
 
 She laid her bike down, hopped a garden bed and smothered me. 
 
@@ -76,7 +78,9 @@ After breakfast, it was time for the big event.
 
 “Hmm…. perhaps, if you can name our three sacred callings?” 
 
-She stood at attention and recited, “To tend the forest, to hydrate the land, to guide the waters.” “How do we conduct the Four Tendings?” 
+She stood at attention and recited, “To tend the forest, to hydrate the land, to guide the waters.” 
+
+“How do we conduct the Four Tendings?” 
 
 “With fire, with pruning, with nourishment, with planting.” 
 
