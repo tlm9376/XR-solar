@@ -21,7 +21,7 @@ The winning entries (3 adults, 3 teenagers, and 3 children plus some additional 
 
 Going forward, we would like the Solarpunk Storytelling Showcase to be open to any adult, teenager, or child who wants to combine their passion for writing with their hopes for the planet, regardless of the language(s) they speak. We hope that this showcase sparks similar projects in different languages around the world. Please get in touch if you would like to create a Solarpunk Storytelling Showcase in your language; we would love to help you!
 
-This website was built by [Theresa Merchant](https://www.theresamerchant.com/) and Tega Brain of [Solar Protocol](http://solarprotocol.net/). It is hosted on a network of solar-powered servers that are stewarded by volunteers in different parts of the world.
+This website was built by [Theresa Merchant](https://www.theresamerchant.com/) and Tega Brain of [Solar Protocol](http://solarprotocol.net/). It is hosted on a solar-powered server in a network stewarded by volunteers in different parts of the world.
 
 
 
