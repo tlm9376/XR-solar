@@ -5,10 +5,10 @@ title: XR Wordsmiths' Top Picks
 comments: false
 image: "/images/bee2.png"
 ellipse: "/images/jordy-blue-ellipse.png"
-ellipsexpos: -9vh
-ellipseypos: 5vh
+ellipsexpos: -70vh
+ellipseypos: 53vh
 backgroundColor: hopbush
-titleColor: banana-mania
+titleColor: aths-special
 ---
 <p><a class=storylink href="/stories/singer-of-seeds">The Singer of Seeds</a><br>
 by Leda Baöl. Torino, Italy / Amsterdam, The Netherlands.</p>

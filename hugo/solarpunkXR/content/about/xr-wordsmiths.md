@@ -3,10 +3,10 @@ layout: "about"
 menu: about
 title: About XR Wordsmiths
 comments: false
-image: "/images/typewritter.png"
-ellipse: "/images/light-green-ellipse-big.png"
-ellipsexpos: 60vh 
-ellipseypos: -22vh
+image: "/images/type.png"
+ellipse: "/images/light-green-ellipse.png"
+ellipsexpos: 63vw 
+ellipseypos: -92vh
 backgroundColor: yellow-green
 titleColor: azure
 ---

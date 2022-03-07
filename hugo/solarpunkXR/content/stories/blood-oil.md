@@ -9,7 +9,7 @@ imageCredit: Illustration by João Queiroz.
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -7%
+ellipseYPos: -4%
 textBackgroundColor: jordy-blue
 
 ---
