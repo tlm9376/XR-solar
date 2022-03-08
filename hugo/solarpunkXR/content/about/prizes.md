@@ -4,11 +4,11 @@ menu: about
 title: About the Prizes
 comments: false
 image: "/images/flower.png"
-ellipse: "/images/hopbush-ellipse.png"
+ellipse: "/images/golden-ellipse-big.png"
 ellipseXPos: 69vw
 ellipseYPos: -100vh
-backgroundColor: hopbush-3
-titleColor: banana-mania
+backgroundColor: jordy-blue
+titleColor: hopbush-2
 ---
 
 The winning stories from the 2021 Showcase will be published in [Solarpunk Magazine](https://solarpunkmagazine.com/), [Solarpunk Society Magazine](https://civilx.world/solar-punk-society/), [Shoreline of Infinity Science-Fiction Magazine](https://www.shorelineofinfinity.com/), by the [Rapid Transition Alliance](https://www.rapidtransition.org/), and in Extinction Rebellion publications. All winning stories are currently being illustrated by a team of [artists](/about/artwork) spread across the globe. The artwork will be published on this website once complete. 
