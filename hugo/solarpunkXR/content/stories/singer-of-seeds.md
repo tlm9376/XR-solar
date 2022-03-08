@@ -41,6 +41,7 @@ assured this, we’re free to go. We lower our hands.
 Maïa yawns loudly over her own words. “Are you ready? D-did you sleep at all? I didn’t,”
 she stutters excitedly, “Moms say it’s normal but I thought what if I don’t have the energy
 to walk all the way to the hermitage? Do you know how far it is? It can’t be that far, no?”
+
 “Give me a break. You’re ten, not eighty, Maïa.” I exhale, stretch my neck, turn my eyes to
 her. The black round spot the sun has left on my eye casts its holy shadow wherever I look. I
 get up, grab my bag, and begin the descent. Maïa follows, chatting happily in whispers. We

@@ -8,7 +8,7 @@ ellipse: "/images/hopbush-ellipse-2.png"
 ellipsexpos: 63vw 
 ellipseypos: -29vh
 backgroundColor: picton-blue
-titleColor: aths-special
+titleColor: yellow-green
 ---
 
 

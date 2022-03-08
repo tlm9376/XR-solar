@@ -33,7 +33,9 @@ on the history of the neighborhood. Unfortunately, I only get to watch the first
 minutes before I remember that I’m already late to work. 
 
 Max has already opened up shop by the time I arrive. “Joss, late again. What a surprise.” 
-He rolls his eyes and makes a gesture of frustration with his laser fabric cutter. “I know, 
+He rolls his eyes and makes a gesture of frustration with his laser fabric cutter.
+
+ “I know, 
 I’m really sorry Max. Honest to god I tried. Ijust-” 
 
 “Oh, spare me the spiel. It’s fine. Just to get to work, we have a lot of orders to fill by this 
@@ -56,7 +58,9 @@ absolutely crammed, comfy reading chairs in the corner. I have so many happy
 memories here. 
 
 “Joss! What’s up?” Nora has emerged suddenly from behind a bookcase, long dark hair 
-piled on her head and chunky sweater sleeves rolled up. “Um, I was just looking for 
+piled on her head and chunky sweater sleeves rolled up. 
+
+“Um, I was just looking for 
 something to read during my lunch break. Do you have anything on the history of the 
 neighborhood? This morning there was a pop-up history exhibition that looked cool 
 and it reminded me.” 
@@ -68,7 +72,9 @@ area over time and the accompanying history, causes, effects, anecdotes, all of 
 She hands me a short, thick hardcover, clearly at least a few years old. “So, what about 
 yesterday’s book? What did you think?” She asks. I am silent for a moment, unable to 
 look away from the afternoon sunbeams lighting up her eyes. A fly buzzes nearby, the 
-spell breaks, and I regain my powers of speech. “It was epic! A mix of sci-fi, philosophy, 
+spell breaks, and I regain my powers of speech. 
+
+“It was epic! A mix of sci-fi, philosophy, 
 mythology,- and the short story as a medium served him well..I especially loved the one 
 about AI… what did you think?”
 
@@ -105,9 +111,13 @@ plunking my check down on the counter between us. She knows the drill. “Good, 
 We’re having our annual Stellar Night barbecue tonight, Sydney will be there, and 
 Maya- a bunch of people. You should come.” 
 
-“Of course I’ll be there. Thanks for inviting me. Last year’s was awesome.” “So, what’s 
+“Of course I’ll be there. Thanks for inviting me. Last year’s was awesome.” 
+
+“So, what’s 
 going on with you?” Sheila asks as she scans my check and deposits it into my account. 
 “You look over the moon today. Have you finally gotten yourself a girlfriend?” 
+
+
 “No.” I laugh awkwardly , and suddenly I find myself blurting out everything about my 
 conversation with Nora, and how happy it made me. 
 
@@ -116,6 +126,7 @@ The first one they ever held. It wasn’t even that popular back then, not like 
 But even so, it was the most romantic thing I’d ever seen. It feels like yesterday, and yet 
 here we are, I’m an old hag now, and he’s an old wrinkly man!” Sheila laughs, and twirls 
 a strand of silver hair around her finger.
+
 “I’ve never heard that story before, that is so romantic.” I sigh and lean on the 
 countertop. We both seem to have the same thought at the same time, and I blush beet 
 red. “You should try your luck with Nora. Invite her to the barbecue! You never know if 
@@ -123,6 +134,7 @@ you don’t ask..”
 
 I open my mouth to give my standard refusal, but something stops me. I might be going 
 crazy, but maybe it is worth a try. 
+
 “You know what, I think I will. Thank you! I have to get back before the bookstore 
 closes!” I shout on my way out the door. What a day this is shaping up to be. Am I really 
 doing this? Now? After so many months of not even daring to imagine? I step off the 
@@ -133,12 +145,15 @@ little, I’ll lose my resolve.
 tracks. My heart is pounding. My words tumble out of their own accord, fast and 
 nervous and barely intelligible. “I was wondering, if you, um, wanted to go to a Stellar 
 Night Barbecue with me tonight. I think it could be fun, there’ll be good food-” 
+
 “As, like, a date?” She asks, her eyebrows raised. 
 
 Time slows down. I can feel the blood rushing in my head. I have a decision to make. 
 “Yes, as a date.” I say, slowly and with conviction. Courage is not the absence of fear, but 
 the fortitude to continue on despite it, I remind myself. I can endure this moment of 
-silence. And then she grins, and says “Yes, I would love to! It’s my favorite holiday!” I 
+silence. 
+
+And then she grins, and says “Yes, I would love to! It’s my favorite holiday!” I 
 can’t quite believe it, at first. I give her the address, we agree on a time to meet, and oh 
 my god this is really happening. 
 
