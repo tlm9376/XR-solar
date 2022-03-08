@@ -19,7 +19,7 @@ Cora and Rosa caught me in the garden. They rode their bikes under the arched pa
 
 “Hi grandpa!” Rosa yelled as she raced past the Olive guild and the perfumed Loquats. 
 
- “Happy birthday my sweet child!” 
+“Happy birthday my sweet child!” 
 
 She laid her bike down, hopped a garden bed and smothered me. 
 

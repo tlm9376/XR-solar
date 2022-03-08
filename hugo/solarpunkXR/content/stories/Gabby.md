@@ -15,11 +15,11 @@ textBackgroundColor: jagged-ice
 
 Gabby nearly knocked her mother over as she rushed through the kitchen and out the front door. Outside, she paused to look over the horizon. Her home, like all the homes in Bahía del Paraíso, sat high in the air; protected from the floods that were a regular part of life in their small coastal community. From her perch, she could easily see all the way to the bay. In the early morning sunlight, the mangroves along the water’s edge glowed as if they were on fire. Beyond them, the crystal-clear blue water sparkled.
 
-There had been a storm the night before. Not a very big one. The kind that Pipo dismissed as nothing more than a pequeño mosquito before going back to playing dominos with Uncle Eduardo. But even minor storms could leave behind unexpected treasures, so it was definitely worth checking out.
+There had been a storm the night before. Not a very big one. The kind that Pipo dismissed as nothing more than a *pequeño mosquito* before going back to playing dominos with Uncle Eduardo. But even minor storms could leave behind unexpected treasures, so it was definitely worth checking out.
 
 She skipped along the boardwalk that connected all the houses in the village. Gabby’s Tía Maria, the community’s designer, had adamantly opposed the flying walkways. She argued that “flimsy bridges” would completely compromise the integrity of her carefully planned resilient design.
 
-Everyone understood the importance of strong homes, but these were practical people. They argued that it made no sense to climb down forty-five steps and then right back up just to visit the next-door neighbor. What about the old people, they had cried?  Or the mothers with little children?
+Everyone understood the importance of strong homes, but these were practical people. They argued that it made no sense to climb down forty-five steps and then right back up just to visit the next-door neighbor. *What about the old people?* they had cried.  *Or the mothers with little children?*
 
 Tía Maria finally gave in, but only after they had come up with a design that made it possible to detach the bridges whenever a hurricane approached. Gabby loved the bridges. Scampering from house to house made her feel like a creature living high in the trees of an exotic jungle.
 
@@ -29,7 +29,7 @@ Her partner in those adventures was Danh. Even though they were the same age, sh
 
 Standing on the deck that surrounded Danh’s house, she peered inside his open bedroom window and called out quietly, “Danh, you awake?”
 
-“’Bout time, em gái,” his booming response came from behind.
+“’Bout time, *em gái*,” his booming response came from behind.
 
 Startled, she spun around to see Danh, floating on his hoverboard, just above her head. 
 “Jerk,” she said, and swatted playfully at him.
@@ -56,7 +56,7 @@ When they finally reached the beach, Gabby dropped to the sand, out of breath. D
 
 That was life as a storm pirate. Most of the time you only found little odds and ends, usually from the homes destroyed when the old barrier islands disappeared. Sometimes you got lucky and scored major treasure. Earlier in the summer, after a particularly big storm, they had discovered an ancient-looking log floating just offshore. Gabby’s mother told them it looked like part of a Bodhi tree that might have been carried by the storm all the way from the Ivory Coast of Africa.
 
-They had debated long and hard before deciding what to do with their newfound treasure. It was a point of pride among the community to reuse everything, even trash blown in by the storms. The village Remakers, repurposed the found objects into works of art, benches, and even playground structures that dotted the village.
+They had debated long and hard before deciding what to do with their newfound treasure. It was a point of pride among the community to reuse everything, even trash blown in by the storms. The village Remakers repurposed the found objects into works of art, benches, and even playground structures that dotted the village.
 
 Danh had imagined the log would make an impressive totem pole, but Gabby argued for something useful. In the end, they had compromised. With the help of Danh’s dad, the best carver in the village, they turned the log into a bench with an intricately detailed scene telling the story of the Bodhi tree. 
 
@@ -71,7 +71,8 @@ Gabby laughed. “I warned you about asking Tía Maria to be your mentor. Once s
 Danh pulled a handful of leaves off the bamboo growing next to the bench. He began weaving them together as they talked. “No poop shall go unscooped.” 
 
 “Eh, gross,” Gabby hit Danh’s knee with hers. “Now you’re just trying to be disgusting.”
-Danh finished twisting the leaves together and held up an intricately woven bamboo ring. He handed it to Gabby and said, “All part of the great circle of life, em gái.”
+
+Danh finished twisting the leaves together and held up an intricately woven bamboo ring. He handed it to Gabby and said, “All part of the great circle of life, *em gái*.”
 
 She took it from him and just stared at it. What was this supposed to mean? Was Danh giving her a ring? Or was it just another one of his goofy jokes?
 
@@ -89,27 +90,30 @@ Seafood was just one of the community’s agricultural bounties. There were box 
 
 “For sure,” Danh exclaimed. “I mean, if it’s cool with you and all.”
 
-Gabby tried to respond nonchalantly. “Whatever, it’s nice to have somebody my age around, you know. They may even make ropa vieja. It’s Pipo’s favorite and Mom said she knew you liked it.”
+Gabby tried to respond nonchalantly. “Whatever, it’s nice to have somebody my age around, you know. They may even make *ropa vieja*. It’s Pipo’s favorite and Mom said she knew you liked it.”
 
 “With real beef? Last time your mom made that, I pigged out. Kinda surprised she’d invite me back.”
 
 “Oh, she thinks you’re special.” Gabby smiled.
 
 In fact, Sophia and Tía Maria had taken to referring to Danh as Gabby’s “special friend.” Gabby wasn’t sure how she felt about that. Oh, she knew their relationship was way different, but that didn’t mean she wanted her mother to be broadcasting it to everyone.
+
 They spent the next few minutes sitting in silence, something they often did. At first these pauses had felt awkward, but lately Gabby had realized that they were special moments—sharing the natural beauty of this place they were so lucky to call home.
+
 Pipo, out for his morning walk, interrupted their reverie. He rarely missed a day and always wore the same outfit—a perfectly pressed guayabera shirt, linen slacks, and his trademark Panama hat. He stopped when he saw them.
 
 “Why are you niños not in school?” he demanded.
 
 Gabby blushed and tried to explain to him, for the hundredth time, that it was not like the old days when sitting in a classroom was the only place you could learn. 
 
-When she had finally finished her explanation, Pipo shook his head in bewilderment. “Come walk with me, nieta.”
+When she had finally finished her explanation, Pipo shook his head in bewilderment. “Come walk with me, *nieta*.”
 
 Gabby gave Danh a quick look and got up. “So, see you Friday, here in the park.”
 
 “It’s a date,” he replied, hopping off the bench. When he realized what he had said, he stammered quickly, “Gotta fly. Got poop to scoop.” With that, he jumped on the hoverboard and zipped off.
 
-She watched him disappear. A voice in her head was shrieking: A date? Is that really what he had said? She wasn’t sure if she was scared, excited, or both. She was so distracted that she didn’t even notice that Pipo had continued his walk without her.
+She watched him disappear. A voice in her head was shrieking: *A date? Is that really what he had said?* She wasn’t sure if she was scared, excited, or both. She was so distracted that she didn’t even notice that Pipo had continued his walk without her.
+
 She ran to catch up and took his hand as they walked toward the shore. Pipo began to reminisce. Walking with one of his grandchildren and telling them stories of the past was his favorite thing to do. Gabby was frequently his audience, and she had heard most of his stories many times.
 
 “You know, Gabriela, we used to live right here on this very spot. Our home wasn’t fancy, but it had been in our family for seven generations, ever since our people first came here to fish. 
@@ -123,6 +127,7 @@ Over the years, life after the storms had developed into a predictable pattern. 
 That’s when Tía Maria came home. She had been working up north as an urban planner. Under her leadership, a group of homeowners approached the city with a bold plan. In exchange for assistance in building new homes, the citizens would turn over their land along the shore. Everyone agreed that the old ways weren’t going to work anymore, especially as the sea levels continued to rise and the warmer ocean waters spawned more violent storms.
 
 After months of negotiations, the officials learned what Gabby’s family had long known; you don’t argue with Tía Maria. And that was how Bahía del Paraíso was born.
+
 In exchange for the coastline property, the city gave the residents vacant farmland next to the former village. The land—long ago over-farmed and abandoned—was considered worthless. But when Tía Maria got her hands on it, she got to work building a world class resilient village.
 
 In just five years, the community reached their goal of having a zero-carbon footprint. In fact, they had a net positive effect on the environment. Those improvements meant that the residents were healthier and happier.
