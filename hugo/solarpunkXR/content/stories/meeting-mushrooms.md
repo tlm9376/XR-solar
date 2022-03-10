@@ -66,8 +66,8 @@ As high as the Heisenberg Memorial Control centre reached, the Giant Mushroom re
 
 Three quarters of the way up the supporting stalk of the Giant Mushroom bulged outwards. This, Lisa understood from her brief reading on the subject, was the Ring, and was a leftover from the initial growth phase of the mushroom. Down the stem of the mushroom there were many “windows”, similar to the manner of an office building; though these were not windows of glass but places where the skin of the mushroom had been rendered transparent. Because there were people working inside this mushroom, just as people would work inside an office. 
 
-	This was the location where Lisa was going to have her meeting. 
-	She was meeting with the owner of the building, who was in fact the building.
+This was the location where Lisa was going to have her meeting. 
+She was meeting with the owner of the building, who was in fact the building.
 She was going inside the building to meet with the building. 
 She was going to consult on fungal matters with a fungus in a fungus. 
 She was - 

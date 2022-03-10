@@ -625,6 +625,10 @@ p {
   justify-items: end;
 
 }
+.artSubheading{
+
+  padding: 10px 60px
+}
 
 banner {
   width:  3%;

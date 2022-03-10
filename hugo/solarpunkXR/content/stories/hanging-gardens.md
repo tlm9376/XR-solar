@@ -124,7 +124,7 @@ We stopped at a small gate with an elderly attendant waiting there.
 
 We nodded obediently and excitedly, like we were small kids again. Up ahead, the footpath, no more than some treaded-down grass, meandered through the small hills of the animal enclosure. This part of the Gardens spread far back, covering the plateau and further downhill behind the high front walls of plants.
 
-	As far as we could tell, we could only wander around the front. At the front, curiously eyeing us were dozens of hip-height goats. They were long- and short-haired, speckled and spotted in every color a goat could be. Behind the goats were rabbits dotting the lush ground. A small herding dog came up and sniffed at our ankles before turning around and sprinting off, bursting through the line of goats. I could hear the bubbling chirps of chickens to my left. On my right, I saw a shaded brook with a branch of the footpath leading to its bank. Walking up toward the bank, I saw a little city of white box towers. 
+As far as we could tell, we could only wander around the front. At the front, curiously eyeing us were dozens of hip-height goats. They were long- and short-haired, speckled and spotted in every color a goat could be. Behind the goats were rabbits dotting the lush ground. A small herding dog came up and sniffed at our ankles before turning around and sprinting off, bursting through the line of goats. I could hear the bubbling chirps of chickens to my left. On my right, I saw a shaded brook with a branch of the footpath leading to its bank. Walking up toward the bank, I saw a little city of white box towers. 
 
 
 “Bees, Kit!” I cheered. 
