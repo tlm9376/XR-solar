@@ -36,9 +36,9 @@ Max has already opened up shop by the time I arrive. “Joss, late again. What a
 He rolls his eyes and makes a gesture of frustration with his laser fabric cutter.
 
  “I know, 
-I’m really sorry Max. Honest to god I tried. Ijust-” 
+I’m really sorry Max. Honest to god I tried. I just-” 
 
-“Oh, spare me the spiel. It’s fine. Just to get to work, we have a lot of orders to fill by this 
+“Oh, spare me the spiel. It’s fine. Just get back to work, we have a lot of orders to fill by this 
 evening. Everyone wants an outfit for Stellar Night.” 
 
 I start constructing some blouses according to the patterns projected on the screen, and 
@@ -98,7 +98,7 @@ once a week it gets horribly stuck on a piece of fabric and grinds to halt. Gett
 machine unstuck is slow, delicate work, even more so because Max is insistent that we 
 manage to recover the offending scrap of velvet or cotton or polyester or whatever it is 
 without tearing it. He’s stingy that way. But even such an annoying job can’t wipe the 
-smile off my face today. As I work, replay my conversation with Nora over and over 
+smile off my face today. As I work, I replay my conversation with Nora over and over 
 again in my head. 
 
 The rest of the afternoon passes by in a rush of deliveries and customers. I close up shop 
