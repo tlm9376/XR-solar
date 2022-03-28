@@ -381,6 +381,7 @@ h9 {
 
 p {
     font-size: var(--font-size-xxs);
+
   }
 
 
@@ -626,8 +627,8 @@ p {
 
 }
 .artSubheading{
-
-  padding: 10px 60px
+  padding: 10px 60px;
+  color: #fff;
 }
 
 banner {
@@ -655,6 +656,11 @@ banner a{
 
 }
 
+
+.storyCaption {
+  text-align: center;
+
+}
 
 @media screen and (min-width: 1980px) {
   .logo{ 
@@ -786,21 +792,20 @@ banner a{
 .artContainer {
   grid-template-columns: 1fr !important;
   width: 90%;
- 
 }
 .floatingVillageContainer {
   width: 90%;
-  color: white
- margin-left: 15vh
+  color: white;
+  margin-left: 15vh;
 }
+
+
 banner {
   width:  30px;
-
   font-size: 17px;
 }
 
 
-}
 
 @media (max-width: 670px) {
   .column {

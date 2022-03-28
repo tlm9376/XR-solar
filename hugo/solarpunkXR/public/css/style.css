@@ -18,7 +18,7 @@
 }
 
 :root { 
-    /* #0893DD      #2B90EE/#FEF1BE */
+  /* #0893DD      #2B90EE/#FEF1BE */
     --apple: #13aa38;
     --aths-special: #e7edcd;
     --azure: #3760aa;
@@ -40,7 +40,7 @@
     --goldenrod: #feeaac;
     --hopbush: #cf6297;
     --hopbush-2: #7d0202;
-    --hopbush-3: #ff8bc3;
+    --hopbush-3: #5888EE;
     --jagged-ice: #c5e6f2;
     --jordy-blue: #81acf8;
     --lightning-yellow: #ffc11d;
@@ -61,6 +61,7 @@
     --vivid-violet: #975c9b;
     --white: #ffffff;
     --yellow-green: #bed276;
+   
     /* --font-size-l: 70px;
     --font-size-m: 39px;
     --font-size-s: 35px;
@@ -351,28 +352,36 @@ h6 {
 
 }
 h7 {
-  text-align: right;
-  font-size: 19px;
-  font-style: italic;
-}
-.artSubheading {
-  margin-left:40%;
-  margin-bottom:3%; 
-  text-align: right;
-  font-size: 19px;
-  font-style: italic;
-}
-.storyCaption {
-  text-align: center;
-  font-size: 19px;
-}
 
-h9 {
+  text-align: right;
+  
   font-size: 19px;
+
+  font-style: italic;
+
+}
+h8 {
+
+  margin-left:40%;
+  
+  font-size: 19px;
+
+  font-style: italic;
+
+}
+h9 {
+
+  
+  
+  font-size: 19px;
+
+;
+
 }
 
 p {
     font-size: var(--font-size-xxs);
+
   }
 
 
@@ -604,25 +613,7 @@ p {
 .artContainer img{
   max-width:100%;
   padding-top:0px;
-  /* padding-bottom:30px; */
-  display:block; margin-bottom:10px;
-}
-
-.caption{
-  font-size: 16px;
-  padding: 2vh;
-  color: white;
-
-  margin:0;
-  padding:0;
-  
-
-
-}
-.artCaption {
-  padding: 2vh;
-  color: white;
-  justify-items: end;
+  padding-bottom:30px;
 }
 
 .artContainer {
@@ -635,13 +626,9 @@ p {
   justify-items: end;
 
 }
-.floatingVillageContainer {
-  padding: 2vh;
-  color: white;
-}
-
-.floatingVillageContainer img{
-  width: 100%;
+.artSubheading{
+  padding: 10px 60px;
+  color: #fff;
 }
 
 banner {
@@ -669,6 +656,11 @@ banner a{
 
 }
 
+
+.storyCaption {
+  text-align: center;
+
+}
 
 @media screen and (min-width: 1980px) {
   .logo{ 
@@ -794,34 +786,26 @@ banner a{
 .artContainer img{
   max-width:100%;
   margin-top:-50px;
-  /* margin-bottom: 50px; */
+  margin-bottom: 50px;
 }
-
-
 
 .artContainer {
   grid-template-columns: 1fr !important;
   width: 90%;
 }
-.artSubheading {
-  margin-left:0%; 
-  text-align: right;
-  font-size: 19px;
-  font-style: italic;
-}
-.floatingVillage {
+.floatingVillageContainer {
   width: 90%;
-  color: white
- margin-left: 15vh
+  color: white;
+  margin-left: 15vh;
 }
+
+
 banner {
   width:  30px;
-
   font-size: 17px;
 }
 
 
-}
 
 @media (max-width: 670px) {
   .column {
