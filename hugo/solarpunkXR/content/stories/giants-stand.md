@@ -3,9 +3,9 @@ layout: "story"
 menu: story
 title: Where Giants Will Stand
 author: by Spencer R. Scott. California, U.S.A.
-image: "/images/rectangle-43-19@1x.png"
+image: "/images/Where-giants.jpeg"
 imageType: pencil
-imageCredit: 
+imageCredit: Illustration by Nico Lob.
 backgroundColor: picton-blue
 titleColor: mandy
 ellipse: "/images/jagged-ice-ellipse.svg"

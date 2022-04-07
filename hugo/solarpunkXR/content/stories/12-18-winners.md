@@ -5,8 +5,9 @@ title: WINNERS 12 - 18
 comments: false
 image: "/images/butterfly.png"
 ellipse: "/images/jordy-blue-ellipse-2.png"
-ellipsexpos: 30vh 
-ellipseypos: -90vh
+ellipsexpos: 4vh
+ellipseypos: -10vh
+
 backgroundColor: azure
 titleColor: banana-mania
 ---

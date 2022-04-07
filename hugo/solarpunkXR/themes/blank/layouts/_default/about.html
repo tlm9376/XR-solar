@@ -22,6 +22,7 @@
 			background-image: url({{ .Params.ellipse }});
 			background-repeat: no-repeat;
 			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
+			background-scale: var(--{{ .Params.scale }} )
 		}
 
 		a {

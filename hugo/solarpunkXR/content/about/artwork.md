@@ -5,6 +5,6 @@ title: About the Artwork
 comments: false
 image: "/images/showcasevine.png"
 ellipse: "/images/nikunj-artist-page.png"
-backgroundColor: cape-cod
+backgroundColor: dove-gray
 titleColor: jagged-ice
 ---
