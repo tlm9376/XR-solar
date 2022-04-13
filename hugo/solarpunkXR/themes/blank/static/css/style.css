@@ -19,7 +19,7 @@
 
 :root { 
   /* #0893DD      #2B90EE/#FEF1BE */
-    --apple: #13aa38;
+    --apple: #b23500;
     --theresa: #ccc;
     --aths-special: #e7edcd;
     --azure: #3760aa;
@@ -198,12 +198,18 @@ main {
 
 .logo{ 
     position:absolute; 
-    top:4px; 
-    right:3%; 
-    width:12%;
+    top:2%; 
+    right:3.5%; 
+    width:29%;
 
   } 
+  .logo{
 
+  size-adjust: 200%;
+  
+   
+  }
+  
 .pencil{ 
     width:60%;
     display: block;
@@ -463,6 +469,7 @@ p {
 .column {
   float: left;
   width: 50%;
+  top: 50%;
 }
 
 /* Clear floats after the columns */
@@ -631,14 +638,14 @@ p {
   grid-template-columns: 1fr 1fr;
   gap: 10vh 5vh; 
   padding: 2vh;
-  color: white;
+  color: rgb(0, 0, 0);
   justify-items: end;
 
 }
 .artSubheading{
   padding: 10px 60px;
   font-size: 23px;
-  color: #fff;
+  color: rgb(9, 9, 9);
 }
 
 banner {
@@ -666,13 +673,6 @@ banner a{
 
 }
 
-.logo{
-  padding: 30px 100px;
-  max-width: 100%;
-        max-height: 100%;
-
- 
-}
 
 
 .storyCaption {

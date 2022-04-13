@@ -30,3 +30,7 @@ by Rebekah Neuberger</p>
 
 <p><a class=storylink href="/stories/meeting-mushrooms">Meeting at the Giant Mushroom</a><br>
 by Jeremy Parker</p>
+
+
+<p><a class=storylink href="/stories/sooty">Sooty</a><br>
+by by Luke Lanyon-Hog</p>
