@@ -198,20 +198,16 @@ main {
 
 .logo{ 
     position:absolute; 
-    top:2%; 
+    top:4px; 
     right:3.5%; 
-    width:29%;
-
+    width:12%;
   } 
-  .logo{
 
-  size-adjust: 200%;
-  
-   
-  }
   
 .pencil{ 
-    width:60%;
+  width:60%;
+
+    height:auto;
     display: block;
     margin-left: auto;
     margin-right: auto; 
@@ -226,6 +222,7 @@ main {
 .front-page-img{
     position:relative; 
     padding-left:3vw;
+    margin-top: 10px;
 
     width:80%;
 
@@ -332,14 +329,14 @@ h3 {
   font-family: var(--font-family-fucxedcaps-regular);
   font-size: var(--font-size-s);
   color: var(--tango)
-
+ 
 
 }
 
 h4{
   font-family: var(--font-family-fucxedcaps-regular);
   font-size: var(--font-size-xl);
-  margin-top: -20px;
+  margin-top: -55px;
   line-height: 1.1;
 }
 
@@ -394,10 +391,25 @@ h11{
   font-size: 16px;
   color: var(--white)
 }
+
+
+
+
 p {
     font-size: var(--font-size-xxs);
 
   }
+
+  p2 {
+    font-size: 20px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+  }
+
 
 
 
@@ -680,17 +692,20 @@ banner a{
 
 }
 
+
 @media screen and (min-width: 1980px) {
   .logo{ 
     width:200px;
   } 
 }
 
+
+/* ////////////////////////////////////////////////////////////////////800px */
 @media (max-width: 800px) {
   body {
     width: calc(100% - 10px);
   }
-  
+
 
   .topnav a {
     font-size: 16px;
@@ -718,10 +733,6 @@ banner a{
     margin-top: -37px;
 
   }
-  .pencil img{ 
-    display: none;
-  }
-
 
   .judgesContainer {  
 
@@ -802,7 +813,7 @@ banner a{
 }
 
 .artContainer img{
-  max-width:100%;
+  max-width:60px;
   margin-top:-50px;
   margin-bottom: 50px;
 }
@@ -814,7 +825,7 @@ banner a{
 .floatingVillageContainer {
   width: 90%;
   color: white;
-  margin-left: 15vh;
+  margin-left: 40vh;
 }
 
 
@@ -822,9 +833,9 @@ banner {
   width:  30px;
   font-size: 17px;
 }
+}
 
-
-
+/* ////////////////////////////////////////////////////////////////////670px */
 @media (max-width: 670px) {
   .column {
     width: 95%;
@@ -835,5 +846,3 @@ banner {
     width:18%;
 
   } 
-
-}

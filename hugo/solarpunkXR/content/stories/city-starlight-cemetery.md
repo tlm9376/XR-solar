@@ -3,7 +3,7 @@ layout: "story"
 menu: story
 title: City Starlight & The Cemetery
 author: Katrina Eilender. New Jersey, United States.
-image: "/images/rectangle-43-19@1x.png"
+image: "/images/CityStarlight.jpg"
 imageType: pencil
 backgroundColor: azure
 titleColor: banana-mania
@@ -11,7 +11,7 @@ ellipse: "/images/jordy-blue-ellipse-1.svg"
 ellipseYPos: -4%
 textBackgroundColor: jordy-blue
 ---
-### City Starlight 
+**City Starlight**
 
 I can feel the anxiety radiating through me as I paddle the kayak with slow, wide motions. What am I anxious about, you ask? Nothing in particular. That’s what is so 
 frustrating about it- I feel it all the time, even on perfectly nice, ordinary days. I take a 
@@ -193,9 +193,7 @@ wants to see the spectacle that is about to unfold.
 
 A city is such an amazing achievement, I marvel. So many different people and systems, 
 all working together in concert, to create a city that supports millions of people without 
-harming nature. We’ve been through some horribly difficult, unjust times, and so have 
-our parents before that all the generations stretching back before them. But look 
-around. We’ve come out the other side. Not only did we survive, we built something 
+harming nature. We’ve been through some horribly difficult, unjust times, and so have our parents, and before that all the generations stretching back before them. But look around. We’ve come out the other side. Not only did we survive, we built something 
 beautiful. 
 
 And that’s when it starts. Lights flickering off, all over the city. The sky grows darker 
@@ -229,7 +227,7 @@ _______________________________________
 
 
 
-### The Cemetery 
+**The Cemetery**
 
 It’s already pouring by nine am, even though the forecast claimed it wouldn’t start until 
 3. The rain plunks onto the leaves above, then streams down in rivulets and drips from 
@@ -295,7 +293,7 @@ but generally grieving people don’t want a chatty guide. As much as he likes b
 it’s nice for other people to see, sometimes, why he loves this place so much. 
 
 They arrive at Richard and Claudia Davis’ tree. It’s a young cedar, more than a sapling 
-but barley. The soil it stretches its roots into was a parking lot only a few decades ago. 
+but barely. The soil it stretches its roots into was a parking lot only a few decades ago. 
 Mark runs his fingers over the bronze plaques sticking up from the ground and looks as 
 if he is about to cry. This is Kurt’s cue to disappear into the forest, leaving them alone 
 with their grief. 

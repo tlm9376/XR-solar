@@ -3,7 +3,8 @@ layout: "story"
 menu: story
 title: Gabby's First Kiss
 author: Joe Tankersley, Florida, United States.
-image: "/images/rectangle-43-19@1x.png"
+image: "/images/GabbysFirstKiss.jpeg"
+imageCredit: Illustration by Rita Fei
 imageType: pencil
 backgroundColor: picton-blue
 titleColor: mandy
