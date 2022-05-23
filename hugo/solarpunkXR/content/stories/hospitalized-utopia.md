@@ -2,7 +2,7 @@
 layout: "story"
 menu: story
 title: Hospitalized in Utopia
-author: by Caroline Anthus
+author: by Caroline Ailanthus
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: mandy

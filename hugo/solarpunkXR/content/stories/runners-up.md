@@ -11,7 +11,7 @@ backgroundColor: mandy
 titleColor: hopbush-2
 ---
 <p><a class=storylink href="/stories/hospitalized-utopia">Hospitalized in Utopia</a><br>
-by Caroline Anthus</p>
+by Caroline Ailanthus</p>
 
 <p><a class=storylink href="/stories/wall-flowers">Wall of Flowers</a><br>
 by Septimus Crowe </p>
