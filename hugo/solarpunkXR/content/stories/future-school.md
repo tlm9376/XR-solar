@@ -5,6 +5,7 @@ title: The Future School
 author: Liz Liu, age 10. Taipei, Taiwan.
 image: "/images/hal-hef-future-school.jpg"
 imageType: pencil
+altimage: lovely picture
 imageCredit: Illustration by Hal Hefner.
 backgroundColor: goldenrod
 ellipse: "/images/creme-ellipse-2.svg"

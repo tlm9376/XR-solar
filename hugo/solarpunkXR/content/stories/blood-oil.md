@@ -5,6 +5,7 @@ title: Blood Oil
 author: by Rebecca "Reb" Spring. Washington DC, United States.
 image: "/images/joao-blood-oil.jpg"
 imageType: pencil
+altimage: lovely picture
 imageCredit: Illustration by João Queiroz.
 backgroundColor: azure
 titleColor: banana-mania

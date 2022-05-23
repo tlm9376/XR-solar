@@ -5,12 +5,14 @@ title: The Happy Wolf
 author: by Mikhayel Malouf, age 6. London, England.
 image: "/images/goodwives-warriors.jpg" 
 imageType: pencil
+altimage: wolves
 imageCredit: Illustration by Good Wives and Warriors.
 backgroundColor: goldenrod
 ellipse: "/images/creme-ellipse-2.svg"
 ellipseypos: -5%
 titleColor: hopbush
 textBackgroundColor: peach-yellow
+
 
 ---
 My name is Axel. I like being a wolf because I have a lovely forest with Evergreen trees. Like Christmas trees. And it is very cold because I am in the Arctic. I like the Evergreen trees because they keep us healthy.

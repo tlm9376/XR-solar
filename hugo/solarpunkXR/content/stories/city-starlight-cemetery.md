@@ -5,6 +5,7 @@ title: City Starlight & The Cemetery
 author: Katrina Eilender. New Jersey, United States.
 image: "/images/CityStarlight.jpg"
 imageType: pencil
+altimage: lovely picture
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"

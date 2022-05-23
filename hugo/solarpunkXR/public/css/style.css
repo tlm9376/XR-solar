@@ -1,11 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700,400italic");
-/* @font-face {
-    font-family: "FUCXEDCAPS-Regular";
-    font-style: normal;
-    font-weight: 400;
-    src: url("../fonts/FUCXEDCAPS-v2.otf") format("opentype");
-} */
-
 
 
 @font-face {
@@ -14,12 +7,12 @@
        url('/fucxedcaps-v2-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 
 :root { 
   /* #0893DD      #2B90EE/#FEF1BE */
-    --apple: #13aa38;
+    --apple: #b23500;
+    --theresa: #ccc;
     --aths-special: #e7edcd;
     --azure: #3760aa;
     --banana-mania: #fce7ae;
@@ -35,7 +28,7 @@
     --festival: #fce86a;
     --festival-2: #FEF1BE;
     --festival-3: #feeaac;
-    --fuscous-gray: #525252;
+    --fuscous-gray: #b1b1b1;
     --glossy-grape: #b991bc;
     --goldenrod: #feeaac;
     --hopbush: #cf6297;
@@ -193,18 +186,21 @@ main {
 
 
 
+
   /* IMAGES */
 
 .logo{ 
     position:absolute; 
     top:4px; 
-    right:3%; 
+    right:3.5%; 
     width:12%;
-
   } 
 
+  
 .pencil{ 
-    width:60%;
+  width:60%;
+
+    height:auto;
     display: block;
     margin-left: auto;
     margin-right: auto; 
@@ -219,6 +215,7 @@ main {
 .front-page-img{
     position:relative; 
     padding-left:3vw;
+    margin-top: 10px;
 
     width:80%;
 
@@ -323,15 +320,16 @@ h2 {
 
 h3 {
   font-family: var(--font-family-fucxedcaps-regular);
-  font-size: var(--font-size-m);
-
+  font-size: var(--font-size-s);
+  color: var(--tango)
+ 
 
 }
 
 h4{
   font-family: var(--font-family-fucxedcaps-regular);
   font-size: var(--font-size-xl);
-  margin-top: -20px;
+  margin-top: -55px;
   line-height: 1.1;
 }
 
@@ -378,11 +376,33 @@ h9 {
 ;
 
 }
+h10{
+  font-size: 16px;
+  color: var(--white)
+}
+h11{
+  font-size: 16px;
+  color: var(--white)
+}
+
+
+
 
 p {
     font-size: var(--font-size-xxs);
 
   }
+
+  p2 {
+    font-size: 20px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+  }
+
 
 
 
@@ -454,6 +474,7 @@ p {
 .column {
   float: left;
   width: 50%;
+  top: 50%;
 }
 
 /* Clear floats after the columns */
@@ -622,14 +643,23 @@ p {
   grid-template-columns: 1fr 1fr;
   gap: 10vh 5vh; 
   padding: 2vh;
-  color: white;
+  color: rgb(0, 0, 0);
   justify-items: end;
 
 }
 .artSubheading{
   padding: 10px 60px;
-  color: #fff;
+  font-size: 23px;
+  color: rgb(9, 9, 9);
 }
+
+.floatingVillageContainer {
+  width: 90%;
+  color: white;
+  margin-left: 20px;
+}
+
+
 
 banner {
   width:  3%;
@@ -657,10 +687,12 @@ banner a{
 }
 
 
+
 .storyCaption {
   text-align: center;
 
 }
+
 
 @media screen and (min-width: 1980px) {
   .logo{ 
@@ -668,11 +700,13 @@ banner a{
   } 
 }
 
+
+/* ////////////////////////////////////////////////////////////////////800px */
 @media (max-width: 800px) {
   body {
     width: calc(100% - 10px);
   }
-  
+
 
   .topnav a {
     font-size: 16px;
@@ -700,10 +734,6 @@ banner a{
     margin-top: -37px;
 
   }
-  .pencil img{ 
-    display: none;
-  }
-
 
   .judgesContainer {  
 
@@ -784,7 +814,7 @@ banner a{
 }
 
 .artContainer img{
-  max-width:100%;
+  max-width:60px;
   margin-top:-50px;
   margin-bottom: 50px;
 }
@@ -793,11 +823,7 @@ banner a{
   grid-template-columns: 1fr !important;
   width: 90%;
 }
-.floatingVillageContainer {
-  width: 90%;
-  color: white;
-  margin-left: 15vh;
-}
+
 
 
 banner {
@@ -806,7 +832,7 @@ banner {
 }
 
 
-
+/* ////////////////////////////////////////////////////////////////////670px */
 @media (max-width: 670px) {
   .column {
     width: 95%;
@@ -817,5 +843,3 @@ banner {
     width:18%;
 
   } 
-
-}
