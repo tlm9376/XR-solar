@@ -41,7 +41,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL 'https://solarpunk-storytelling.github.io/'
+            --baseURL ${{ steps.pages.outputs.html_url }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
