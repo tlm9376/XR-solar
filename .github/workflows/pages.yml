@@ -40,8 +40,7 @@ jobs:
         working-directory: hugo/solarpunkXR
         run: |
           hugo \
-            --minify \
-            --baseURL ${{ steps.pages.outputs.base_url }}/XR-solar
+            --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
