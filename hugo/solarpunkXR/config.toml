@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://solarpunk-storytelling.github.io/XR-solar/'
 languageCode = 'en-us'
 title = 'XR Wordsmiths Solarpunk Storytelling Showcase'
 theme = "blank"
