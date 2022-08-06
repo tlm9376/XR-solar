@@ -167,7 +167,7 @@ We both took a look at the gates guarding the Hanging Gardens of Babylon. The po
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.org/home/</guid>
-      <description>XR Wordsmiths</description>
+      <description>OK</description>
     </item>
     
     <item>
@@ -190,7 +190,7 @@ by Rebekah Neuberger
 Meeting at the Giant Mushroom
 by Jeremy Parker
 Sooty
-by by Luke Lanyon-Hog</description>
+by Luke Lanyon-Hog</description>
     </item>
     
     <item>
@@ -267,6 +267,15 @@ Below in the depths, her family circled, noses touching tails, grandmothers of h
       
       <guid>https://example.org/stories/sooty/</guid>
       <description>If there was one word to describe the city it was small. Tiny compared to the Fuel Era cities. Or at least the ruins of them. In the centre were the towers and the bigger buildings, not too dissimilar to the old cities. Just smaller. Every building had either a wind turbine on it or tracking solar array. When viewed from a distance it looked like a collection of potted flowers.</description>
+    </item>
+    
+    <item>
+      <title>StoriesHome</title>
+      <link>https://example.org/stories-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/stories-home/</guid>
+      <description>XR Wordsmiths</description>
     </item>
     
     <item>

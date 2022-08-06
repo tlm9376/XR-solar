@@ -58,6 +58,8 @@
   </url><url>
     <loc>https://example.org/stories/</loc>
   </url><url>
+    <loc>https://example.org/stories-home/</loc>
+  </url><url>
     <loc>https://example.org/tags/</loc>
   </url><url>
     <loc>https://example.org/stories/future-school/</loc>
