@@ -33,4 +33,4 @@ by Jeremy Parker</p>
 
 
 <p><a class=storylink href="/stories/sooty">Sooty</a><br>
-by by Luke Lanyon-Hog</p>
+by Luke Lanyon-Hog</p>

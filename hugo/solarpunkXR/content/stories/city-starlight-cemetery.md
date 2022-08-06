@@ -3,9 +3,10 @@ layout: "story"
 menu: story
 title: City Starlight & The Cemetery
 author: Katrina Eilender. New Jersey, United States.
-image: "/images/CityStarlight.jpg"
+image: "/images/CityStarlight.png"
 imageType: pencil
 altimage: lovely picture
+imageCredit: Illustration by Rita Fei.
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"
